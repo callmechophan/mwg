@@ -1,0 +1,240 @@
+product_name,current_price,price,percent_discount,rating,link,brand_id,series,device
+MacBook Air 13 inch M1 2020 7-core GPU,18.390.000₫,22.990.000₫,-20%,155,https://www.thegioididong.com/laptop/apple-macbook-air-2020-mgn63saa,01,MacBook Air,Laptop
+MacBook Air 13 inch M2 2022 8-core GPU,27.590.000₫,32.990.000₫,-16%,54,https://www.thegioididong.com/laptop/apple-macbook-air-m2-2022,01,MacBook Air,Laptop
+MacBook Air 13 inch M2 2022 10-core GPU,39.490.000₫,46.990.000₫,-15%,10,https://www.thegioididong.com/laptop/apple-macbook-air-m2-2022-16gb,01,MacBook Air,Laptop
+MacBook Air 15 inch M2 2023 10-core GPU,37.990.000₫,,,,https://www.thegioididong.com/laptop/apple-macbook-air-15-inch-m2-2023,01,MacBook Air,Laptop
+MacBook Air 15 inch M2 2023 10-core GPU,37.990.000₫,,,,https://www.thegioididong.com/laptop/apple-macbook-air-m2-2023-16gb,01,MacBook Air,Laptop
+MacBook Air 15 inch M2 2023 10-core GPU,31.990.000₫,,,,https://www.thegioididong.com/laptop/apple-macbook-air-m2-2023,01,MacBook Air,Laptop
+MacBook Pro 13 inch M2 2022 10-core GPU,29.890.000₫,35.990.000₫,-16%,31,https://www.thegioididong.com/laptop/apple-macbook-pro-13-inch-m2-2022,01,MacBook Pro 13 inch,Laptop
+MacBook Pro 13 inch M2 2022 10-core GPU,38.390.000₫,45.990.000₫,-16%,17,https://www.thegioididong.com/laptop/apple-macbook-pro-m2-2022-16gb,01,MacBook Pro 13 inch,Laptop
+MacBook Pro 13 inch M1 2020 8-core GPU,34.990.000₫,42.690.000₫,-18%,41,https://www.thegioididong.com/laptop/apple-macbook-pro-2020-z11c,01,MacBook Pro 13 inch,Laptop
+MacBook Pro 13 inch M2 2022 10-core GPU,34.490.000₫,41.990.000₫,-17%,6,https://www.thegioididong.com/laptop/apple-macbook-pro-m2-2022,01,MacBook Pro 13 inch,Laptop
+MacBook Pro 16 inch M1 Pro 2021 16 core-GPU,39.990.000₫,58.490.000₫,-31%,17,https://www.thegioididong.com/laptop/apple-pro-16-m1-pro-2021-10-core-cpu,01,MacBook Pro 16 inch,Laptop
+MacBook Pro 16 inch M1 Pro 2021 16-core GPU,41.990.000₫,63.190.000₫,-33%,12,https://www.thegioididong.com/laptop/apple-macbook-pro-16-m1-pro-2021-10-core-cpu,01,MacBook Pro 16 inch,Laptop
+Asus Vivobook X415EA i3 1115G4 (EK2034W),9.790.000₫,11.490.000₫,-14%,25,https://www.thegioididong.com/laptop/asus-vivobook-x415ea-i3-ek2034w,02,VivoBook,Laptop
+Asus Vivobook 15 X1502ZA i5 1240P (EJ120W),14.990.000₫,18.490.000₫,-18%,73,https://www.thegioididong.com/laptop/asus-vivobook-15-x1502za-i5-ej120w,02,VivoBook,Laptop
+Asus VivoBook X515MA N4020 (BR480W),6.990.000₫,7.890.000₫,-11%,51,https://www.thegioididong.com/laptop/asus-vivobook-x515ma-n4020-br480w,02,VivoBook,Laptop
+Asus Vivobook 15 OLED A1505VA i5 13500H (L1052W),17.490.000₫,20.490.000₫,-14%,16,https://www.thegioididong.com/laptop/asus-vivobook-15-oled-a1505va-i5-l1052w,02,VivoBook,Laptop
+Asus Vivobook 14 X1402ZA i5 1240P (EK083W),14.490.000₫,18.490.000₫,-21%,32,https://www.thegioididong.com/laptop/asus-vivobook-14-x1402za-i5-ek083w,02,VivoBook,Laptop
+Asus Vivobook 14X OLED A1405ZA i5 12500H (KM146W),16.490.000₫,19.490.000₫,-15%,8,https://www.thegioididong.com/laptop/asus-vivobook-14x-oled-a1405za-i5-km146w,02,VivoBook,Laptop
+Asus Vivobook 15 X1504VA i5 1335U (NJ025W),15.990.000₫,17.990.000₫,-11%,6,https://www.thegioididong.com/laptop/asus-vivobook-15-x1504va-i5-nj025w,02,VivoBook,Laptop
+Asus Vivobook 15 X1502ZA i7 1260P (EJ582W),17.490.000₫,23.990.000₫,-27%,41,https://www.thegioididong.com/laptop/asus-vivobook-15-x1502za-i7-ej582w,02,VivoBook,Laptop
+Asus VivoBook X415EA i3 1115G4 (EK1386W),9.190.000₫,11.490.000₫,-20%,72,https://www.thegioididong.com/laptop/asus-vivobook-x415ea-i3-ek1386w,02,VivoBook,Laptop
+Asus Vivobook S 14 Flip TP3402VA i5 13500H (LZ031W),20.490.000₫,21.990.000₫,-6%,10,https://www.thegioididong.com/laptop/asus-vivobook-s-14-flip-tp3402va-i5-lz031w,02,VivoBook,Laptop
+Asus Vivobook 14 X1402ZA i3 1220P (EK249W),10.490.000₫,13.990.000₫,-25%,21,https://www.thegioididong.com/laptop/asus-vivobook-14-x1402za-i3-ek249w,02,VivoBook,Laptop
+Asus Vivobook 14X OLED S3405VA i9 13900H (KM071W),24.690.000₫,26.990.000₫,-8%,,https://www.thegioididong.com/laptop/asus-vivobook-14x-oled-s3405va-i9-km071w,02,VivoBook,Laptop
+Asus Vivobook S 14 Flip TP3402VA i9 13900H (LZ118W),24.490.000₫,26.490.000₫,-7%,,https://www.thegioididong.com/laptop/asus-vivobook-s-14-flip-tp3402va-i9-lz118w,02,VivoBook,Laptop
+Asus Vivobook 15 OLED A1505VA i9 13900H (L1201W),23.090.000₫,24.990.000₫,-7%,,https://www.thegioididong.com/laptop/asus-vivobook-15-oled-a1505va-i9-l1201w,02,VivoBook,Laptop
+Asus Vivobook 14X OLED S3405VA i5 13500H (KM072W),21.990.000₫,22.990.000₫,,,https://www.thegioididong.com/laptop/asus-vivobook-14x-oled-s3405va-i5-km072w,02,VivoBook,Laptop
+Asus Vivobook 15 X1504VA i7 1355U (NJ023W),19.490.000₫,22.990.000₫,-15%,5,https://www.thegioididong.com/laptop/asus-vivobook-15-x1504va-nj023w,02,VivoBook,Laptop
+Asus Vivobook 14X OLED A1403ZA i5 12500H (KM065W),16.690.000₫,21.490.000₫,-22%,46,https://www.thegioididong.com/laptop/asus-vivobook-14x-oled-a1403za-i5-km065w,02,VivoBook,Laptop
+Asus Vivobook S 14 Flip TP3402VA i3 1315U (LZ025W),16.190.000₫,16.990.000₫,,,https://www.thegioididong.com/laptop/asus-vivobook-s-14-flip-tp3402va-i3-lz025w,02,VivoBook,Laptop
+Asus Vivobook 14 X1404VA i5 1335U (NK123W),15.790.000₫,17.990.000₫,-12%,4,https://www.thegioididong.com/laptop/asus-vivobook-14-x1404va-i5-nk123w,02,VivoBook,Laptop
+Asus Vivobook 14 A1405VA i3 1315U (LY097W),13.990.000₫,14.990.000₫,-6%,5,https://www.thegioididong.com/laptop/asus-vivobook-14-a1405va-i3-ly097w,02,VivoBook,Laptop
+Asus Vivobook X515EA i3 1115G4 (EJ3948W),10.390.000₫,11.990.000₫,-13%,14,https://www.thegioididong.com/laptop/asus-vivobook-x515ea-i3-ej3948w,02,VivoBook,Laptop
+Asus Zenbook 14 OLED UX3402ZA i5 1240P (KM220W),20.990.000₫,26.990.000₫,-22%,26,https://www.thegioididong.com/laptop/asus-zenbook-14-oled-ux3402za-i5-km218w,02,ZenBook,Laptop
+Asus Zenbook 14 Flip OLED UP3404VA i7 1360P (KN039W),31.690.000₫,33.990.000₫,-6%,6,https://www.thegioididong.com/laptop/asus-zenbook-14-flip-oled-up3404va-i7-kn039w,02,ZenBook,Laptop
+Asus Zenbook S 13 OLED UX5304VA i7 1355U (NQ126W),46.490.000₫,49.990.000₫,-7%,,https://www.thegioididong.com/laptop/asus-zenbook-s-13-oled-ux5304va-i7-nq126w,02,ZenBook,Laptop
+Asus Zenbook S 13 OLED UX5304VA i7 1355U (NQ125W),37.990.000₫,39.990.000₫,-5%,,https://www.thegioididong.com/laptop/asus-zenbook-s-13-oled-ux5304va-i7-nq125w,02,ZenBook,Laptop
+Asus Zenbook 14 OLED UX3402VA i7 1360P (KM068W),31.990.000₫,,,,https://www.thegioididong.com/laptop/asus-zenbook-14-oled-ux3402va-i7-km068w,02,ZenBook,Laptop
+Asus Zenbook 14 Flip OLED UP3404VA i5 1340P (KN038W),27.990.000₫,29.990.000₫,-6%,,https://www.thegioididong.com/laptop/asus-zenbook-14-flip-oled-up3404va-i5-kn038w,02,ZenBook,Laptop
+Asus Zenbook 14 OLED UX3402ZA i7 1260P (KM221W),26.690.000₫,31.990.000₫,-16%,16,https://www.thegioididong.com/laptop/asus-zenbook-14-oled-ux3402za-i7-km221w,02,ZenBook,Laptop
+Asus Zenbook 14 OLED UX3402VA i5 1340P (KM085W),25.490.000₫,27.990.000₫,-8%,6,https://www.thegioididong.com/laptop/asus-zenbook-14-oled-ux3402va-i5-km085w,02,ZenBook,Laptop
+Asus TUF Gaming F15 FX506LHB i5 10300H (HN188W),15.490.000₫,20.990.000₫,-26%,144,https://www.thegioididong.com/laptop/asus-tuf-gaming-fx506lhb-i5-hn188w,02,TUF Gaming,Laptop
+Asus Gaming TUF Dash F15 FX517ZE i5 12450H (HN045W),21.990.000₫,29.990.000₫,-26%,23,https://www.thegioididong.com/laptop/asus-tuf-gaming-fx517ze-i5-hn045w,02,TUF Gaming,Laptop
+Asus Gaming TUF Dash F15 FX517ZC i5 12450H (HN077W),20.790.000₫,28.990.000₫,-28%,61,https://www.thegioididong.com/laptop/asus-tuf-gaming-fx517zc-i5-hn077w,02,TUF Gaming,Laptop
+Asus TUF Gaming F15 FX507VV4 i9 13900H (LP382W),39.990.000₫,42.990.000₫,-6%,,https://www.thegioididong.com/laptop/asus-tuf-gaming-f15-fx507vv4-i9-lp382w,02,TUF Gaming,Laptop
+Asus TUF Gaming F15 FX507ZU4 i7 12700H (LP520W),31.990.000₫,34.990.000₫,-8%,4,https://www.thegioididong.com/laptop/asus-tuf-gaming-f15-fx507zu4-i7-lp520w,02,TUF Gaming,Laptop
+Asus Gaming TUF Dash F15 FX517ZR i7 12650H (HN086W),30.990.000₫,42.990.000₫,-27%,,https://www.thegioididong.com/laptop/asus-tuf-gaming-fx517z-i7-hn086w,02,TUF Gaming,Laptop
+Asus TUF Gaming F15 FX507ZM i7 12700H (HN123W),29.990.000₫,41.990.000₫,-28%,4,https://www.thegioididong.com/laptop/asus-tuf-gaming-fx507z-i7-hn123w,02,TUF Gaming,Laptop
+Asus TUF Gaming F15 FX507ZC i7 12700H (HN124W),25.490.000₫,32.490.000₫,-21%,24,https://www.thegioididong.com/laptop/asus-tuf-gaming-fx507zc-i7-hn124w,02,TUF Gaming,Laptop
+Asus TUF Gaming F15 FX507ZE i7 12700H (HN093W),25.490.000₫,33.490.000₫,-23%,8,https://www.thegioididong.com/laptop/asus-tuf-gaming-fx507z-i7-hn093w,02,TUF Gaming,Laptop
+Asus TUF Gaming F15 FX507ZC4 i5 12500H (HN095W),22.990.000₫,27.990.000₫,-17%,,https://www.thegioididong.com/laptop/asus-tuf-gaming-f15-fx507zc4-i5-hn095w,02,TUF Gaming,Laptop
+Asus TUF Gaming F15 FX506HC i5 11400H (HN949W),21.990.000₫,24.990.000₫,-12%,,https://www.thegioididong.com/laptop/asus-tuf-gaming-f15-fx506hc-i5-hn949w,02,TUF Gaming,Laptop
+Asus TUF Gaming F15 FX506HC i5 11400H (HN144W),20.490.000₫,25.990.000₫,-21%,51,https://www.thegioididong.com/laptop/asus-tuf-gaming-fx506hc-i5-hn144w,02,TUF Gaming,Laptop
+Asus TUF Gaming F15 FX506HF i5 11400H (HN014W),18.990.000₫,21.990.000₫,-13%,,https://www.thegioididong.com/laptop/asus-tuf-gaming-f15-fx506hf-i5-hn014w,02,TUF Gaming,Laptop
+Asus Gaming ROG Strix G15 G513IH R7 4800H (HN015W),17.990.000₫,22.990.000₫,-21%,92,https://www.thegioididong.com/laptop/asus-rog-strix-gaming-g513ih-r7-hn015w,02,ROG,Laptop
+Asus Gaming ROG Strix SCAR 15 G533ZM i7 12700H (LN2210W),36.990.000₫,53.990.000₫,-31%,,https://www.thegioididong.com/laptop/asus-rog-strix-scar-15-g533z-i7-ln2210w,02,ROG,Laptop
+Asus Gaming ROG Strix SCAR 18 G834JY i9 13980HX (N6039W),118.000.000₫,125.000.000₫,-5%,,https://www.thegioididong.com/laptop/asus-gaming-rog-strix-scar-18-g834jy-i9-n6039w,02,ROG,Laptop
+Asus Gaming ROG Strix SCAR 17 G733PZ R9 7945HX (LL980W),84.500.000₫,90.000.000₫,-6%,,https://www.thegioididong.com/laptop/asus-gaming-rog-strix-scar-17-g733pz-r9-ll980w,02,ROG,Laptop
+Asus Gaming ROG Zephyrus M16 GU604VI i9 13900H (NM779W),75.990.000₫,80.990.000₫,-6%,,https://www.thegioididong.com/laptop/asus-gaming-rog-zephyrus-m16-gu604vi-i9-nm779w,02,ROG,Laptop
+Asus Gaming ROG Strix G16 G614JI i7 13650HX (N4084W),56.990.000₫,60.990.000₫,-6%,,https://www.thegioididong.com/laptop/asus-gaming-rog-strix-g16-g614ji-i7-n4084w,02,ROG,Laptop
+Asus Gaming ROG Flow Z13 GZ301VU i9 13900H (MU301W),54.190.000₫,57.990.000₫,-6%,,https://www.thegioididong.com/laptop/asus-gaming-rog-flow-z13-gz301vu-i9-mu301w,02,ROG,Laptop
+Asus Gaming ROG Strix G17 G713RW R9 6900HX (LL178W),46.990.000₫,67.990.000₫,-30%,,https://www.thegioididong.com/laptop/asus-gaming-rog-strix-g17-g713r-r9-ll178w,02,ROG,Laptop
+Asus Gaming ROG Strix G15 G513R R9 6900HX (HQ152W),41.990.000₫,62.990.000₫,-33%,,https://www.thegioididong.com/laptop/asus-gaming-rog-strix-g15-g513r-r9-hq152w,02,ROG,Laptop
+Asus Gaming ROG Zephyrus G16 GU603VU i7 13620H (N3898W),41.790.000₫,44.990.000₫,-7%,,https://www.thegioididong.com/laptop/asus-gaming-rog-zephyrus-g16-gu603vu-i7-n3898w,02,ROG,Laptop
+Asus Gaming ROG Strix G16 G614JU i7 13650HX (N3777W),40.790.000₫,43.990.000₫,-7%,,https://www.thegioididong.com/laptop/asus-gaming-rog-strix-g16-g614ju-i7-n3777w,02,ROG,Laptop
+Asus Gaming ROG Strix G16 G614JU i5 13450HX (N3135W),36.990.000₫,39.990.000₫,-7%,,https://www.thegioididong.com/laptop/asus-gaming-rog-strix-g16-g614ju-i5-n3135w,02,ROG,Laptop
+Asus Gaming ROG Strix G15 G513RM R7 6800H (HQ055W),31.990.000₫,47.990.000₫,-33%,,https://www.thegioididong.com/laptop/asus-rog-strix-gaming-g513rm-r7-hq055w,02,ROG,Laptop
+Asus Vivobook Pro 16 OLED K6602VV i9 13900H (MX077W),45.990.000₫,48.990.000₫,-6%,,https://www.thegioididong.com/laptop/asus-vivobook-pro-16-oled-k6602vv-i9-mx077w,02,VivoBook Pro OLED,Laptop
+Asus Vivobook Pro 15 OLED K6502VU i9 13900H (MA090W),38.990.000₫,41.990.000₫,-7%,,https://www.thegioididong.com/laptop/asus-vivobook-pro-15-oled-k6502vu-i9-ma090w,02,VivoBook Pro OLED,Laptop
+Asus Vivobook Pro 15 OLED K6502VU i5 13500H (MA089W),35.490.000₫,37.990.000₫,-6%,,https://www.thegioididong.com/laptop/asus-vivobook-pro-15-oled-k6502vu-i5-ma089w,02,VivoBook Pro OLED,Laptop
+Asus Vivobook Pro 15 OLED K6502Z i7 12650H (MA036W),26.990.000₫,33.990.000₫,-20%,10,https://www.thegioididong.com/laptop/asus-vivobook-pro-15-oled-k6502z-i7-ma036w,02,VivoBook Pro OLED,Laptop
+Asus Vivobook Pro 15 OLED K6502Z i5 12450H (MA025W),23.990.000₫,30.990.000₫,-22%,9,https://www.thegioididong.com/laptop/asus-vivobook-pro-15-k6502z-i5-ma025w,02,VivoBook Pro OLED,Laptop
+Asus ExpertBook B5402CB i5 1240P (KI0353W),19.990.000₫,26.990.000₫,-25%,11,https://www.thegioididong.com/laptop/asus-expertbook-b5402cb-i5-ki0353w,02,ExpertBook,Laptop
+HP Envy X360 13 bf0090TU i7 1250U (76B13PA),28.990.000₫,32.990.000₫,-12%,11,https://www.thegioididong.com/laptop/hp-envy-x360-13-bf0090tu-i7-76b13pa,03,Envy,Laptop
+HP Envy 16 h0205TX i9 12900H (7C0T2PA),58.990.000₫,65.390.000₫,-9%,,https://www.thegioididong.com/laptop/hp-envy-16-h0205tx-i9-7c0t2pa,03,Envy,Laptop
+HP Envy X360 13 bf0095TU i5 1230U (76B15PA),25.590.000₫,29.590.000₫,-13%,13,https://www.thegioididong.com/laptop/hp-envy-x360-13-bf0095tu-i5-76b15pa,03,Envy,Laptop
+HP Pavilion 15 eg2082TU i5 1240P (7C0Q5PA),16.990.000₫,19.790.000₫,-14%,33,https://www.thegioididong.com/laptop/hp-pavilion-15-eg2082tu-i5-7c0q5pa,03,Pavilion,Laptop
+HP Pavilion 14 dv2074TU i5 1235U (7C0P3PA),16.890.000₫,19.690.000₫,-14%,23,https://www.thegioididong.com/laptop/hp-pavilion-14-dv2074tu-i5-7c0p3pa,03,Pavilion,Laptop
+HP Pavilion X360 14 ek0134TU i5 1235U (7C0P8PA),18.590.000₫,21.890.000₫,-15%,27,https://www.thegioididong.com/laptop/hp-pavilion-x360-14-ek0134tu-i5-7c0p8pa,03,Pavilion,Laptop
+HP Pavilion 15 eg2035TX i5 1235U (6K781PA),18.090.000₫,20.590.000₫,-12%,34,https://www.thegioididong.com/laptop/hp-pavilion-15-eg2035tx-i5-6k781pa,03,Pavilion,Laptop
+HP Pavilion 15 eg2056TU i5 1240P (6K786PA),15.490.000₫,18.990.000₫,-18%,61,https://www.thegioididong.com/laptop/hp-pavilion-15-eg2056tu-i5-6k786pa,03,Pavilion,Laptop
+HP Pavilion 14 dv2033TU i5 1235U (6K769PA),15.490.000₫,18.990.000₫,-18%,34,https://www.thegioididong.com/laptop/hp-pavilion-14-dv2033tu-i5-6k769pa,03,Pavilion,Laptop
+HP Pavilion 15 eg2059TU i5 1240P (6K789PA),15.090.000₫,17.990.000₫,-16%,23,https://www.thegioididong.com/laptop/hp-pavilion-15-eg2059tu-i5-6k789pa,03,Pavilion,Laptop
+HP Pavilion X360 14 ek0132TU i7 1255U (7C0W4PA),23.990.000₫,26.990.000₫,-11%,11,https://www.thegioididong.com/laptop/hp-pavilion-x360-14-ek0132tu-i7-7c0w4pa,03,Pavilion,Laptop
+HP Pavilion 15 eg2088TU i7 1260P (7C0R0PA),22.790.000₫,25.290.000₫,-9%,12,https://www.thegioididong.com/laptop/hp-pavilion-15-eg2088tu-i7-7c0r0pa,03,Pavilion,Laptop
+HP Pavilion X360 14 ek1049TU i5 1335U (80R27PA),21.990.000₫,24.290.000₫,-9%,8,https://www.thegioididong.com/laptop/hp-pavilion-x360-14-ek1049tu-i5-80r27pa,03,Pavilion,Laptop
+HP Pavilion 15 eg2034TX i7 1255U (6K780PA),21.890.000₫,24.590.000₫,-10%,9,https://www.thegioididong.com/laptop/hp-pavilion-15-eg2034tx-i7-6k780pa,03,Pavilion,Laptop
+HP Pavilion 15 eg2066TU i7 1260P (6K7E2PA),21.190.000₫,24.190.000₫,-12%,9,https://www.thegioididong.com/laptop/hp-pavilion-15-eg2066tu-i7-6k7e2pa,03,Pavilion,Laptop
+HP Pavilion X360 14 ek1048TU i5 1335U (80R26PA),20.590.000₫,22.890.000₫,-10%,4,https://www.thegioididong.com/laptop/hp-pavilion-x360-14-ek1048tu-i5-80r26pa,03,Pavilion,Laptop
+HP Pavilion 15 eg2081TU i5 1240P (7C0Q4PA),18.590.000₫,20.990.000₫,-11%,,https://www.thegioididong.com/laptop/hp-pavilion-15-eg2081tu-i5-7c0q4pa,03,Pavilion,Laptop
+HP Pavilion 15 eg2062TX i5 1235U (7C0W7PA),18.090.000₫,20.590.000₫,-12%,,https://www.thegioididong.com/laptop/hp-pavilion-15-eg2062tx-i5-7c0w7pa,03,Pavilion,Laptop
+HP Pavilion 15 eg2036TX i5 1235U (6K782PA),17.790.000₫,20.590.000₫,-13%,15,https://www.thegioididong.com/laptop/hp-pavilion-15-eg2036tx-i5-6k782pa,03,Pavilion,Laptop
+HP Pavilion X360 14 dy0161TU i3 1125G4 (4Y1D2PA),16.790.000₫,,,25,https://www.thegioididong.com/laptop/hp-pavilion-x360-14-dy0161tu-i3-4y1d2pa,03,Pavilion,Laptop
+HP Pavilion 15 eg2085TU i5 1240P (7C0Q7PA),16.290.000₫,18.790.000₫,-13%,9,https://www.thegioididong.com/laptop/hp-pavilion-15-eg2085tu-i5-7c0q7pa,03,Pavilion,Laptop
+HP Pavilion X360 14 ek0059TU i3 1215U (6K7E1PA),14.490.000₫,16.590.000₫,-12%,10,https://www.thegioididong.com/laptop/hp-pavilion-x360-14-ek0059tu-i3-6k7e1pa,03,Pavilion,Laptop
+HP Pavilion X360 14 ek0131TU i3 1215U (7C0P6PA),14.490.000₫,16.590.000₫,-12%,,https://www.thegioididong.com/laptop/hp-pavilion-x360-14-ek0131tu-i3-7c0p6pa,03,Pavilion,Laptop
+HP Pavilion 15 eg2086TU i3 1215U (7C0Q8PA),12.790.000₫,15.290.000₫,-16%,13,https://www.thegioididong.com/laptop/hp-pavilion-15-eg2086tu-i3-7c0q8pa,03,Pavilion,Laptop
+HP Pavilion 15 eg2062TU i3 1215U (6K790PA),12.490.000₫,14.990.000₫,-16%,18,https://www.thegioididong.com/laptop/hp-pavilion-15-eg2062tu-i3-6k790pa,03,Pavilion,Laptop
+HP Probook 450 G9 i5 1235U (6M0Y9PA),18.990.000₫,21.290.000₫,-10%,11,https://www.thegioididong.com/laptop/hp-probook-450-g9-i5-6m0y9pa,03,ProBook,Laptop
+HP EliteBook 630 G9 i7 1255U (6M146PA),24.190.000₫,27.790.000₫,-12%,12,https://www.thegioididong.com/laptop/hp-elitebook-630-g9-i7-6m146pa,03,EliteBook,Laptop
+HP Elitebook Dragonfly G3 i7 1255U (6Z980PA),47.490.000₫,52.590.000₫,-9%,,https://www.thegioididong.com/laptop/hp-elitebook-dragonfly-g3-i7-6z980pa,03,EliteBook,Laptop
+HP Elitebook X360 1040 G9 i7 1255U (6Z982PA),45.090.000₫,49.990.000₫,-9%,,https://www.thegioididong.com/laptop/hp-elitebook-x360-1040-g9-i7-6z982pa,03,EliteBook,Laptop
+HP Elitebook 630 G9 i5 1235U (6M143PA),19.890.000₫,22.190.000₫,-10%,21,https://www.thegioididong.com/laptop/hp-elitebook-630-g9-i5-6m143pa,03,EliteBook,Laptop
+HP VICTUS 15 fa0155TX i5 12450H (81P00PA),20.990.000₫,27.990.000₫,-25%,4,https://www.thegioididong.com/laptop/hp-victus-15-fa0155tx-i5-81p00pa,03,Victus,Laptop
+HP Gaming VICTUS 15 fa0111TX i5 12500H (7C0R4PA),22.290.000₫,28.290.000₫,-21%,7,https://www.thegioididong.com/laptop/hp-victus-15-fa0111tx-i5-7c0r4pa,03,Victus,Laptop
+HP Gaming VICTUS 16 e1102AX R7 6800H (7C139PA),24.990.000₫,30.990.000₫,-19%,,https://www.thegioididong.com/laptop/hp-victus-16-e1102ax-r7-7c139pa,03,Victus,Laptop
+HP Omen 16 n0085AX R9 6900HX (7C144PA),56.690.000₫,62.890.000₫,-9%,,https://www.thegioididong.com/laptop/hp-omen-16-n0085ax-r9-7c144pa,03,Omen,Laptop
+HP Omen 16 n0087AX R7 6800H (7C0T7PA),45.790.000₫,50.890.000₫,-10%,,https://www.thegioididong.com/laptop/hp-omen-16-n0087ax-r7-7c0t7pa,03,Omen,Laptop
+HP 240 G8 i3 1115G4 (6L1A1PA),9.790.000₫,12.990.000₫,-24%,46,https://www.thegioididong.com/laptop/hp-240-g8-i3-6l1a1pa,03,"Cơ bản (15s, 240, 245)",Laptop
+HP 15s fq2716TU i3 1115G4 (7C0X3PA),10.490.000₫,13.690.000₫,-23%,62,https://www.thegioididong.com/laptop/hp-15s-fq2716tu-i3-7c0x3pa,03,"Cơ bản (15s, 240, 245)",Laptop
+HP 245 G9 R5 5625U (6L1N9PA),11.690.000₫,13.990.000₫,-16%,12,https://www.thegioididong.com/laptop/hp-245-g9-r5-6l1n9pa,03,"Cơ bản (15s, 240, 245)",Laptop
+HP 240 G9 i5 1235U (6L1Y1PA),14.990.000₫,17.590.000₫,-14%,23,https://www.thegioididong.com/laptop/hp-240-g9-i5-6l1y1pa,03,"Cơ bản (15s, 240, 245)",Laptop
+HP 15s fq5078TU i5 1235U (6K798PA),15.190.000₫,18.190.000₫,-16%,44,https://www.thegioididong.com/laptop/hp-15s-fq5078tu-i5-6k798pa,03,"Cơ bản (15s, 240, 245)",Laptop
+HP 15s fq5147TU i7 1255U (7C133PA),17.790.000₫,20.890.000₫,-14%,17,https://www.thegioididong.com/laptop/hp-15s-fq5147tu-i7-7c133pa,03,"Cơ bản (15s, 240, 245)",Laptop
+HP 15s fq5162TU i5 1235U (7C134PA),15.690.000₫,18.890.000₫,-16%,20,https://www.thegioididong.com/laptop/hp-15s-fq5162tu-i5-7c134pa,03,"Cơ bản (15s, 240, 245)",Laptop
+HP 240 G9 i5 1235U (6L1Y2PA),15.390.000₫,18.590.000₫,-17%,35,https://www.thegioididong.com/laptop/hp-240-g9-i5-6l1y2pa,03,"Cơ bản (15s, 240, 245)",Laptop
+HP 15s fq5077TU i7 1255U (6K797PA),16.790.000₫,20.290.000₫,-17%,39,https://www.thegioididong.com/laptop/hp-15s-fq5077tu-i7-6k797pa,03,"Cơ bản (15s, 240, 245)",Laptop
+Lenovo Ideapad 3 15IAU7 i3 1215U (82RK005LVN),9.990.000₫,13.890.000₫,-28%,56,https://www.thegioididong.com/laptop/lenovo-ideapad-3-15iau7-i3-82rk005lvn,04,IdeaPad,Laptop
+Lenovo IdeaPad 1 15AMN7 R5 7520U (82VG0061VN),9.490.000₫,12.690.000₫,-25%,42,https://www.thegioididong.com/laptop/lenovo-ideapad-1-15amn7-r5-82vg0061vn,04,IdeaPad,Laptop
+Lenovo Ideapad 3 15ITL6 i5 1155G7 (82H803CVVN),12.190.000₫,14.490.000₫,-15%,23,https://www.thegioididong.com/laptop/lenovo-ideapad-3-15itl6-i5-82h803cvvn,04,IdeaPad,Laptop
+Lenovo IdeaPad Slim 5 Light 14ABR8 R5 7530U (82XS002KVN),15.990.000₫,17.990.000₫,-11%,10,https://www.thegioididong.com/laptop/lenovo-ideapad-slim-5-light-14abr8-r5-82xs002kvn,04,IdeaPad,Laptop
+Lenovo Ideapad 3 15IAU7 i5 1235U (82RK001PVN),13.990.000₫,17.990.000₫,-22%,29,https://www.thegioididong.com/laptop/lenovo-ideapad-3-15iau7-i5-82rk001pvn,04,IdeaPad,Laptop
+Lenovo Ideapad 3 15IAU7 i3 1215U (82RK001MVN),10.390.000₫,14.690.000₫,-29%,32,https://www.thegioididong.com/laptop/lenovo-ideapad-3-15iau7-i3-82rk001mvn,04,IdeaPad,Laptop
+Lenovo Ideapad 5 15IAL7 i5 1235U (82SF005HVN),15.490.000₫,19.490.000₫,-20%,16,https://www.thegioididong.com/laptop/lenovo-ideapad-5-15ial7-i5-82sf005hvn,04,IdeaPad,Laptop
+Lenovo Ideapad 3 14ABA7 R5 5625U (82RM003WVN),10.490.000₫,14.890.000₫,-29%,9,https://www.thegioididong.com/laptop/lenovo-ideapad-3-14aba7-r5-82rm003wvn,04,IdeaPad,Laptop
+Lenovo Ideapad 5 14IAL7 i5 1235U (82SD0060VN),15.490.000₫,18.990.000₫,-18%,16,https://www.thegioididong.com/laptop/lenovo-ideapad-5-14ial7-i5-82sd0060vn,04,IdeaPad,Laptop
+Lenovo Ideapad 5 Pro 14IAP7 i5 1240P (82SH000SVN),18.990.000₫,24.990.000₫,-24%,16,https://www.thegioididong.com/laptop/lenovo-ideapad-5-pro-14iap7-i5-82sh000svn,04,IdeaPad,Laptop
+Lenovo Ideapad 5 Pro 14IAP7 i7 1260P (82SH002SVN),21.990.000₫,27.990.000₫,-21%,7,https://www.thegioididong.com/laptop/lenovo-ideapad-5-pro-14iap7-i7-82sh002svn,04,IdeaPad,Laptop
+Lenovo IdeaPad 3 15ITL6 i7 1165G7 (82H803CUVN),14.490.000₫,16.490.000₫,-12%,7,https://www.thegioididong.com/laptop/lenovo-ideapad-3-15itl6-i7-82h803cuvn,04,IdeaPad,Laptop
+Lenovo Ideapad 3 15ITL6 i5 1155G7 (82H803RRVN),14.490.000₫,,,,https://www.thegioididong.com/laptop/lenovo-ideapad-3-15itl6-i5-82h803rrvn,04,IdeaPad,Laptop
+Lenovo Ideapad 3 15ITL6 i3 1115G4 (82H803SGVN),10.490.000₫,,,,https://www.thegioididong.com/laptop/lenovo-ideapad-3-15itl6-i3-82h803sgvn,04,IdeaPad,Laptop
+Lenovo ThinkBook 14 G3 ACL R5 5500U (21A200R0VN),12.990.000₫,18.190.000₫,-28%,30,https://www.thegioididong.com/laptop/lenovo-thinkbook-14-g3-acl-r5-21a200r0vn,04,ThinkBook,Laptop
+Lenovo ThinkBook 14 G4 IAP i5 1240P (21DH00B5VN),18.690.000₫,23.690.000₫,-21%,,https://www.thegioididong.com/laptop/lenovo-thinkbook-14-g4-iap-i5-21dh00b5vn,04,ThinkBook,Laptop
+Lenovo ThinkBook 14 G3 ACL R3 5300U (21A200RWVN),9.490.000₫,,,,https://www.thegioididong.com/laptop/lenovo-thinkbook-14-g3-acl-r3-21a200rwvn,04,ThinkBook,Laptop
+Lenovo Ideapad Gaming 3 15IAH7 i5 12500H (82S9007TVN),17.990.000₫,26.990.000₫,-33%,33,https://www.thegioididong.com/laptop/lenovo-ideapad-gaming-3-15iah7-i5-82s9007tvn,04,IdeaPad Gaming,Laptop
+Lenovo Ideapad Gaming 3 15IHU6 i5 11320H (82K101F3VN),14.990.000₫,20.790.000₫,-27%,26,https://www.thegioididong.com/laptop/lenovo-ideapad-gaming-3-15ihu6-i5-82k101f3vn,04,IdeaPad Gaming,Laptop
+Lenovo Ideapad Gaming 3 15IAH7 i7 12700H (82S9007UVN),21.990.000₫,31.290.000₫,-29%,4,https://www.thegioididong.com/laptop/lenovo-ideapad-gaming-3-15iah7-i7-82s9007uvn,04,IdeaPad Gaming,Laptop
+Lenovo Legion 5 15IAH7 i5 12500H (82RC003WVN),23.490.000₫,35.490.000₫,-33%,9,https://www.thegioididong.com/laptop/lenovo-legion-5-15iah7-i5-82rc003wvn,04,Gaming Legion,Laptop
+Lenovo Yoga Duet 7 13ITL6 i7 1165G7 (82MA009PVN),32.490.000₫,36.490.000₫,-10%,,https://www.thegioididong.com/laptop/lenovo-yoga-duet-7-13itl6-i7-82ma009pvn,04,Yoga,Laptop
+Lenovo Yoga Slim 7 Carbon 13ITL5 i7 1165G7 (82EV00AWVN),29.740.000₫,34.990.000₫,-15%,8,https://www.thegioididong.com/laptop/lenovo-yoga-slim-7-carbon-13itl5-i7-82ev00awvn,04,Yoga,Laptop
+Lenovo Yoga Slim 7 Pro 14IAH7 i7 12700H (82UT006CVN),27.490.000₫,30.990.000₫,-11%,4,https://www.thegioididong.com/laptop/lenovo-yoga-slim-7-pro-14iah7-i7-82ut006cvn,04,Yoga,Laptop
+Lenovo Yoga 7 14IAL7 i5 1240P (82QE000RVN),26.340.000₫,30.990.000₫,-15%,10,https://www.thegioididong.com/laptop/lenovo-yoga-7-14ial7-i5-82qe000rvn,04,Yoga,Laptop
+Lenovo Yoga Duet 7 13ITL6 i5 1135G7 (82MA009NVN),24.990.000₫,28.490.000₫,-12%,,https://www.thegioididong.com/laptop/lenovo-yoga-duet-7-13itl6-i5-82ma009nvn,04,Yoga,Laptop
+Lenovo Yoga Slim 7 Carbon 13ITL5 i5 1135G7 (82EV00AVVN),24.640.000₫,28.990.000₫,-15%,6,https://www.thegioididong.com/laptop/lenovo-yoga-slim-7-carbon-13itl5-i5-82nh00avvn,04,Yoga,Laptop
+Lenovo ThinkPad X1 Carbon Gen 10 i7 1260P (21CB00A8VN),44.490.000₫,49.490.000₫,-10%,,https://www.thegioididong.com/laptop/lenovo-thinkpad-x1-carbon-gen-10-i7-21cb00a8vn,04,ThinkPad,Laptop
+Lenovo ThinkPad E15 Gen 4 i7 1260P (21E600CPVN),25.190.000₫,28.690.000₫,-12%,4,https://www.thegioididong.com/laptop/lenovo-thinkpad-e15-gen-4-i7-21e600cpvn,04,ThinkPad,Laptop
+Lenovo V15 G3 IAP i5 1235U (82TT0064VN),13.890.000₫,17.390.000₫,-20%,6,https://www.thegioididong.com/laptop/lenovo-v15-g3-iap-i5-82tt0064vn,04,V Series,Laptop
+Lenovo V14 G3 IAP i5 1235U (82TS005RVN),13.190.000₫,16.690.000₫,-20%,5,https://www.thegioididong.com/laptop/lenovo-v14-g3-iap-i5-82ts005rvn,04,V Series,Laptop
+Acer Nitro 5 Gaming AN515 45 R6EV R5 5600H (NH.QBMSV.006),16.990.000₫,22.490.000₫,-24%,128,https://www.thegioididong.com/laptop/acer-nitro-5-gaming-an515-45-r6ev-r5-nhqbmsv006,05,Nitro,Laptop
+Acer Nitro 5 Gaming AN515 57 5669 i5 11400H (NH.QEHSV.001),17.990.000₫,23.790.000₫,-24%,20,https://www.thegioididong.com/laptop/acer-nitro-5-gaming-an515-57-5669-i5-nhqehsv001,05,Nitro,Laptop
+Acer Nitro 5 Gaming AN515 57 553E i5 11400H (NH.QENSV.006),19.990.000₫,24.990.000₫,-20%,78,https://www.thegioididong.com/laptop/acer-nitro-5-gaming-an515-57-553e-i5-nhqensv006,05,Nitro,Laptop
+Acer Nitro 5 Tiger AN515 58 773Y i7 12700H (NH.QFKSV.001),27.490.000₫,31.990.000₫,-14%,24,https://www.thegioididong.com/laptop/acer-nitro-5-tiger-an515-58-773y-i7-nhqfksv001,05,Nitro,Laptop
+Acer Nitro 5 Tiger AN515 58 52SP i5 12500H (NH.QFHSV.001),22.990.000₫,27.990.000₫,-17%,15,https://www.thegioididong.com/laptop/acer-nitro-5-tiger-an515-58-52sp-i5-nhqfhsv001,05,Nitro,Laptop
+Acer Nitro 5 Gaming AN515 57 720A i7 11800H (NH.QEQSV.004),21.890.000₫,28.990.000₫,-24%,32,https://www.thegioididong.com/laptop/acer-nitro-5-gaming-an515-57-720a-i7-nhqeqsv004,05,Nitro,Laptop
+Acer Gaming Nitro 5 AN515 57 53F9 i5 11400H (NH.QENSV.008),19.990.000₫,24.990.000₫,-20%,6,https://www.thegioididong.com/laptop/acer-gaming-nitro-5-an515-57-53f9-i5-nhqensv008,05,Nitro,Laptop
+Acer Gaming Nitro 17 Phoenix AN17 51 50B9 i5 13500H (NH.QK5SV.001),35.490.000₫,,,,https://www.thegioididong.com/laptop/acer-nitro-17-phoenix-an17-51-50b9-i5-nhqk5sv001,05,Nitro,Laptop
+Acer Aspire 3 A315 57 379K i3 1005G1 (NX.KAGSV.001),7.990.000₫,8.490.000₫,-5%,35,https://www.thegioididong.com/laptop/acer-aspire-3-a315-57-379k-i3-nxkagsv001,05,Aspire,Laptop
+Acer Aspire 3 A315 58 54XF i5 1135G7 (NX.AM0SV.007),12.490.000₫,16.990.000₫,-26%,27,https://www.thegioididong.com/laptop/acer-aspire-3-a315-58-54xf-i5-nxam0sv007,05,Aspire,Laptop
+Acer Aspire 3 A315 58 589K i5 1135G7 (NX.AM0SV.008),11.490.000₫,13.990.000₫,-17%,13,https://www.thegioididong.com/laptop/acer-aspire-3-a315-58-589k-i5-nxam0sv008,05,Aspire,Laptop
+Acer Aspire 7 Gaming A715 42G R05G R5 5500U (NH.QAYSV.007),14.990.000₫,20.490.000₫,-26%,55,https://www.thegioididong.com/laptop/acer-aspire-7-gaming-a715-42g-r05g-r5-nhqaysv007,05,Aspire,Laptop
+Acer Aspire 3 A315 59 314F i3 1215U (NX.K6TSV.002),9.990.000₫,13.490.000₫,-25%,43,https://www.thegioididong.com/laptop/acer-aspire-3-a315-59-314f-i3-nxk6tsv002,05,Aspire,Laptop
+Acer Aspire 7 Gaming A715 76G 5132 i5 12450H (NH.QMESV.002),15.990.000₫,18.990.000₫,-15%,7,https://www.thegioididong.com/laptop/acer-aspire-7-gaming-a715-76g-5132-i5-nhqmesv002,05,Aspire,Laptop
+Acer Aspire 3 A314 35 C3KS N5100 (NX.A7SSV.009),5.990.000₫,6.990.000₫,-14%,5,https://www.thegioididong.com/laptop/acer-aspire-3-a314-35-c3ks-n5100-nxa7ssv009,05,Aspire,Laptop
+Acer Aspire 3 A314 35 P3G9 N6000 (NX.A7SSV.007),6.990.000₫,7.990.000₫,-12%,19,https://www.thegioididong.com/laptop/acer-aspire-3-a314-35-p3g9-n6000-nxa7ssv007,05,Aspire,Laptop
+Acer Aspire 5 A514 54 511G i5 1135G7 (NX.A28SV.009),14.190.000₫,19.990.000₫,-29%,57,https://www.thegioididong.com/laptop/acer-aspire-a514-54-511g-i5-nxa28sv009,05,Aspire,Laptop
+Acer Aspire 3 A315 58 382Z i3 1115G4 (NX.ADDSV.00K),9.990.000₫,12.990.000₫,-23%,17,https://www.thegioididong.com/laptop/acer-aspire-3-a315-58-382z-i3-nxaddsv00k,05,Aspire,Laptop
+Acer Aspire 7 Gaming A715 43G R8GA R5 5625U (NH.QHDSV.002),17.490.000₫,21.990.000₫,-20%,13,https://www.thegioididong.com/laptop/acer-aspire-7-gaming-a715-43g-r8ga-r5-nhqhdsv002,05,Aspire,Laptop
+Acer Aspire 3 A315 58 787C i7 1165G7 (NX.ADDSV.00J),16.490.000₫,19.990.000₫,-17%,13,https://www.thegioididong.com/laptop/acer-aspire-3-a315-58-787c-i7-nxaddsv00j,05,Aspire,Laptop
+Acer Aspire 7 Gaming A715 75G 58U4 i5 10300H (NH.Q97SV.004),15.390.000₫,21.990.000₫,-30%,36,https://www.thegioididong.com/laptop/acer-aspire-7-gaming-a715-75g-58u4-i5-nhq97sv004,05,Aspire,Laptop
+Acer Aspire 3 A315 59 5283 i5 1235U (NX.K6TSV.00B),14.490.000₫,15.990.000₫,-9%,4,https://www.thegioididong.com/laptop/acer-aspire-3-a315-59-5283-i5-nxk6tsv00b,05,Aspire,Laptop
+Acer Aspire 5 A514 54 5127 i5 1135G7 (NX.A28SV.007),14.190.000₫,15.490.000₫,-8%,22,https://www.thegioididong.com/laptop/acer-aspire-a514-54-5127-i5-nxa28sv007,05,Aspire,Laptop
+Acer Aspire 5 A515 58P 34RJ i3 1315U (NX.KHJSV.003),12.590.000₫,13.090.000₫,,,https://www.thegioididong.com/laptop/acer-aspire-5-a515-58p-34rj-i3-nxkhjsv003,05,Aspire,Laptop
+Acer Aspire 3 A315 59 38PG i3 1215U (NX.K6TSV.00A),10.690.000₫,13.990.000₫,-23%,7,https://www.thegioididong.com/laptop/acer-aspire-3-a315-59-38pg-i3-nxk6tsv00a,05,Aspire,Laptop
+Acer Aspire 3 A314 35 P6NC N6000 (NX.A7SSV.006),10.290.000₫,,,13,https://www.thegioididong.com/laptop/acer-aspire-3-a314-35-p6nc-nxa7ssv006,05,Aspire,Laptop
+Acer Aspire 3 A315 58 358E i3 1115G4 (NX.ADDSV.00F),10.290.000₫,13.990.000₫,-26%,17,https://www.thegioididong.com/laptop/acer-aspire-3-a315-58-358e-i3-nxaddsv00f,05,Aspire,Laptop
+Acer Swift 3 SF314 512 56QN i5 1240P (NX.K0FSV.002),18.490.000₫,23.990.000₫,-22%,11,https://www.thegioididong.com/laptop/acer-swift-3-sf314-512-56qn-i5-nxk0fsv002,05,Swift,Laptop
+Acer Swift 3 SF314 511 55QE i5 1135G7 (NX.ABNSV.003),17.690.000₫,22.990.000₫,-23%,13,https://www.thegioididong.com/laptop/acer-swift-3-sf314-511-55qe-i5-nxabnsv003,05,Swift,Laptop
+Acer TravelMate B3 TMB311 31 C2HB N4020 (NX.VNFSV.006),5.990.000₫,9.990.000₫,-40%,88,https://www.thegioididong.com/laptop/acer-travelmate-b3-tmb311-31-c2hb-nxvnfsv006,05,TravelMate,Laptop
+Acer Gaming Predator Helios Neo 16 PHN16 71 7460 i7 13700HX (NH.QLTSV.004),38.990.000₫,,,,https://www.thegioididong.com/laptop/acer-predator-helios-neo-phn16-71-7460-i7-nhqltsv004,05,Predator,Laptop
+Acer Predator Helios PH16 71 94N1 i9 13900HX (NH.QJSSV.002),117.790.000₫,,,,https://www.thegioididong.com/laptop/acer-predator-helios-ph16-71-94n1-i9-nhqjssv002,05,Predator,Laptop
+Acer Predator Helios PH18 71 94SJ i9 13900HX (NH.QKRSV.002),119.990.000₫,,,,https://www.thegioididong.com/laptop/acer-predator-helios-ph18-71-94sj-i9-nhqkrsv002,05,Predator,Laptop
+Acer Gaming Predator Helios Neo 16 PHN16 71 54CD i5 13500HX (NH.QLTSV.001),35.990.000₫,,,,https://www.thegioididong.com/laptop/acer-predator-helios-neo-phn16-71-54cd-i5-nhqltsv001,05,Predator,Laptop
+Acer Gaming Predator Helios Neo 16 PHN16 71 74BA i7 13700HX (NH.QLUSV.004),42.990.000₫,,,,https://www.thegioididong.com/laptop/acer-predator-helios-neo-phn16-71-74ba-i7-nhqlusv004,05,Predator,Laptop
+Dell Inspiron 15 3520 i5 1235U (N5I5122W1),16.190.000₫,18.590.000₫,-12%,26,https://www.thegioididong.com/laptop/dell-inspiron-15-3520-i5-n5i5122w1,06,Inspiron,Laptop
+Dell Inspiron 16 5620 i7 1255U (N6I7110W1),22.490.000₫,25.190.000₫,-10%,22,https://www.thegioididong.com/laptop/dell-inspiron-16-5620-i7-n6i7110w1,06,Inspiron,Laptop
+Dell Inspiron 15 3520 i3 1215U (i3U082W11BLU),12.290.000₫,13.690.000₫,-10%,14,https://www.thegioididong.com/laptop/dell-inspiron-15-3520-i3-i3u082w11blu,06,Inspiron,Laptop
+Dell Inspiron 5620 i5 1235U (71003903),18.490.000₫,20.290.000₫,-8%,9,https://www.thegioididong.com/laptop/dell-inspiron-5620-i5-71003903,06,Inspiron,Laptop
+Dell Inspiron 16 5620 i5 1235U (P1WKN),17.690.000₫,19.790.000₫,-10%,5,https://www.thegioididong.com/laptop/dell-inspiron-16-5620-i5-p1wkn,06,Inspiron,Laptop
+Dell Inspiron 5430 i5 1340P (i5P165W11SLD2),25.990.000₫,27.490.000₫,-5%,,https://www.thegioididong.com/laptop/dell-inspiron-5430-i5-i5p165w11sld2,06,Inspiron,Laptop
+Dell Inspiron 16 5620 i7 1255U (N6I7009W1),24.990.000₫,26.590.000₫,-6%,,https://www.thegioididong.com/laptop/dell-inspiron-16-5620-i7-n6i7009w1,06,Inspiron,Laptop
+Dell Inspiron 15 3520 i5 1235U (i5U085W11BLU),16.090.000₫,18.990.000₫,-15%,9,https://www.thegioididong.com/laptop/dell-inspiron-15-3520-i5u085w11blu,06,Inspiron,Laptop
+Dell Inspiron 15 3520 i3 1215U (71003264),12.990.000₫,14.490.000₫,-10%,,https://www.thegioididong.com/laptop/dell-inspiron-3520-i3-71003264,06,Inspiron,Laptop
+Dell Vostro 3510 i5 1135G7 (P112F002BBL),16.790.000₫,22.990.000₫,-26%,71,https://www.thegioididong.com/laptop/dell-vostro-3510-i5-p112f002bbl,06,Vostro,Laptop
+Dell Vostro 3520 i3 1215U (V5I3614W1),12.490.000₫,13.990.000₫,-10%,14,https://www.thegioididong.com/laptop/dell-vostro-3520-i3-v5i3614w1,06,Vostro,Laptop
+Dell Vostro 5620 i5 1240P (V6I5001W1),17.990.000₫,20.190.000₫,-10%,20,https://www.thegioididong.com/laptop/dell-vostro-5620-i5-v6i5001w1,06,Vostro,Laptop
+Dell Vostro 15 3520 i5 1235U (5M2TT2),16.790.000₫,19.490.000₫,-13%,10,https://www.thegioididong.com/laptop/dell-vostro-15-3520-i5-5m2tt2,06,Vostro,Laptop
+Dell Vostro 5620 i5 1240P (70282719),22.990.000₫,24.990.000₫,-8%,10,https://www.thegioididong.com/laptop/dell-vostro-5620-i5-70282719,06,Vostro,Laptop
+Dell Vostro 5620 i5 1240P (70296963),21.990.000₫,25.490.000₫,-13%,9,https://www.thegioididong.com/laptop/dell-vostro-5620-i5-70296963,06,Vostro,Laptop
+Dell Vostro 5630 i5 1340P (i5P085W11GRU),21.990.000₫,23.190.000₫,-5%,,https://www.thegioididong.com/laptop/dell-vostro-5630-i5-i5p085w11gru,06,Vostro,Laptop
+Dell Vostro 3400 i7 1165G7 (V4I7015W1),21.590.000₫,25.190.000₫,-14%,25,https://www.thegioididong.com/laptop/dell-vostro-3400-i7-v4i7015w1,06,Vostro,Laptop
+Dell XPS 17 9710 i7 11800H (XPS7I7001W1),64.490.000₫,71.490.000₫,-9%,,https://www.thegioididong.com/laptop/dell-xps-17-9710-i7-xps7i7001w1,06,XPS,Laptop
+Dell Gaming Alienware m15 R6 i7 11800H (P109F001DBL),47.490.000₫,61.990.000₫,-23%,,https://www.thegioididong.com/laptop/dell-gaming-alienware-m15-r6-i7-p109f001dbl,06,Alienware,Laptop
+Dell Gaming G15 5511 i5 11400H (70266676),21.990.000₫,27.490.000₫,-20%,27,https://www.thegioididong.com/laptop/dell-gaming-g15-5511-i5-70266676,06,Gaming G-series,Laptop
+Dell Gaming G15 5530 i7 13650HX (i7H165W11GR4060),41.990.000₫,42.990.000₫,,,https://www.thegioididong.com/laptop/dell-gaming-g15-5530-i7-i7h165w11gr4060,06,Gaming G-series,Laptop
+Dell Gaming G15 5530 i7 13650HX (i7H165W11GR4050),39.990.000₫,41.190.000₫,,,https://www.thegioididong.com/laptop/dell-gaming-g15-5530-i7-i7h165w11gr4050,06,Gaming G-series,Laptop
+MSI Modern 14 C11M i3 1115G4 (011VN),10.990.000₫,11.990.000₫,-8%,16,https://www.thegioididong.com/laptop/msi-modern-14-c11m-i3-011vn,07,Modern,Laptop
+MSI Modern 15 A5M R7 5700U (237VN),12.490.000₫,14.990.000₫,-16%,36,https://www.thegioididong.com/laptop/msi-modern-15-a5m-r7-237vn,07,Modern,Laptop
+MSI Modern 15 B7M R5 7530U (231VN),13.990.000₫,14.990.000₫,-6%,4,https://www.thegioididong.com/laptop/msi-modern-15-b7m-r5-231vn,07,Modern,Laptop
+MSI Modern 14 C7M R5 7530U (083VN),13.490.000₫,13.990.000₫,,4,https://www.thegioididong.com/laptop/msi-modern-14-c7m-r5-083vn,07,Modern,Laptop
+MSI Modern 14 C13M i7 1355U (607VN),19.790.000₫,21.490.000₫,-7%,,https://www.thegioididong.com/laptop/msi-modern-14-c13m-i7-607vn,07,Modern,Laptop
+MSI Modern 15 B13M i5 1335U (438VN),16.790.000₫,18.490.000₫,-9%,,https://www.thegioididong.com/laptop/msi-modern-15-b13m-i5-438vn,07,Modern,Laptop
+MSI Gaming GF63 Thin 11SC i5 11400H (664VN),15.490.000₫,16.490.000₫,-6%,28,https://www.thegioididong.com/laptop/msi-gaming-gf63-thin-11sc-i5-664vn,07,Cyborg/Thin GF,Laptop
+MSI Gaming GF63 Thin 11UC i5 11400H (1230VN),17.990.000₫,19.490.000₫,-7%,13,https://www.thegioididong.com/laptop/msi-gaming-gf63-thin-11uc-i5-1230vn,07,Cyborg/Thin GF,Laptop
+MSI Gaming GF63 Thin 11UC i7 11800H (1228VN),19.690.000₫,20.990.000₫,-6%,16,https://www.thegioididong.com/laptop/msi-gaming-gf63-thin-11uc-i7-1228vn,07,Cyborg/Thin GF,Laptop
+MSI Gaming Cyborg 15 A12UCX i5 12450H (281VN),19.290.000₫,19.990.000₫,,3,https://www.thegioididong.com/laptop/msi-gaming-cyborg-15-a12ucx-i5-281vn,07,Cyborg/Thin GF,Laptop
+MSI Gaming GF63 Thin 12VE i5 12450H (460VN),21.490.000₫,22.490.000₫,,,https://www.thegioididong.com/laptop/msi-gaming-gf63-thin-12ve-i5-460vn,07,Cyborg/Thin GF,Laptop
+MSI Gaming Cyborg 15 A12VF i7 12650H (267VN),29.490.000₫,30.490.000₫,,,https://www.thegioididong.com/laptop/msi-gaming-cyborg-15-a12vf-i7-267vn,07,Cyborg/Thin GF,Laptop
+MSI Gaming Cyborg 15 A12VE i7 12650H (240VN),26.990.000₫,27.490.000₫,,,https://www.thegioididong.com/laptop/msi-cyborg-15-a12ve-i7-240vn,07,Cyborg/Thin GF,Laptop
+MSI Gaming GF63 Thin 11UD i7 11800H (648VN),21.490.000₫,26.490.000₫,-18%,15,https://www.thegioididong.com/laptop/msi-gaming-gf63-thin-11ud-i7-648vn,07,Cyborg/Thin GF,Laptop
+MSI Gaming GF65 Thin 10UE i5 10500H (286VN),20.990.000₫,29.490.000₫,-28%,9,https://www.thegioididong.com/laptop/msi-gaming-gf65-thin-10ue-i5-286vn,07,Cyborg/Thin GF,Laptop
+MSI Gaming Katana 15 B13VEK i7 13620H (252VN),30.990.000₫,32.990.000₫,-6%,,https://www.thegioididong.com/laptop/msi-gaming-katana-15-b13vek-i7-252vn,07,Katana GF Series,Laptop
+MSI Gaming GS66 Stealth 11UG i7 11800H (219VN),50.990.000₫,64.990.000₫,-21%,,https://www.thegioididong.com/laptop/msi-gaming-gs66-stealth-11ug-i7-219vn,07,GS Stealth,Laptop
+MSI Summit E14 Flip Evo A12MT i7 1280P (210VN),28.990.000₫,30.990.000₫,-6%,,https://www.thegioididong.com/laptop/msi-summit-e14-flip-evo-a12mt-i7-210vn,07,Summit,Laptop
+MSI Summit E14 Evo A12M i7 1280P (211VN),23.990.000₫,25.990.000₫,-7%,,https://www.thegioididong.com/laptop/msi-summit-e14-evo-a12m-i7-211vn,07,Summit,Laptop
+Gigabyte Gaming G5 i5 12500H (GE-51VN263SH),19.990.000₫,,,,https://www.thegioididong.com/laptop/gigabyte-gaming-g5-i5-ge-51vn263sh,08,,Laptop
+Gigabyte Gaming G5 i5 12500H (GE-51VN213SH),20.990.000₫,,,,https://www.thegioididong.com/laptop/gigabyte-gaming-g5-i5-ge-51vn213sh,08,,Laptop
+Surface Pro 9 i7 1255U,44.990.000₫,,,,https://www.thegioididong.com/laptop/surface-pro-9-i7,09,,Laptop
+Surface Pro 9 i5 1235U,29.990.000₫,,,,https://www.thegioididong.com/laptop/surface-pro-9-i5,09,,Laptop
+itel SPIRIT 1 i3 8109U (71006300035),4.990.000₫,5.590.000₫,-10%,54,https://www.thegioididong.com/laptop/itel-spirit-1-i3-71006300035,10,,Laptop
+Itel Spirit 2 i5 1155G7 (71006300202),12.990.000₫,13.490.000₫,,,https://www.thegioididong.com/laptop/itel-spirit-2-i5-71006300202,10,,Laptop
+Itel Spirit 2 i3 1115G4 (71006300240),10.290.000₫,10.790.000₫,,,https://www.thegioididong.com/laptop/itel-spirit-2-i3-71006300240,10,,Laptop
+itel ABLE 1S N4020 (71006300027),5.490.000₫,8.990.000₫,-38%,39,https://www.thegioididong.com/laptop/itel-able-1s-n4020-71006300027,10,,Laptop
+Masstel E140 N4120,5.490.000₫,,,6,https://www.thegioididong.com/laptop/masstel-e140-n4120,11,,Laptop
+Masstel E116 N4020,3.990.000₫,,,21,https://www.thegioididong.com/laptop/masstel-e116-n4020,11,,Laptop
+LG gram 2023 i7 1360P (17Z90R-G.AH78A5),50.990.000₫,,,,https://www.thegioididong.com/laptop/lg-gram-2023-i7-17z90rgah78a5,12,Gram,Laptop
+LG gram 2023 i7 1360P (16Z90R-G.AH76A5),46.990.000₫,,,,https://www.thegioididong.com/laptop/lg-gram-2023-i7-16z90rgah76a5,12,Gram,Laptop
+LG gram 2023 i7 1360P (14Z90R-G.AH75A5),38.990.000₫,,,,https://www.thegioididong.com/laptop/lg-gram-2023-i7-14z90rgah75a5,12,Gram,Laptop
+LG gram Style 2023 i5 1340P (14Z90RS-G.AH54A5),38.990.000₫,,,,https://www.thegioididong.com/laptop/lg-gram-style-2023-i5-14z90rsgah54a5,12,Gram,Laptop
+LG gram 2023 i5 1340P (14Z90R-G.AH53A5),32.490.000₫,,,,https://www.thegioididong.com/laptop/lg-gram-2023-i5-14z90rgah53a5,12,Gram,Laptop

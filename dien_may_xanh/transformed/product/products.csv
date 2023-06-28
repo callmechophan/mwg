@@ -1,0 +1,797 @@
+product_id,product_name,current_price,price,percent_discount,rating,series,link,brand_id,genre_id
+030001,Panasonic Inverter 1 HP CU/CS-PU9ZKH-8M Mới 2023,11390000.0,11390000.0,0,319,,https://www.dienmayxanh.com/may-lanh/panasonic-inverter-1-hp-cu-cs-pu9zkh-8,0314,0301
+030002,Panasonic Inverter 1.5 HP CU/CS-PU12ZKH-8M Mới 2023,13890000.0,13890000.0,0,235,,https://www.dienmayxanh.com/may-lanh/panasonic-inverter-15-hp-cu-cs-pu12zkh-8,0314,0301
+030003,Panasonic Inverter 1 HP CU/CS-XU9ZKH-8 Mới 2023,13990000.0,13990000.0,0,110,,https://www.dienmayxanh.com/may-lanh/panasonic-inverter-1-hp-cu-cs-xu9zkh-8,0314,0301
+030004,Panasonic Inverter 1.5 HP CU/CS-XU12ZKH-8 Mới 2023,17390000.0,17390000.0,0,37,,https://www.dienmayxanh.com/may-lanh/panasonic-inverter-15-hp-cu-cs-xu12zkh-8,0314,0301
+030005,Panasonic Inverter 2 HP CS-PU18XKH-8M,18690000.0,18690000.0,0,47,,https://www.dienmayxanh.com/may-lanh/panasonic-cs-pu18xkh-8m,0314,0301
+030006,Panasonic Inverter 1 HP CU/CS-XU9XKH-8,10790000.0,13490000.0,20,201,,https://www.dienmayxanh.com/may-lanh/panasonic-cu-cs-xu9xkh-8,0314,0301
+030007,Panasonic Inverter 1.5 HP CU/CS-PU12WKH-8M,12890000.0,12890000.0,0,198,,https://www.dienmayxanh.com/may-lanh/panasonic-cu-cs-pu12wkh-8m,0314,0301
+030008,Panasonic 1 HP CU/CS-N9WKH-8M,,,0,94,,https://www.dienmayxanh.com/may-lanh/panasonic-cu-cs-n9wkh-8m,0314,0301
+030009,Panasonic Inverter 2.5 HP S-2430PU3H/U-24PR1H5,38250000.0,38250000.0,0,0,,https://www.dienmayxanh.com/may-lanh/may-lanh-am-tran-panasonic-25-hp-s-2430pu3h-u-24pr1h5,0314,0301
+030010,Panasonic Inverter 2 HP S-1821PU3HA/U-21PRH1H5,41850000.0,41850000.0,0,0,,https://www.dienmayxanh.com/may-lanh/may-lanh-am-tran-panasonic-inverter-2-hp-s-1821pu3ha-u-21prh1h5,0314,0301
+030011,Panasonic Inverter 4 HP S-3448PU3HA/U-34PRH1H5,54390000.0,54390000.0,0,0,,https://www.dienmayxanh.com/may-lanh/may-lanh-am-tran-panasonic-4-hp-s-3448pu3ha-u-34prh1h5,0314,0301
+030012,Panasonic Inverter 5 HP S-3448PU3HA/U-48PRH1H5,63590000.0,63590000.0,0,0,,https://www.dienmayxanh.com/may-lanh/may-lanh-am-tran-panasonic-5-hp-s-3448pu3ha-u-48prh1h5,0314,0301
+030013,Daikin Inverter 1 HP ATKF25XVMV Mới 2023,11590000.0,11590000.0,0,452,,https://www.dienmayxanh.com/may-lanh/daikin-inverter-1-hp-atkf25xvmv,0304,0301
+030014,Daikin Inverter 1.5 HP ATKF35XVMV Mới 2023,14190000.0,14190000.0,0,243,,https://www.dienmayxanh.com/may-lanh/daikin-inverter-15-hp-atkf35xvmv,0304,0301
+030015,Daikin Inverter 2 HP FTKF50XVMV Mới 2023,21090000.0,21090000.0,0,50,,https://www.dienmayxanh.com/may-lanh/daikin-inverter-2-hp-ftkf50xvmv,0304,0301
+030016,Daikin Inverter 1 HP FTKY25WMVMV,13290000.0,13290000.0,0,150,,https://www.dienmayxanh.com/may-lanh/daikin-inverter-1-hp-ftky25wmvmv,0304,0301
+030017,Daikin Inverter 1 HP FTHF25VAVMV,12990000.0,12990000.0,0,112,,https://www.dienmayxanh.com/may-lanh/daikin-fthf25vavmv,0304,0301
+030018,Daikin Inverter 1.5 HP FTKY35WMVMV,16490000.0,16490000.0,0,76,,https://www.dienmayxanh.com/may-lanh/daikin-inverter-15-hp-ftky35wmvmv,0304,0301
+030019,Daikin Inverter 1.5 HP FTKB35WMVMV,13490000.0,13490000.0,0,271,,https://www.dienmayxanh.com/may-lanh/daikin-inverter-15-hp-ftkb35wmvmv,0304,0301
+030020,Daikin Inverter 1 HP ATHF25XVMV Mới 2023,13690000.0,13690000.0,0,15,,https://www.dienmayxanh.com/may-lanh/may-lanh-daikin-inverter-2-chieu-1-hp-athf25xvmv,0304,0301
+030021,Daikin Inverter 2.5 HP FTKF60XVMV Mới 2023,25690000.0,25690000.0,0,14,,https://www.dienmayxanh.com/may-lanh/daikin-inverter-25-hp-ftkf60xvmv,0304,0301
+030022,Daikin Inverter 2 HP FTHF50VVMV,21790000.0,21790000.0,0,15,,https://www.dienmayxanh.com/may-lanh/daikin-fthf50vvmv,0304,0301
+030023,Daikin Inverter 1.5 HP ATKC35UAVMV,13190000.0,14990000.0,12,39,,https://www.dienmayxanh.com/may-lanh/daikin-atkc35uavmv,0304,0301
+030024,Daikin Inverter 1.5 HP ATHF35XVMV Mới 2023,16790000.0,16790000.0,0,8,,https://www.dienmayxanh.com/may-lanh/may-lanh-daikin-inverter-2-chieu-15-hp-athf35xvmv,0304,0301
+030025,Daikin Inverter 2 HP FTKY50WVMV,21690000.0,21690000.0,0,15,,https://www.dienmayxanh.com/may-lanh/daikin-inverter-2-hp-ftky50wvmv,0304,0301
+030026,Daikin 1.5 HP ATF35UV1V,10290000.0,11590000.0,11,34,,https://www.dienmayxanh.com/may-lanh/daikin-atf35uv1v,0304,0301
+030027,Daikin Inverter 1.5 HP FTHF35VAVMV,15790000.0,15790000.0,0,33,,https://www.dienmayxanh.com/may-lanh/daikin-fthf35vavmv,0304,0301
+030028,Daikin Inverter 1.5 HP FTKZ35VVMV,21090000.0,21090000.0,0,6,,https://www.dienmayxanh.com/may-lanh/daikin-inverter-15-hp-ftkz35vvmv,0304,0301
+030029,Daikin Inverter 2.5 HP FTHF60VVMV,29490000.0,29490000.0,0,0,,https://www.dienmayxanh.com/may-lanh/2-chieu-daikin-inverter-25-hp-fthf60vvmv,0304,0301
+030030,Daikin Inverter 2 HP FTKB50WAVMV,17190000.0,17190000.0,0,23,,https://www.dienmayxanh.com/may-lanh/daikin-inverter-2-hp-ftkb50wavmv,0304,0301
+030031,Daikin Inverter 3 HP FTKY71WVMV,33190000.0,33190000.0,0,0,,https://www.dienmayxanh.com/may-lanh/daikin-inverter-25-hp-ftky71wvmv,0304,0301
+030032,Sharp Inverter 1 HP AH-X10ZEW Mới 2023,9090000.0,9690000.0,6,146,,https://www.dienmayxanh.com/may-lanh/sharp-inverter-1-hp-ah-x10zew,0312,0301
+030033,Sharp Inverter 2 HP AH-X18ZEW Mới 2023,12640000.0,13790000.0,8,35,,https://www.dienmayxanh.com/may-lanh/sharp-inverter-2-hp-ah-x18zew,0312,0301
+030034,Sharp Inverter 1.5 HP AH-X13ZEW Mới 2023,10540000.0,11290000.0,6,80,,https://www.dienmayxanh.com/may-lanh/sharp-inverter-15-hp-ah-x13zew,0312,0301
+030035,Sharp Inverter 1 HP AH-X9XEW,9090000.0,9400000.0,0,225,,https://www.dienmayxanh.com/may-lanh/sharp-ah-x9xew,0312,0301
+030036,Sharp Inverter 1.5 HP AH-X12XEW,10790000.0,11090000.0,0,53,,https://www.dienmayxanh.com/may-lanh/sharp-ah-x12xew,0312,0301
+030037,Sharp Inverter 1 HP AH-XP10YMW,10990000.0,10990000.0,0,54,,https://www.dienmayxanh.com/may-lanh/sharp-ah-xp10ymw,0312,0301
+030038,Sharp Inverter 1.5 HP AH-XP13YMW,11690000.0,11990000.0,0,10,,https://www.dienmayxanh.com/may-lanh/sharp-ah-xp13ymw,0312,0301
+030039,Sharp Inverter 2 HP AH-X18XEW,13290000.0,13590000.0,0,12,,https://www.dienmayxanh.com/may-lanh/sharp-ah-x18xew,0312,0301
+030040,Sharp Inverter 1 HP AH-XP10YHW,11690000.0,11990000.0,0,4,,https://www.dienmayxanh.com/may-lanh/sharp-ah-xp10yhw,0312,0301
+030041,Toshiba Inverter 1 HP RAS-H10Z1KCVG-V Mới 2023,10590000.0,10590000.0,0,21,,https://www.dienmayxanh.com/may-lanh/may-lanh-toshiba-inverter-1-hp-ras-h10z1kcvg-v,0313,0301
+030042,Toshiba Inverter 1 HP RAS-H10C4KCVG-V,10590000.0,10590000.0,0,108,,https://www.dienmayxanh.com/may-lanh/toshiba-1-hp-inverter-ras-h10c4kcvg-v,0313,0301
+030043,Toshiba Inverter 1.5 HP RAS-H13C4KCVG-V,13290000.0,13290000.0,0,50,,https://www.dienmayxanh.com/may-lanh/toshiba-15-hp-inverter-ras-h13c4kcvg-v,0313,0301
+030044,Toshiba Inverter 1.5 HP RAS-H13Z1KCVG-V Mới 2023,13290000.0,13290000.0,0,12,,https://www.dienmayxanh.com/may-lanh/may-lanh-toshiba-inverter-15-hp-ras-h13z1kcvg-v,0313,0301
+030045,Toshiba Inverter 2 HP RAS-H18C4KCVG-V,19690000.0,19690000.0,0,43,,https://www.dienmayxanh.com/may-lanh/toshiba-2-hp-inverter-ras-h18c4kcvg-v,0313,0301
+030046,Toshiba Inverter 1 HP RAS-H10E2KCVG-V,12190000.0,12190000.0,0,24,,https://www.dienmayxanh.com/may-lanh/toshiba-ras-h10e2kcvg-v,0313,0301
+030047,LG Inverter 1 HP V10WIN Mới 2023,9790000.0,10090000.0,0,102,,https://www.dienmayxanh.com/may-lanh/lg-inverter-10-hp-v10win,0306,0301
+030048,LG Inverter 1.5 HP V13WIN Mới 2023,11190000.0,11590000.0,0,101,,https://www.dienmayxanh.com/may-lanh/lg-inverter-15-hp-v13win,0306,0301
+030049,LG Inverter 1 HP V10API1,12290000.0,12790000.0,0,76,,https://www.dienmayxanh.com/may-lanh/lg-v10api1,0306,0301
+030050,LG Inverter 1.5 HP V13API1,14190000.0,14690000.0,0,96,,https://www.dienmayxanh.com/may-lanh/lg-v13api1,0306,0301
+030051,LG Inverter 2 HP V18WIN Mới 2023,16390000.0,16690000.0,0,10,,https://www.dienmayxanh.com/may-lanh/lg-inverter-2-hp-v18win,0306,0301
+030052,LG Inverter 1 HP V10APFP Mới 2023,13790000.0,14290000.0,0,10,,https://www.dienmayxanh.com/may-lanh/lg-inverter-1-hp-v10apfp,0306,0301
+030053,LG Inverter 1 HP V10APFUV,15390000.0,16190000.0,0,199,,https://www.dienmayxanh.com/may-lanh/lg-v10apfuv,0306,0301
+030054,LG Inverter 2 HP V18API1,16690000.0,17490000.0,0,29,,https://www.dienmayxanh.com/may-lanh/lg-v18api1,0306,0301
+030055,LG Inverter 1.5 HP V13APFP Mới 2023,15690000.0,16190000.0,0,10,,https://www.dienmayxanh.com/may-lanh/lg-inverter-15-hp-v13apfp,0306,0301
+030056,LG Inverter 1 HP B10END1,13090000.0,13290000.0,0,6,,https://www.dienmayxanh.com/may-lanh/2-chieu-lg-inverter-1-hp-b10end1,0306,0301
+030057,LG Inverter 1.5 HP B13END1,14990000.0,15190000.0,0,3,,https://www.dienmayxanh.com/may-lanh/2-chieu-lg-inverter-15-hp-b13end1,0306,0301
+030058,LG Inverter 3 HP ZTNQ30GNLE0 Mới 2023,29890000.0,29890000.0,0,0,,https://www.dienmayxanh.com/may-lanh/am-tran-lg-ztnq30gnle0,0306,0301
+030059,LG Inverter 2 HP ZTNQ18GPLA0 Mới 2023,23990000.0,23990000.0,0,0,,https://www.dienmayxanh.com/may-lanh/am-tran-lg-ztnq18gpla0,0306,0301
+030060,LG Inverter 2.5 HP ZTNQ24GPLA0 Mới 2023,26890000.0,26890000.0,0,0,,https://www.dienmayxanh.com/may-lanh/am-tran-lg-ztnq24gpla0,0306,0301
+030061,LG Inverter 1.5 HP V13APFUV,17690000.0,18490000.0,0,121,,https://www.dienmayxanh.com/may-lanh/lg-v13apfuv,0306,0301
+030062,LG Inverter 1.5 HP V13APIG,17290000.0,18290000.0,5,4,,https://www.dienmayxanh.com/may-lanh/lg-inverter-15-hp-v13apig,0306,0301
+030063,LG Inverter 3 HP ZPNQ30GR5E0 Mới 2023,31890000.0,31890000.0,0,0,,https://www.dienmayxanh.com/may-lanh/tu-dung-lg-zpnq30gr5e0,0306,0301
+030064,LG Inverter 5 HP ZPNQ48GT3A0 Mới 2023,42990000.0,42990000.0,0,0,,https://www.dienmayxanh.com/may-lanh/tu-dung-lg-inverter-5-hp-zpnq48gt3a0,0306,0301
+030065,LG Inverter 4 HP ZTNQ36GNLA0 Mới 2023,35990000.0,35990000.0,0,0,,https://www.dienmayxanh.com/may-lanh/am-tran-lg-ztnq36gnla0,0306,0301
+030066,LG Inverter 5 HP ZPNQ48LT3A0 (3 Pha),42990000.0,42990000.0,0,0,,https://www.dienmayxanh.com/may-lanh/tu-dung-lg-inverter-5-hp-zpnq48lt3a0-3-pha,0306,0301
+030067,LG Inverter 5 HP ZTNQ48LMLA0 (3 Pha),40990000.0,40990000.0,0,0,,https://www.dienmayxanh.com/may-lanh/am-tran-lg-inverter-5-hp-ztnq48lmla0-3-pha,0306,0301
+030068,LG Inverter 1 HP B10END,11790000.0,12790000.0,7,12,,https://www.dienmayxanh.com/may-lanh/lg-b10end,0306,0301
+030069,LG Inverter 5 HP ZTNQ48GMLA0 Mới 2023,40990000.0,40990000.0,0,0,,https://www.dienmayxanh.com/may-lanh/am-tran-lg-ztnq48gmla0,0306,0301
+030070,LG Inverter 1.5 HP B13API,16790000.0,16990000.0,0,6,,https://www.dienmayxanh.com/may-lanh/2-chieu-lg-inverter-15-hp-b13api,0306,0301
+030071,LG Inverter 4 HP ZPNQ36GR5A0 Mới 2023,39990000.0,39990000.0,0,0,,https://www.dienmayxanh.com/may-lanh/tu-dung-lg-zpnq36gr5a0,0306,0301
+030072,LG Inverter 4 HP ZPNQ36LR5A0 (3 Pha),39990000.0,39990000.0,0,0,,https://www.dienmayxanh.com/may-lanh/tu-dung-lg-zpnq36lr5a0-3-pha,0306,0301
+030073,LG Inverter 1 HP V10APH2,11690000.0,11890000.0,0,0,,https://www.dienmayxanh.com/may-lanh/lg-inverter-1-hp-v10aph2,0306,0301
+030074,LG Inverter 1.5 HP V13APH2,12990000.0,13190000.0,0,0,,https://www.dienmayxanh.com/may-lanh/lg-inverter-15-hp-v13aph2,0306,0301
+030075,LG Inverter 5 HP ATNQ48GMLE7 (3 pha),42390000.0,42390000.0,0,0,,https://www.dienmayxanh.com/may-lanh/am-tran-lg-5-hp-atnq48gmle7-3-pha,0306,0301
+030076,Samsung Inverter 1 HP AR10CYHAAWKNSV Mới 2023,8990000.0,10090000.0,10,103,,https://www.dienmayxanh.com/may-lanh/samsung-inverter-1-hp-ar10cyhaawknsv,0307,0301
+030077,Samsung Inverter 1.5 HP AR13CYHAAWKNSV Mới 2023,11390000.0,11890000.0,0,46,,https://www.dienmayxanh.com/may-lanh/samsung-inverter-15-hp-ar13cyhaawknsv,0307,0301
+030078,Samsung Inverter 1 HP AR10CYFAAWKNSV Mới 2023,10890000.0,11690000.0,6,79,,https://www.dienmayxanh.com/may-lanh/samsung-inverter-1-hp-ar10cyfaawknsv,0307,0301
+030079,Samsung Inverter 1.5 HP AR13CYFAAWKNSV Mới 2023,12690000.0,12990000.0,0,7,,https://www.dienmayxanh.com/may-lanh/samsung-inverter-15-hp-ar13cyfaawknsv,0307,0301
+030080,Samsung Inverter 1.5 HP AR13TYHYCWKNSV,10190000.0,11790000.0,13,378,,https://www.dienmayxanh.com/may-lanh/samsung-ar13tyhycwknsv,0307,0301
+030081,Samsung Inverter 2 HP AR18TYHYCWKNSV,14990000.0,15590000.0,0,127,,https://www.dienmayxanh.com/may-lanh/samsung-ar18tyhycwknsv,0307,0301
+030082,Samsung Inverter 1 HP AR10TYHYCWKNSV,9190000.0,10190000.0,9,411,,https://www.dienmayxanh.com/may-lanh/samsung-ar10tyhycwknsv,0307,0301
+030083,Samsung Inverter 1 HP AR10CYECAWKNSV Mới 2023,11890000.0,12490000.0,0,3,,https://www.dienmayxanh.com/may-lanh/samsung-inverter-1-hp-ar10cyecawknsv,0307,0301
+030084,Samsung Inverter 1 HP AR10TYGCDWKNSV,11390000.0,12390000.0,8,167,,https://www.dienmayxanh.com/may-lanh/samsung-ar10tygcdwknsv,0307,0301
+030085,Samsung Inverter 1.5 HP AR13TYGCDWKNSV,13390000.0,14390000.0,6,113,,https://www.dienmayxanh.com/may-lanh/samsung-ar13tygcdwknsv,0307,0301
+030086,Samsung Inverter 2 HP AR18CYFAAWKNSV Mới 2023,20990000.0,20990000.0,0,0,,https://www.dienmayxanh.com/may-lanh/samsung-inverter-2-hp-ar18cyfaawknsv,0307,0301
+030087,Samsung Inverter 1.5 HP AR13CYECAWKNSV Mới 2023,13890000.0,14490000.0,0,0,,https://www.dienmayxanh.com/may-lanh/samsung-inverter-15-hp-ar13cyecawknsv,0307,0301
+030088,Midea Inverter 1 HP MSAGA-10CRDN8 Mới 2023,7290000.0,8990000.0,18,35,,https://www.dienmayxanh.com/may-lanh/may-lanh-midea-msaga-10crdn8,0301,0301
+030089,Midea Inverter 1 HP MSAG-10CRDN8,6690000.0,9490000.0,29,79,,https://www.dienmayxanh.com/may-lanh/midea-msag-10crdn8,0301,0301
+030090,Midea Inverter 1.5 HP MSAGA-13CRDN8 Mới 2023,8290000.0,10290000.0,19,9,,https://www.dienmayxanh.com/may-lanh/may-lanh-midea-inverter-15-hp-msaga-13crdn8,0301,0301
+030091,Midea 1 HP MSAFA-10CRN8,6590000.0,6890000.0,0,19,,https://www.dienmayxanh.com/may-lanh/midea-msafa-10crn8,0301,0301
+030092,Midea Inverter 2 HP MSAGA-18CRDN8 Mới 2023,13390000.0,13390000.0,0,0,,https://www.dienmayxanh.com/may-lanh/may-lanh-midea-inverter-2-hp-msaga-18crdn8,0301,0301
+030093,Midea Inverter 2 HP MSAFA-18CRDN8,14190000.0,14190000.0,0,6,,https://www.dienmayxanh.com/may-lanh/midea-msafa-18crdn8,0301,0301
+030094,Midea Inverter 1 HP MSMTII-10HRFN8,13990000.0,13990000.0,0,5,,https://www.dienmayxanh.com/may-lanh/midea-msmtii-10hrfn8,0301,0301
+030095,Máy lạnh Comfee Inverter 1 HP CFS-10VDGF-V,7990000.0,7990000.0,0,93,,https://www.dienmayxanh.com/may-lanh/comfee-cfs-10vdgf-v,0311,0301
+030096,Comfee Inverter 1.5 HP CFS-13VDGF-V Mới 2023,8990000.0,8990000.0,0,71,,https://www.dienmayxanh.com/may-lanh/comfee-inverter-15-hp-cfs-13vdgf-v,0311,0301
+030097,Comfee Inverter 2 HP CFS-18VDGF-V Mới 2023,11490000.0,11490000.0,0,75,,https://www.dienmayxanh.com/may-lanh/comfee-inverter-2-hp-cfs-18vdgf-v,0311,0301
+030098,Comfee 1 HP SIRIUSB-9E,6190000.0,6190000.0,0,65,,https://www.dienmayxanh.com/may-lanh/comfee-siriusb-9e,0311,0301
+030099,Comfee Inverter 1.5 HP SIRIUS-12ED,8290000.0,8290000.0,0,18,,https://www.dienmayxanh.com/may-lanh/comfee-sirius-12ed,0311,0301
+030100,Aqua Inverter 1 HP AQA-RV9QA Mới 2023,8390000.0,9390000.0,10,115,,https://www.dienmayxanh.com/may-lanh/aqua-inverter-1-hp-aqa-rv9qa,0302,0301
+030101,Aqua Inverter 1.5 HP AQA-RV13QA Mới 2023,9990000.0,10990000.0,9,90,,https://www.dienmayxanh.com/may-lanh/aqua-inverter-15-hp-aqa-rv13qa,0302,0301
+030102,Aqua Inverter 1 HP AQA-RUV10RB Mới 2023,10490000.0,10990000.0,0,21,,https://www.dienmayxanh.com/may-lanh/may-lanh-aqua-inverter-1-hp-aqa-ruv10rb,0302,0301
+030103,Aqua Inverter 2 HP AQA-RV18QA Mới 2023,13790000.0,15590000.0,11,23,,https://www.dienmayxanh.com/may-lanh/aqua-inverter-2-hp-aqa-rv18qa,0302,0301
+030104,Aqua Inverter 1 HP AQA-RV9QC Mới 2023,7990000.0,7990000.0,0,102,,https://www.dienmayxanh.com/may-lanh/may-lanh-aqua-inverter-1-hp-aqa-rv9qc,0302,0301
+030105,Aqua 1 HP AQA-KCR9NQ-S,6790000.0,7240000.0,6,12,,https://www.dienmayxanh.com/may-lanh/aqua-1-hp-aqa-kcr09nq-s,0302,0301
+030106,Aqua Inverter 1.5 HP AQA-RV13QC Mới 2023,9990000.0,9990000.0,0,0,,https://www.dienmayxanh.com/may-lanh/aqua-inverter-15-hp-aqa-rv13qc,0302,0301
+030107,Aqua Inverter 1 HP AQA-KCRV10TK,8190000.0,9690000.0,15,94,,https://www.dienmayxanh.com/may-lanh/aqua-aqa-kcrv10tk,0302,0301
+030108,Aqua Inverter 1 HP AQA-RUV10XAW Mới 2023,11990000.0,12990000.0,7,5,,https://www.dienmayxanh.com/may-lanh/may-lanh-aqua-inverter-1-hp-aqa-ruv10xaw,0302,0301
+030109,Aqua Inverter 1.5 HP AQA-KCRV13TK,9790000.0,11190000.0,12,49,,https://www.dienmayxanh.com/may-lanh/aqua-aqa-kcrv13tk,0302,0301
+030110,Aqua Inverter 1.5 HP AQA-KCRV13TR,9740000.0,10690000.0,8,20,,https://www.dienmayxanh.com/may-lanh/aqua-inverter-15-hp-aqa-kcrv13tr,0302,0301
+030111,Aqua Inverter 1 HP AQA-KCRV10TR,7940000.0,9190000.0,13,65,,https://www.dienmayxanh.com/may-lanh/aqua-inverter-1-hp-aqa-kcrv10tr,0302,0301
+030112,Aqua Inverter 1 HP AQA-KCRV10NB,9990000.0,9990000.0,0,34,,https://www.dienmayxanh.com/may-lanh/aqua-aqa-kcrv10nb,0302,0301
+030113,Aqua Inverter 1 HP AQA-KCRV10WNZA,8890000.0,8890000.0,0,34,,https://www.dienmayxanh.com/may-lanh/aqua-aqa-kcrv10wnza,0302,0301
+030114,Aqua Inverter 1.5 HP AQA-KCRV13WNZA,10490000.0,10490000.0,0,20,,https://www.dienmayxanh.com/may-lanh/aqua-aqa-kcrv13wnza,0302,0301
+030115,Aqua Inverter 1 HP AQA-KCRV10XAW,11690000.0,11690000.0,0,0,,https://www.dienmayxanh.com/may-lanh/aqua-inverter-1-hp-aqa-kcrv10xaw,0302,0301
+030116,Gree Inverter 1 HP GWC09PB-K3D0P4,7890000.0,9790000.0,19,207,,https://www.dienmayxanh.com/may-lanh/gree-gwc09pb-k3d0p4,0308,0301
+030117,Gree Inverter 1.5 HP GWC12PB-K3D0P4,9890000.0,11690000.0,15,68,,https://www.dienmayxanh.com/may-lanh/gree-gwc12pb-k3d0p4,0308,0301
+030118,Gree Inverter 1 HP CHARM9CI Mới 2023,8590000.0,9890000.0,13,8,,https://www.dienmayxanh.com/may-lanh/may-lanh-gree-inverter-1-hp-charm9ci,0308,0301
+030119,Gree Inverter 1 HP GWC09FB-K6D9A1W,8290000.0,10590000.0,21,29,,https://www.dienmayxanh.com/may-lanh/gree-gwc09fb-k6d9a1w,0308,0301
+030120,Gree Inverter 1 HP GWH09PA-K6D1P4,9890000.0,10990000.0,10,7,,https://www.dienmayxanh.com/may-lanh/may-dieu-hoa-2-chieu-gree-gwh09pa-k6d1p4,0308,0301
+030121,Gree Inverter 1.5 HP GWC12FB-K6D9A1W,9890000.0,12390000.0,20,14,,https://www.dienmayxanh.com/may-lanh/gree-gwc12fb-k6d9a1w,0308,0301
+030122,Gree Inverter 1.5 HP CHARM12CI Mới 2023,10090000.0,11790000.0,14,0,,https://www.dienmayxanh.com/may-lanh/gree-inverter-15-hp-charm12ci,0308,0301
+030123,Gree Inverter 1.5 HP GWH12PB-K6D1P4,12490000.0,13790000.0,9,10,,https://www.dienmayxanh.com/may-lanh/dieu-hoa-2-chieu-gree-gwh12pb-k6d1p4,0308,0301
+030124,Gree Inverter 2 HP GWH18PD-K6D1P4,16190000.0,18090000.0,10,4,,https://www.dienmayxanh.com/may-lanh/2-chieu-2-hp-gree-gwh18pd-k6d1p4,0308,0301
+030125,Casper Inverter 1 HP GC-09IS35 Mới 2023,7190000.0,7990000.0,10,39,,https://www.dienmayxanh.com/may-lanh/may-lanh-casper-inverter-1-hp-gc-09is35,0310,0301
+030126,Casper Inverter 1.5 HP IC-12TL32,8090000.0,8990000.0,10,406,,https://www.dienmayxanh.com/may-lanh/casper-ic-12tl32,0310,0301
+030127,Casper Inverter 1 HP TC-09IS35 Mới 2023,7190000.0,7490000.0,0,445,,https://www.dienmayxanh.com/may-lanh/casper-tc-09is35,0310,0301
+030128,Casper Inverter 2 HP IC-18TL32,14790000.0,14990000.0,0,16,,https://www.dienmayxanh.com/may-lanh/casper-ic-18tl32,0310,0301
+030129,Casper Inverter 1 HP IC-09TL32,7190000.0,7990000.0,10,513,,https://www.dienmayxanh.com/may-lanh/casper-ic-09tl32,0310,0301
+030130,Casper Inverter 1.5 HP GC-12IS32,10480000.0,11980000.0,12,13,,https://www.dienmayxanh.com/may-lanh/casper-gc-12is32,0310,0301
+030131,Casper 1 HP KC-09FC32,6990000.0,6990000.0,0,12,,https://www.dienmayxanh.com/may-lanh/casper-kc-09fc32,0310,0301
+030132,TCL Inverter 1 HP TAC-10CSD/XAB1I Mới 2023,4790000.0,6190000.0,22,49,,https://www.dienmayxanh.com/may-lanh/may-lanh-tcl-inverter-1-hp-tac-10csd-xab1i,0305,0301
+030133,TCL Inverter 2 HP TAC-18CSD/XAB1I Mới 2023,9990000.0,9990000.0,0,13,,https://www.dienmayxanh.com/may-lanh/may-lanh-tcl-inverter-2-hp-tac-18csd-xab1i,0305,0301
+030134,TCL Inverter 1.5 HP TAC-13CSD/XAB1I Mới 2023,7690000.0,7690000.0,0,8,,https://www.dienmayxanh.com/may-lanh/may-lanh-tcl-inverter-15-hp-tac-13csd-xab1i,0305,0301
+030135,TCL Inverter 1 HP TAC-10CSD/TPG11,6990000.0,6990000.0,0,16,,https://www.dienmayxanh.com/may-lanh/tcl-tac-10csd-tpg11,0305,0301
+030136,TCL Inverter 1 HP TAC-10CSD/XA66,6190000.0,6190000.0,0,67,,https://www.dienmayxanh.com/may-lanh/tcl-tac-10csd-xa66,0305,0301
+030137,TCL Inverter 1.5 HP TAC-13CSD/TPG11,8990000.0,8990000.0,0,0,,https://www.dienmayxanh.com/may-lanh/tcl-tac-13csd-tpg11,0305,0301
+030138,Funiki Inverter 1 HP HIC09TMU.ST3,6990000.0,8790000.0,20,495,,https://www.dienmayxanh.com/may-lanh/funiki-1-hp-hic09tmust3,0303,0301
+030139,Funiki Inverter 1.5 HP HIC12TMU.ST3,7490000.0,10590000.0,29,383,,https://www.dienmayxanh.com/may-lanh/funiki-inverter-15-hp-hic12tmust3,0303,0301
+030140,Funiki 1 HP HSC09TMU,5700000.0,7590000.0,24,9,,https://www.dienmayxanh.com/may-lanh/may-lanh-funiki-1-hp-hsc09tmu,0303,0301
+030141,Funiki Inverter 2 HP HIC18TMU.ST3,11290000.0,16190000.0,30,26,,https://www.dienmayxanh.com/may-lanh/funiki-inverter-2-hp-hic18tmust3,0303,0301
+030142,Funiki Inverter 1.5 HP HIC12TMU,7490000.0,10690000.0,29,0,,https://www.dienmayxanh.com/may-lanh/may-lanh-funiki-inverter-15-hp-hic12tmu,0303,0301
+030143,Funiki Inverter 1 HP HSIC09TMU,8390000.0,9890000.0,15,0,,https://www.dienmayxanh.com/may-lanh/funiki-1-hp-hsic09tmu,0303,0301
+030144,Funiki Inverter 1.5 HP HSIC12TMU,9690000.0,11490000.0,15,5,,https://www.dienmayxanh.com/may-lanh/funiki-15-hp-hsic12tmu,0303,0301
+030145,Nagakawa Inverter 1 HP NIS-C09R2T28 Mới 2023,8090000.0,8690000.0,6,39,,https://www.dienmayxanh.com/may-lanh/may-lanh-nagakawa-inverter-1-hp-nis-c09r2t28,0309,0301
+030146,Nagakawa Inverter 1.5 HP NIS-C12R2H10,8890000.0,10990000.0,19,30,,https://www.dienmayxanh.com/may-lanh/nagakawa-nis-c12r2h10,0309,0301
+030147,Nagakawa Inverter 1 HP NIS-C09R2H10,8990000.0,9390000.0,0,331,,https://www.dienmayxanh.com/may-lanh/nagakawa-nis-c09r2h10,0309,0301
+030148,Nagakawa Inverter 2.5 HP NIS-C24R2H10,17990000.0,17990000.0,0,0,,https://www.dienmayxanh.com/may-lanh/nagakawa-inverter-25-hp-nis-c24r2h10,0309,0301
+030149,Nagakawa Inverter 1.5 HP NIS-C12R2T28 Mới 2023,9590000.0,9990000.0,0,5,,https://www.dienmayxanh.com/may-lanh/may-lanh-nagakawa-inverter-15-hp-nis-c12r2t28,0309,0301
+030150,Nagakawa Inverter 2 HP NIS-C18R2H10,15290000.0,15290000.0,0,7,,https://www.dienmayxanh.com/may-lanh/nagakawa-nis-c18r2h10,0309,0301
+030151,Samsung Inverter 208 lít RT20HAR8DBU/SV,5990000,7890000,24,370,,https://www.dienmayxanh.com/tu-lanh/samsung-rt20har8dbu-sv,0307,0302
+030152,Samsung Inverter 236 lít RT22M4032BY/SV,5990000,9390000,36,454,,https://www.dienmayxanh.com/tu-lanh/samsung-rt22m4032by-sv,0307,0302
+030153,Samsung Inverter 655 lít RS62R5001M9/SV,14990000,22900000,34,524,,https://www.dienmayxanh.com/tu-lanh/samsung-rs62r5001m9-sv,0307,0302
+030154,Samsung Inverter 488 lít RF48A4010M9/SV,17990000,26090000,31,163,,https://www.dienmayxanh.com/tu-lanh/samsung-rf48a4010m9-sv,0307,0302
+030155,Samsung Inverter 488 lít RF48A4000B4/SV,17490000,23990000,27,330,,https://www.dienmayxanh.com/tu-lanh/samsung-rf48a4000b4-sv,0307,0302
+030156,Samsung Inverter 655 lít RS62R5001B4/SV,16490000,25090000,34,230,,https://www.dienmayxanh.com/tu-lanh/samsung-rs62r5001b4-sv,0307,0302
+030157,Samsung Inverter 280 lít RB27N4010BU/SV,9990000,12590000,20,162,,https://www.dienmayxanh.com/tu-lanh/samsung-rb27n4010bu-sv,0307,0302
+030158,Samsung Inverter 236 lít RT22M4032BU/SV,6690000,9590000,30,119,,https://www.dienmayxanh.com/tu-lanh/samsung-rt22m4032bu-sv,0307,0302
+030159,Samsung Inverter 406 lít RT42CG6584B1SV Mới 2023,15890000,17990000,11,13,,https://www.dienmayxanh.com/tu-lanh/samsung-inverter-406-lit-rt42cg6584b1sv,0307,0302
+030160,Samsung Inverter 307 lít RB30N4190BY/SV,13990000,17490000,20,527,,https://www.dienmayxanh.com/tu-lanh/samsung-inverter-307-lit-rb30n4190by-sv,0307,0302
+030161,Samsung Inverter 382 lít RT38CG6584B1SV Mới 2023,14440000,16490000,12,12,,https://www.dienmayxanh.com/tu-lanh/samsung-inverter-382-lit-rt38cg6584b1sv,0307,0302
+030162,Samsung Inverter 276 lít RB27N4170BU/SV,10540000,13590000,22,61,,https://www.dienmayxanh.com/tu-lanh/samsung-rb27n4170bu-sv,0307,0302
+030163,Samsung Inverter 276 lít RB27N4190BU/SV,11540000,14590000,20,38,,https://www.dienmayxanh.com/tu-lanh/samsung-rb27n4190bu-sv,0307,0302
+030164,Samsung Inverter 488 lít RF48A4010B4/SV,19990000,27990000,28,179,,https://www.dienmayxanh.com/tu-lanh/tu-lanh-samsung-inverter-488-lit-rf48a4010b4-sv,0307,0302
+030165,Samsung Inverter 307 lít RB30N4190BU/SV,14290000,17790000,19,38,,https://www.dienmayxanh.com/tu-lanh/tu-lanh-samsung-inverter-307-lit-rb30n4190bu-sv,0307,0302
+030166,Samsung Inverter 635 lít RS64R53012C/SV,28890000,44900000,35,96,,https://www.dienmayxanh.com/tu-lanh/samsung-rs64r53012c-sv,0307,0302
+030167,Samsung Inverter 406 lít RT42CB6784C3SV Mới 2023,15490000,18690000,17,4,,https://www.dienmayxanh.com/tu-lanh/samsung-inverter-406-lit-rt42cb6784c3sv,0307,0302
+030168,Samsung Inverter 208 lít RT19M300BGS/SV,6290000,6890000,8,574,,https://www.dienmayxanh.com/tu-lanh/samsung-rt19m300bgs-sv,0307,0302
+030169,Samsung Inverter 322 lít RT32K503JB1/SV,9490000,11590000,18,108,,https://www.dienmayxanh.com/tu-lanh/samsung-inverter-322-lit-rt32k503jb1-sv,0307,0302
+030170,Samsung Inverter 635 lít RS64R5301B4/SV,24550000,39900000,38,108,,https://www.dienmayxanh.com/tu-lanh/samsung-rs64r5301b4-sv,0307,0302
+030171,Samsung Inverter 345 lít RT35CG5544B1SV Mới 2023,12490000,13690000,8,3,,https://www.dienmayxanh.com/tu-lanh/rt35cg5544b1sv,0307,0302
+030172,Samsung Inverter 616 lít RS64T5F01B4/SV,36490000,58900000,38,74,,https://www.dienmayxanh.com/tu-lanh/samsung-rs64t5f01b4-sv,0307,0302
+030173,Samsung Inverter 648 lít RF59C766FB1/SV Mới 2023,31990000,42900000,25,6,,https://www.dienmayxanh.com/tu-lanh/tu-lanh-samsung-inverter-648-lit-rf59c766fb1-sv,0307,0302
+030174,Samsung Inverter 460 lít RT47CB66868ASV Mới 2023,17990000,20690000,13,5,,https://www.dienmayxanh.com/tu-lanh/samsung-inverter-460-lit-rt47cb66868asv,0307,0302
+030175,Samsung Inverter 310 lít RB30N4010BU/SV,11190000,16090000,30,16,,https://www.dienmayxanh.com/tu-lanh/samsung-rb30n4010bu-sv,0307,0302
+030176,Samsung Inverter 649 lít RF59C700ES9/SV Mới 2023,27790000,38900000,28,6,,https://www.dienmayxanh.com/tu-lanh/rf59c700es9-sv,0307,0302
+030177,Samsung Inverter 648 lít RF59CB66F8S/SV Mới 2023,38490000,49900000,22,7,,https://www.dienmayxanh.com/tu-lanh/tu-lanh-samsung-inverter-648-lit-rf59cb66f8s-sv,0307,0302
+030178,Samsung Inverter 305 lít RT31CB56248ASV Mới 2023,11990000,12890000,6,3,,https://www.dienmayxanh.com/tu-lanh/tu-lanh-samsung-inverter-305-lit-rt31cb56248asv,0307,0302
+030179,Samsung Inverter 302 lít RT29K503JB1/SV,8590000,10990000,21,24,,https://www.dienmayxanh.com/tu-lanh/samsung-inverter-302-lit-rt29k503jb1-sv,0307,0302
+030180,Samsung Inverter 305 lít RT31CG5424B1SV Mới 2023,10490000,11190000,6,0,,https://www.dienmayxanh.com/tu-lanh/tu-lanh-samsung-inverter-305-lit-rt31cg5424b1sv,0307,0302
+030181,Samsung Inverter 348 lít RT35CG5424B1SV Mới 2023,11490000,12690000,9,0,,https://www.dienmayxanh.com/tu-lanh/tu-lanh-samsung-inverter-348-lit-rt35cg5424b1sv,0307,0302
+030182,Samsung Inverter 319 lít RT32K5932BY/SV,12190000,15090000,19,255,,https://www.dienmayxanh.com/tu-lanh/samsung-rt32k5932by-sv,0307,0302
+030183,Samsung Inverter 385 lít RT38CB668412SV Mới 2023,16290000,17490000,6,0,,https://www.dienmayxanh.com/tu-lanh/rt38cb668412sv,0307,0302
+030184,Samsung Inverter 299 lít RT29K5532BY/SV,9990000,12790000,21,66,,https://www.dienmayxanh.com/tu-lanh/samsung-rt29k5532by-sv,0307,0302
+030185,Samsung Inverter 319 lít RT32K5932BU/SV,12190000,15190000,19,19,,https://www.dienmayxanh.com/tu-lanh/samsung-rt32k5932bu-sv,0307,0302
+030186,Samsung Inverter 339 lít RB33T307029/SV,29000000,32900000,11,5,,https://www.dienmayxanh.com/tu-lanh/samsunginverter-339-lit-rb33t307029-sv,0307,0302
+030187,Samsung Inverter 380 lít RT38K5982BS/SV,17880000,20090000,10,240,,https://www.dienmayxanh.com/tu-lanh/samsung-rt38k5982bs-sv,0307,0302
+030188,Samsung Inverter 460 lít RT46K603JB1/SV,15490000,16990000,8,17,,https://www.dienmayxanh.com/tu-lanh/samsung-inverter-460-lit-rt46k603jb1-sv,0307,0302
+030189,Samsung Inverter 599 lít RF60A91R177/SV,76900000,82900000,7,17,,https://www.dienmayxanh.com/tu-lanh/samsung-inverter-599-lit-rf60a91r177-sv,0307,0302
+030190,Samsung Inverter 339 lít RB33T307055/SV,29000000,32900000,11,18,,https://www.dienmayxanh.com/tu-lanh/samsunginverter-339-lit-rb33t307055-sv,0307,0302
+030191,Samsung Inverter 360 lít RT35K5982BS/SV,17090000,19590000,12,373,,https://www.dienmayxanh.com/tu-lanh/samsung-rt35k5982bs-sv,0307,0302
+030192,Samsung Inverter 256 lít RT25M4032BU/SV,7740000,9690000,20,10,,https://www.dienmayxanh.com/tu-lanh/samsung-rt25m4032bu-sv,0307,0302
+030193,Samsung Inverter 360 lít RT35K50822C/SV,16990000,19490000,12,24,,https://www.dienmayxanh.com/tu-lanh/samsung-rt35k50822c-sv,0307,0302
+030194,Samsung Inverter 380 lít RT38K50822C/SV,18090000,20090000,9,34,,https://www.dienmayxanh.com/tu-lanh/samsung-rt38k50822c-sv,0307,0302
+030195,Samsung Inverter 323 lít RZ32T744535/SV,23900000,26900000,11,4,,https://www.dienmayxanh.com/tu-lanh/samsung-inverter-323-lit-rz32t744535-sv,0307,0302
+030196,Samsung Inverter 678 lít RB33T307029/SV,65800000,65800000,0,0,,https://www.dienmayxanh.com/tu-lanh/combo-2-samsung-rb33t307029-sv,0307,0302
+030197,Samsung Inverter 678 lít RB33T307055/SV,65800000,65800000,0,0,,https://www.dienmayxanh.com/tu-lanh/combo-2-samsung-rb33t307055-sv,0307,0302
+030198,Samsung Inverter 678 lít RB33T307055/SV & RB33T307029/SV,65800000,65800000,0,0,,https://www.dienmayxanh.com/tu-lanh/combo-2-samsung-rb33t307055-sv-rb33t307029-sv,0307,0302
+030199,Samsung Inverter 646 lít RZ32T744535/SV,53800000,53800000,0,0,,https://www.dienmayxanh.com/tu-lanh/combo-2-samsung-rz32t744535-sv,0307,0302
+030200,Samsung Inverter 662 lít RZ32T744535/SV & RB33T307029/SV,59800000,59800000,0,0,,https://www.dienmayxanh.com/tu-lanh/combo-samsung-rz32t744535-sv-rb33t307029-sv,0307,0302
+030201,Samsung Inverter 662 lít RZ32T744535/SV & RB33T307055/SV,59800000,59800000,0,0,,https://www.dienmayxanh.com/tu-lanh/combo-samsung-rz32t744535-sv-rb33t307055-sv,0307,0302
+030202,Panasonic Inverter 170 lít NR-BA190PPVN,6590000,6590000,0,602,,https://www.dienmayxanh.com/tu-lanh/panasonic-nr-ba190ppvn,0314,0302
+030203,Panasonic Inverter 234 lít NR-TV261BPKV,8990000,8990000,0,187,,https://www.dienmayxanh.com/tu-lanh/panasonic-nr-tv261bpkv,0314,0302
+030204,Panasonic Inverter 326 lít NR-TL351VGMV,13490000,13490000,0,70,,https://www.dienmayxanh.com/tu-lanh/panasonic-inverter-326-lit-nr-tl351vgmv,0314,0302
+030205,Panasonic Inverter 306 lít NR-TV341VGMV,12590000,12590000,0,142,,https://www.dienmayxanh.com/tu-lanh/panasonic-nr-tv341vgmv,0314,0302
+030206,Panasonic Inverter 234 lít NR-TV261APSV,8090000,8090000,0,205,,https://www.dienmayxanh.com/tu-lanh/panasonic-nr-tv261apsv,0314,0302
+030207,Panasonic Inverter 188 lít NR-BA229PKVN,7390000,7390000,0,560,,https://www.dienmayxanh.com/tu-lanh/panasonic-nr-ba229pkvn,0314,0302
+030208,Panasonic Inverter 268 lít NR-TV301VGMV,10990000,10990000,0,62,,https://www.dienmayxanh.com/tu-lanh/panasonic-nr-tv301vgvm,0314,0302
+030209,Panasonic Inverter 366 lít NR-TL381VGMV,15090000,15090000,0,69,,https://www.dienmayxanh.com/tu-lanh/panasonic-inverter-366-lit-nr-tl381vgmv,0314,0302
+030210,Panasonic Inverter 255 lít NR-BV281BGMV Mới 2023,12590000,12590000,0,5,,https://www.dienmayxanh.com/tu-lanh/tu-lanh-panasonic-inverter-255-lit-nr-bv281bgmv,0314,0302
+030211,Panasonic Inverter 300 lít NR-BV331WGKV,16990000,16990000,0,9,,https://www.dienmayxanh.com/tu-lanh/tu-lanh-panasonic-300-lit-nr-bv331wgkv,0314,0302
+030212,Panasonic Inverter 417 lít NR-BX471GPKV,20490000,20490000,0,235,,https://www.dienmayxanh.com/tu-lanh/panasonic-nr-bx471gpkv,0314,0302
+030213,Panasonic Inverter 325 lít NR-BC361VGMV Mới 2023,16590000,16590000,0,5,,https://www.dienmayxanh.com/tu-lanh/tu-lanh-panasonic-325-lit-nr-bc361vgmv,0314,0302
+030214,Panasonic Inverter 377 lít NR-BX421GPKV,18490000,18490000,0,133,,https://www.dienmayxanh.com/tu-lanh/panasonic-nr-bx421gpkv,0314,0302
+030215,Panasonic Inverter 495 lít NR-CW530XMMV,42990000,42990000,0,20,,https://www.dienmayxanh.com/tu-lanh/panasonic-inverter-495-lit-nr-cw530xmmv,0314,0302
+030216,Panasonic Inverter 325 lít NR-BV361WGKV,18990000,18990000,0,11,,https://www.dienmayxanh.com/tu-lanh/tu-lanh-panasonic-325-lit-nr-bv361wgkv,0314,0302
+030217,Panasonic Inverter 550 lít NR-DZ601VGKV,29890000,32990000,9,31,,https://www.dienmayxanh.com/tu-lanh/panasonic-inverter-550-lit-nr-dz601vgkv,0314,0302
+030218,Panasonic Inverter 326 lít NR-TL351GPKV,13490000,13490000,0,47,,https://www.dienmayxanh.com/tu-lanh/panasonic-inverter-326-lit-nr-tl351gpkv,0314,0302
+030219,Panasonic Inverter 255 lít NR-BV280QSVN,11590000,11590000,0,340,,https://www.dienmayxanh.com/tu-lanh/panasonic-nr-bv280qsvn,0314,0302
+030220,Panasonic Inverter 366 lít NR-TL381GPKV,15090000,15090000,0,58,,https://www.dienmayxanh.com/tu-lanh/panasonic-inverter-366-lit-nr-tl381gpkv,0314,0302
+030221,Panasonic Inverter 540 lít NR-YW590YMMV,49990000,62990000,20,16,,https://www.dienmayxanh.com/tu-lanh/panasonic-540-lit-nr-yw590ymmv,0314,0302
+030222,Panasonic Inverter 405 lít NR-TX461GPKV,16590000,16590000,0,92,,https://www.dienmayxanh.com/tu-lanh/panasonic-inverter-405-lit-nr-tx461gpkv,0314,0302
+030223,Panasonic Inverter 322 lít NR-BV360GKVN,17490000,17490000,0,68,,https://www.dienmayxanh.com/tu-lanh/panasonic-nr-bv360gkvn,0314,0302
+030224,Panasonic Inverter 290 lít NR-BV320WKVN,13300000,13300000,0,57,,https://www.dienmayxanh.com/tu-lanh/panasonic-nr-bv320wkvn,0314,0302
+030225,Panasonic Inverter 322 lít NR-BC360QKVN,16290000,16290000,0,270,,https://www.dienmayxanh.com/tu-lanh/panasonic-nr-bc360qkvn,0314,0302
+030226,Panasonic Inverter 322 lít NR-BC360WKVN,14700000,14700000,0,56,,https://www.dienmayxanh.com/tu-lanh/panasonic-nr-bc360wkvn,0314,0302
+030227,Panasonic Inverter 491 lít NR-F503GT-X2,50300000,50300000,0,9,,https://www.dienmayxanh.com/tu-lanh/panasonic-nr-f503gt-x2,0314,0302
+030228,Panasonic Inverter 255 lít NR-BV280WKVN,11600000,11600000,0,37,,https://www.dienmayxanh.com/tu-lanh/panasonic-nr-bv280wkvn,0314,0302
+030229,Panasonic Inverter 550 lít NR-DZ601YGKV,29990000,37990000,21,8,,https://www.dienmayxanh.com/tu-lanh/panasonic-550-lit-nr-dz601ygkv,0314,0302
+030230,Aqua Inverter 260 lít AQR-I298EB BS,6990000,10990000,36,65,,https://www.dienmayxanh.com/tu-lanh/aqua-aqr-i298eb-bs,0316,0302
+030231,Aqua Inverter 189 lít AQR-T220FA(FB) Mới 2023,4950000,5490000,9,68,,https://www.dienmayxanh.com/tu-lanh/tu-lanh-aqua-aqr-t220fa-fb,0316,0302
+030232,Aqua 130 lít AQR-T150FA(BS),4590000,4590000,0,238,,https://www.dienmayxanh.com/tu-lanh/aqua-aqr-t150fa-bs,0316,0302
+030233,Aqua 90 lít AQR-D99FA(BS),2990000,3290000,9,365,,https://www.dienmayxanh.com/tu-lanh/aqua-aqr-d99fa-bs,0316,0302
+030234,Aqua 50 lít AQR-D59FA(BS),2790000,2790000,0,77,,https://www.dienmayxanh.com/tu-lanh/aqua-aqr-d59fa-bs,0316,0302
+030235,Aqua Inverter 541 lít AQR-S541XA(BL),13490000,20490000,34,46,,https://www.dienmayxanh.com/tu-lanh/tu-lanh-aqua-aqr-s541xa-bl,0316,0302
+030236,Aqua Inverter 320 lít AQR-B399MA(WHB),11490000,13990000,17,45,,https://www.dienmayxanh.com/tu-lanh/aqua-aqr-b399ma-whb,0316,0302
+030237,Aqua Inverter 347 lít AQR-T400FA(WFB) Mới 2023,9990000,10790000,7,7,,https://www.dienmayxanh.com/tu-lanh/tu-lanh-aqua-aqr-t400fa-fb,0316,0302
+030238,Aqua Inverter 456 lít AQR-M525XA(FB),16490000,17990000,8,51,,https://www.dienmayxanh.com/tu-lanh/tu-lanh-aqua-inverter-456-lit-aqr-m525xa-fb,0316,0302
+030239,Aqua Inverter 212 lít AQR-T239FA(HB),5890000,6090000,0,82,,https://www.dienmayxanh.com/tu-lanh/aqua-aqr-t239fa-hb,0316,0302
+030240,Aqua Inverter 456 lít AQR-IG525AM GB,18990000,21290000,10,99,,https://www.dienmayxanh.com/tu-lanh/aqua-aqr-ig525am-gb,0316,0302
+030241,Aqua Inverter 456 lít AQR-IGW525EM GB,21090000,25090000,15,41,,https://www.dienmayxanh.com/tu-lanh/aqua-aqr-igw525em-gb,0316,0302
+030242,Aqua Inverter 211 lít AQR-T238FA(FB),6590000,6790000,0,40,,https://www.dienmayxanh.com/tu-lanh/aqua-aqr-t238fa-fb,0316,0302
+030243,Aqua Inverter 333 lít AQR-T352FA(FB),8390000,9890000,15,6,,https://www.dienmayxanh.com/tu-lanh/tu-lanh-aqua-aqr-t352fa-fb,0316,0302
+030244,Aqua Inverter 245 lít AQR-T259FA(FB),6990000,7690000,9,26,,https://www.dienmayxanh.com/tu-lanh/aqua-inverter-245-lit-aqr-t259fa-fb,0316,0302
+030245,Aqua Inverter 283 lít AQR-T299FA(FB),8090000,8590000,5,17,,https://www.dienmayxanh.com/tu-lanh/aqua-inverter-283-lit-aqr-t299fa-fb,0316,0302
+030246,Aqua Inverter 357 lít AQR-T376FA(FB),9490000,11290000,15,4,,https://www.dienmayxanh.com/tu-lanh/tu-lanh-aqua-aqr-t376fa-fb,0316,0302
+030247,Aqua Inverter 549 lít AQR-IG636FM(GB),20490000,25990000,21,15,,https://www.dienmayxanh.com/tu-lanh/aqua-aqr-ig636fm-gb,0316,0302
+030248,Aqua Inverter 312 lít AQR-T359MA(GB),11090000,12090000,8,59,,https://www.dienmayxanh.com/tu-lanh/aqua-aqr-t359ma-gb,0316,0302
+030249,Aqua Inverter 347 lít AQR-T389FA(WGB),9790000,12490000,21,18,,https://www.dienmayxanh.com/tu-lanh/aqua-aqr-t389fa-wgb,0316,0302
+030250,Aqua Inverter 602 lít AQR-IG696FS GB,18990000,25090000,24,7,,https://www.dienmayxanh.com/tu-lanh/aqua-aqr-ig696fs-gb,0316,0302
+030251,Aqua Inverter 292 lít AQR-B348MA(FB),8700000,11600000,25,13,,https://www.dienmayxanh.com/tu-lanh/aqua-aqr-b348ma-fb,0316,0302
+030252,Aqua Inverter 320 lít AQR-B379MA(WGB),15490000,15990000,0,9,,https://www.dienmayxanh.com/tu-lanh/aqr-b379ma-wgb,0316,0302
+030253,Aqua Inverter 324 lít AQR-IG378EB GB,14200000,15300000,7,11,,https://www.dienmayxanh.com/tu-lanh/aqua-aqr-ig378eb-gb,0316,0302
+030254,Aqua Inverter 524 lít AQR-SW541XA(BL),18100000,20600000,12,11,,https://www.dienmayxanh.com/tu-lanh/aqua-inverter-524-lit-aqr-sw541xa-bl,0316,0302
+030255,Aqua Inverter 260 lít AQR-B306MA(HB),9490000,11490000,17,0,,https://www.dienmayxanh.com/tu-lanh/aqua-inverter-260-lit-aqr-b306ma-hb,0316,0302
+030256,Aqua Inverter 318 lít AQR-T369FA (WBS),9000000,10500000,14,42,,https://www.dienmayxanh.com/tu-lanh/tu-lanh-aqua-inverter-318-lit-aqr-t369fa-wbs,0316,0302
+030257,LG Inverter 374 lít GN-D372BLA,12990000,18990000,31,106,,https://www.dienmayxanh.com/tu-lanh/lg-inverter-374-lit-gn-d372bla,0306,0302
+030258,LG Inverter 217 lít GV-B212WB,6190000,8990000,31,349,,https://www.dienmayxanh.com/tu-lanh/tu-lanh-lg-gv-b212wb,0306,0302
+030259,LG Inverter 266 lít GV-B262WB,5990000,10990000,45,382,,https://www.dienmayxanh.com/tu-lanh/tu-lanh-lg-inverter-266-lit-gv-b262wb,0306,0302
+030260,LG Inverter 315 lít GN-M312BL,9390000,11990000,21,127,,https://www.dienmayxanh.com/tu-lanh/lg-inverter-315-lit-gn-m312bl,0306,0302
+030261,LG Inverter 264 lít GV-D262BL,6490000,11990000,45,102,,https://www.dienmayxanh.com/tu-lanh/tu-lanh-lg-inverter-264-lit-gv-d262bl,0306,0302
+030262,LG Inverter 519 lít GR-B256JDS Mới 2023,14990000,19990000,25,10,,https://www.dienmayxanh.com/tu-lanh/lg-gr-b256jds,0306,0302
+030263,LG Inverter 374 lít GN-D372BL,12490000,16490000,24,134,,https://www.dienmayxanh.com/tu-lanh/lg-inverter-374-lit-gn-d372bl,0306,0302
+030264,LG Inverter 394 lít GN-D392BLA,15490000,19490000,20,183,,https://www.dienmayxanh.com/tu-lanh/lg-inverter-394-lit-gn-d392bla,0306,0302
+030265,LG Inverter 635 lít GR-X257MC,32990000,56990000,42,65,,https://www.dienmayxanh.com/tu-lanh/lg-inverter-635-lit-gr-x257mc,0306,0302
+030266,LG Inverter 649 lít GR-B257JDS,12990000,23490000,44,254,,https://www.dienmayxanh.com/tu-lanh/lg-inverter-649-lit-gr-b257jds,0306,0302
+030267,LG Inverter 649 lít GR-B257WB,15890000,25490000,37,111,,https://www.dienmayxanh.com/tu-lanh/lg-inverter-649-lit-gr-b257wb,0306,0302
+030268,LG Inverter 635 lít GR-D257WB,26990000,35990000,25,124,,https://www.dienmayxanh.com/tu-lanh/lg-inverter-635-lit-gr-d257wb,0306,0302
+030269,LG Inverter 335 lít GN-M332BL,10990000,13990000,21,80,,https://www.dienmayxanh.com/tu-lanh/lg-inverter-335-lit-gn-m332bl,0306,0302
+030270,LG Inverter 314 lít GN-D312BL,10390000,12990000,20,68,,https://www.dienmayxanh.com/tu-lanh/lg-inverter-314-lit-gn-d312bl,0306,0302
+030271,LG Inverter 635 lít GR-D257MC,29990000,40990000,26,51,,https://www.dienmayxanh.com/tu-lanh/lg-inverter-635-lit-gr-d257mc,0306,0302
+030272,LG Inverter 635 lít GR-X257JS,32690000,55990000,41,48,,https://www.dienmayxanh.com/tu-lanh/lg-inverter-635-lit-gr-x257js,0306,0302
+030273,LG Inverter 530 lít GR-B53MB,19390000,28990000,33,7,,https://www.dienmayxanh.com/tu-lanh/tu-lanh-lg-gr-b53mb,0306,0302
+030274,LG Inverter 635 lít GR-D257JS,29990000,38990000,23,45,,https://www.dienmayxanh.com/tu-lanh/lg-inverter-635-lit-gr-d257js,0306,0302
+030275,LG Inverter 530 lít GR-B53PS,19000000,27990000,32,9,,https://www.dienmayxanh.com/tu-lanh/tu-lanh-lg-inverter-530-lit-gr-b53ps,0306,0302
+030276,LG Inverter 655 lít GR-Q257MC,27990000,41990000,33,0,,https://www.dienmayxanh.com/tu-lanh/tu-lanh-lg-inverter-655-lit-gr-q257mc,0306,0302
+030277,LG Inverter 496 lít GR-X22MB,54990000,54990000,0,31,,https://www.dienmayxanh.com/tu-lanh/lg-inverter-496-lit-gr-x22mb,0306,0302
+030278,LG Inverter 613 lít GR-B247WB,16000000,18300000,12,78,,https://www.dienmayxanh.com/tu-lanh/lg-gr-b247wb,0306,0302
+030279,LG Inverter 601 lít GR-X247JS,41700000,46100000,9,64,,https://www.dienmayxanh.com/tu-lanh/lg-gr-x247js,0306,0302
+030280,LG Inverter 601 lít GR-D247JDS,32480000,34890000,6,40,,https://www.dienmayxanh.com/tu-lanh/lg-gr-d247jds,0306,0302
+030281,LG Inverter 601 lít GR-X247MC,44300000,48300000,8,43,,https://www.dienmayxanh.com/tu-lanh/lg-gr-x247mc,0306,0302
+030282,LG Inverter 601 lít GR-D247MC,28700000,33110000,13,17,,https://www.dienmayxanh.com/tu-lanh/lg-gr-d247mc,0306,0302
+030283,Toshiba Inverter 180 lít GR-B22VU UKG,5190000,5690000,8,521,,https://www.dienmayxanh.com/tu-lanh/toshiba-gr-b22vu-ukg,0313,0302
+030284,Toshiba Inverter 511 lít GR-RF610WE-PGV(22)-XK,20490000,24090000,14,171,,https://www.dienmayxanh.com/tu-lanh/toshiba-gr-rf610we-pgv-22-xk,0313,0302
+030285,Toshiba Inverter 249 lít GR-RT325WE-PMV(06)-MG,7690000,9990000,23,88,,https://www.dienmayxanh.com/tu-lanh/toshiba-inverter-249-lit-gr-rt325we-pmv-06-mg,0313,0302
+030286,Toshiba Inverter 233 lít GR-A28VM(UKG1),6790000,7490000,9,100,,https://www.dienmayxanh.com/tu-lanh/toshiba-gr-a28vm-ukg1,0313,0302
+030287,Toshiba Inverter 311 lít GR-RT395WE-PMV(06)-MG,9990000,13090000,23,38,,https://www.dienmayxanh.com/tu-lanh/toshiba-gr-rt395we-pmv-06-mg,0313,0302
+030288,Toshiba Inverter 253 lít GR-B31VU SK,6890000,7190000,0,256,,https://www.dienmayxanh.com/tu-lanh/toshiba-gr-b31vu-sk,0313,0302
+030289,Toshiba Inverter 460 lít GR-RS600WI-PMV(37)-SG,13490000,14490000,6,27,,https://www.dienmayxanh.com/tu-lanh/tu-lanh-toshiba-inverter-460-lit-gr-rs600wi-pmv-37-sg,0313,0302
+030290,Toshiba Inverter 337 lít GR-RT435WE-PMV(06)-MG,10990000,14290000,23,31,,https://www.dienmayxanh.com/tu-lanh/toshiba-gr-rt435we-pmv-06-mg,0313,0302
+030291,Toshiba Inverter 407 lít GR-RT535WE-PMV(06)-MG,12990000,16090000,19,13,,https://www.dienmayxanh.com/tu-lanh/toshiba-gr-rt535we-pmv-06-mg,0313,0302
+030292,Toshiba Inverter 596 lít GR-RS780WI-PGV(22)-XK,19690000,29990000,34,12,,https://www.dienmayxanh.com/tu-lanh/toshiba-inverter-596-lit-gr-rs780wi-pgv-22-xk,0313,0302
+030293,Toshiba Inverter 509 lít GR-RF605WI-PMV(06)-MG,20490000,25990000,21,25,,https://www.dienmayxanh.com/tu-lanh/tu-lanh-toshiba-inverter-509-lit-gr-rf605wi-pmv-06-mg,0313,0302
+030294,Toshiba Inverter 194 lít GR-A25VM(UKG1),6190000,6590000,6,71,,https://www.dienmayxanh.com/tu-lanh/toshiba-gr-a25vm-ukg1,0313,0302
+030295,Toshiba Inverter 596 lít GR-RS775WI-PMV(06)-MG,17990000,17990000,0,5,,https://www.dienmayxanh.com/tu-lanh/tu-lanh-toshiba-inverter-596-lit-gr-rs775wi-pmv-06-mg,0313,0302
+030296,Toshiba Inverter 325 lít GR-RB410WE-PMV(37)-SG,9990000,15290000,34,27,,https://www.dienmayxanh.com/tu-lanh/tu-lanh-toshiba-inverter-325-lit-gr-rb410we-pmv-37-sg,0313,0302
+030297,Toshiba Inverter 322 lít GR-RB405WE-PMV(06)-MG,10990000,17090000,35,24,,https://www.dienmayxanh.com/tu-lanh/tu-lanh-toshiba-inverter-322-lit-gr-rb405we-pmv-06-mg,0313,0302
+030298,Toshiba Inverter 336 lít GR-RT435WEA-PMV(06)-MG,11990000,15190000,21,11,,https://www.dienmayxanh.com/tu-lanh/tu-lanh-toshiba-inverter-336-lit-gr-rt435wea-pmv-06-mg,0313,0302
+030299,Toshiba Inverter 511 lít GR-RF610WE-PMV(37)-SG,18990000,18990000,0,3,,https://www.dienmayxanh.com/tu-lanh/toshiba-inverter-511-lit-gr-rf610we-pmv-37-sg,0313,0302
+030300,Toshiba Inverter 608 lít GR-AG66VA (XK),19400000,20490000,5,37,,https://www.dienmayxanh.com/tu-lanh/toshiba-gr-ag66va-xk,0313,0302
+030301,Toshiba Inverter 270 lít GR-RB350WE-PMV(30)-BS,6990000,11590000,39,15,,https://www.dienmayxanh.com/tu-lanh/toshiba-gr-rb350we-pmv-30-bs,0313,0302
+030302,Toshiba Inverter 268 lít GR-RB345WE-PMV(30)-BS,7790000,9090000,14,14,,https://www.dienmayxanh.com/tu-lanh/toshiba-gr-rb345we-pmv-30-bs,0313,0302
+030303,Toshiba Inverter 515 lít GR-RF670WI-PGV(A9)-BG,26990000,26990000,0,0,,https://www.dienmayxanh.com/tu-lanh/tu-lanh-toshiba-inverter-515-lit-gr-rf670wi-pgv-a9-bg,0313,0302
+030304,Toshiba Inverter 515 lít GR-RF669WI-PGV(A9)-BG,28990000,28990000,0,0,,https://www.dienmayxanh.com/tu-lanh/tu-lanh-toshiba-inverter-515-lit-gr-rf669wi-pgv-a9-bg,0313,0302
+030305,Toshiba Inverter 513 lít GR-RS682WE-PMV(06)-MG,19300000,19300000,0,22,,https://www.dienmayxanh.com/tu-lanh/toshiba-gr-rs682we-pmv-06-mg,0313,0302
+030306,Sharp Inverter 401 lít SJ-FXP480VG-BK,19490000,20490000,0,67,,https://www.dienmayxanh.com/tu-lanh/sharp-sj-fxp480vg-bk,0312,0302
+030307,Sharp Inverter 605 lít SJ-FX688VG-BK,23990000,28990000,17,22,,https://www.dienmayxanh.com/tu-lanh/sharp-sj-fx688vg-bk,0312,0302
+030308,Sharp Inverter 525 lít SJ-FX600V-SL,18990000,19990000,5,19,,https://www.dienmayxanh.com/tu-lanh/sharp-sj-fx600v-sl,0312,0302
+030309,Sharp Inverter 362 lít SJ-FX420VG-BK,17990000,18490000,0,11,,https://www.dienmayxanh.com/tu-lanh/tu-lanh-sharp-inverter-362-lit-sj-fx420vg-bk,0312,0302
+030310,Sharp Inverter 287 lít SJ-X316E-DS,8690000,8890000,0,37,,https://www.dienmayxanh.com/tu-lanh/sharp-sj-x316e-ds,0312,0302
+030311,Sharp Inverter 224 lít SJ-X251E-SL,5890000,7290000,19,41,,https://www.dienmayxanh.com/tu-lanh/sharp-sj-x251e-sl,0312,0302
+030312,Sharp Inverter 150 lít SJ-X176E-SL,4690000,5990000,21,154,,https://www.dienmayxanh.com/tu-lanh/sharp-sj-x176e-sl,0312,0302
+030313,Sharp Inverter 165 lít SJ-X196E-DSS,6190000,6190000,0,89,,https://www.dienmayxanh.com/tu-lanh/sharp-sj-x196e-dss,0312,0302
+030314,Sharp Inverter 572 lít SJ-FX640V-SL,22000000,27890000,21,18,,https://www.dienmayxanh.com/tu-lanh/sharp-sj-fx640v-sl,0312,0302
+030315,Sharp Inverter 401 lít SJ-FXP480V-SL,17990000,18990000,5,70,,https://www.dienmayxanh.com/tu-lanh/sharp-sj-fxp480v-sl,0312,0302
+030316,Sharp Inverter 572 lít SJ-FXP640VG-BK,23890000,27690000,13,12,,https://www.dienmayxanh.com/tu-lanh/sharp-sj-fxp640vg-bk,0312,0302
+030317,Sharp Inverter 401 lít SJ-FXP480VG-CH,20190000,21190000,0,36,,https://www.dienmayxanh.com/tu-lanh/sharp-sj-fxp480vg-ch,0312,0302
+030318,Sharp Inverter 182 lít SJ-X201E-DS,6590000,6690000,0,190,,https://www.dienmayxanh.com/tu-lanh/sharp-sj-x201e-ds,0312,0302
+030319,Sharp Inverter 253 lít SJ-X281E-DS,7690000,7790000,0,103,,https://www.dienmayxanh.com/tu-lanh/tu-lanh-sharp-sj-x281e-ds,0312,0302
+030320,Sharp Inverter 556 lít SJ-FX630V-ST,15490000,19990000,22,102,,https://www.dienmayxanh.com/tu-lanh/sharp-sj-fx630v-st,0312,0302
+030321,Sharp Inverter 525 lít SJ-FXP600VG-BK,21600000,26690000,19,16,,https://www.dienmayxanh.com/tu-lanh/sharp-sj-fxp600vg-bk,0312,0302
+030322,Sharp Inverter 360 lít SJ-XP382AE-DS Mới 2023,11090000,11090000,0,0,,https://www.dienmayxanh.com/tu-lanh/tu-lanh-sharp-inverter-360-lit-sj-xp382ae-ds,0312,0302
+030323,Sharp Inverter 520 lít SJ-XP570PG-MR,14600000,14600000,0,0,,https://www.dienmayxanh.com/tu-lanh/sharp-sj-xp570pg-mr,0312,0302
+030324,Sharp Inverter 560 lít SJ-XP620PG-BK,15000000,15000000,0,0,,https://www.dienmayxanh.com/tu-lanh/sharp-inverter-560-lit-sj-xp620pg-bk,0312,0302
+030325,Sharp Inverter 330 lít SJ-XP352AE-SL Mới 2023,10590000,10590000,0,0,,https://www.dienmayxanh.com/tu-lanh/tu-lanh-sharp-inverter-330-lit-sj-xp352ae-sl,0312,0302
+030326,Sharp Inverter 442 lít SJ-SBX440VG-BK,16990000,16990000,0,0,,https://www.dienmayxanh.com/tu-lanh/tu-lanh-sharp-inverter-442-lit-sj-sbx440vg-bk,0312,0302
+030327,Sharp Inverter 532 lít SJ-SBX530VG-BK,17390000,18990000,8,0,,https://www.dienmayxanh.com/tu-lanh/tu-lanh-sharp-inverter-532-lit-sj-sbx530vg-bk,0312,0302
+030328,Sharp Inverter 607 lít SJ-FXPI689V-RS,29990000,31990000,6,0,,https://www.dienmayxanh.com/tu-lanh/tu-lanh-sharp-inverter-607-lit-sj-fxpi689v-rs,0312,0302
+030329,Beko Inverter 375 lít RDNT401I50VK,7490000,9490000,21,51,,https://www.dienmayxanh.com/tu-lanh/beko-inverter-375-lit-rdnt401i50vk,0315,0302
+030330,Beko Inverter 189 lít RDNT201I50VK,5490000,5990000,8,26,,https://www.dienmayxanh.com/tu-lanh/tu-lanh-beko-inverter-189-lit-rdnt201i50vk,0315,0302
+030331,Beko Inverter 340 lít RDNT371I50VK,8490000,8990000,5,35,,https://www.dienmayxanh.com/tu-lanh/beko-inverter-340-lit-rdnt371i50vk,0315,0302
+030332,Beko Inverter 250 lít RDNT271I50VWB,6790000,6790000,0,150,,https://www.dienmayxanh.com/tu-lanh/beko-rdnt271i50vwb,0315,0302
+030333,Beko Inverter 230 lít RDNT251I50VWB,6490000,6490000,0,45,,https://www.dienmayxanh.com/tu-lanh/beko-rdnt251i50vwb,0315,0302
+030334,Beko 90 lít RS9052S Mới 2023,3090000,3190000,0,0,,https://www.dienmayxanh.com/tu-lanh/rs9052s,0315,0302
+030335,Beko Inverter 340 lít RDNT371E50VZGB,9990000,10990000,9,6,,https://www.dienmayxanh.com/tu-lanh/beko-rdnt371e50vzgb,0315,0302
+030336,Beko Inverter 375 lít RDNT401E50VZDK,9490000,10490000,9,32,,https://www.dienmayxanh.com/tu-lanh/beko-rdnt401e50vzdk,0315,0302
+030337,Beko Inverter 553 lít GNO51651GBVN,21990000,24990000,12,4,,https://www.dienmayxanh.com/tu-lanh/beko-inverter-553-lit-gno51651gbvn,0315,0302
+030338,Beko Inverter 340 lít RDNT371E50VZK,9990000,10990000,9,31,,https://www.dienmayxanh.com/tu-lanh/beko-rdnt371e50vzk,0315,0302
+030339,Beko Inverter 422 lít RDNT470I50VK,9400000,9400000,0,15,,https://www.dienmayxanh.com/tu-lanh/beko-inverter-422-lit-rdnt470i50vk,0315,0302
+030340,Beko Inverter 553 lít GNO51651KVN,18000000,19000000,5,6,,https://www.dienmayxanh.com/tu-lanh/beko-inverter-553-lit-gno51651kvn,0315,0302
+030341,Beko Inverter 622 lít GNO62251GBVN,16990000,19990000,15,0,,https://www.dienmayxanh.com/tu-lanh/tu-lanh-beko-inverter-622-lit-gno62251gbvn,0315,0302
+030342,Electrolux 94 lít EUM0930AD-VN,3990000,3990000,0,136,,https://www.dienmayxanh.com/tu-lanh/electrolux-94-lit-eum0930ad-vn,0318,0302
+030343,Electrolux Inverter 308 lít EBB3462K-H,14090000,17290000,18,26,,https://www.dienmayxanh.com/tu-lanh/electrolux-ebb3462k-h,0318,0302
+030344,Electrolux Inverter 312 lít ETB3440K-H,11890000,13890000,14,22,,https://www.dienmayxanh.com/tu-lanh/electrolux-etb3440k-h,0318,0302
+030345,Electrolux Inverter 341 lít ETB3740K-H,12890000,14890000,13,6,,https://www.dienmayxanh.com/tu-lanh/electrolux-etb3740k-h,0318,0302
+030346,Electrolux Inverter 308 lít EBB3442K-H,12400000,15400000,19,36,,https://www.dienmayxanh.com/tu-lanh/electrolux-ebb3442k-h,0318,0302
+030347,Electrolux Inverter 541 lít EQE6000A-B,19990000,25990000,23,7,,https://www.dienmayxanh.com/tu-lanh/electrolux-inverter-541-lit-eqe6000a-b,0318,0302
+030348,Electrolux Inverter 335 lít EBB3742K-H,13200000,15700000,15,12,,https://www.dienmayxanh.com/tu-lanh/electrolux-ebb3742k-h,0318,0302
+030349,Electrolux Inverter 619 lít ESE6645A-BVN,32990000,39990000,17,3,,https://www.dienmayxanh.com/tu-lanh/electrolux-inverter-619-lit-ese6645a-bvn,0318,0302
+030350,Electrolux Inverter 571 lít ESE6141A-BVN,23500000,26500000,11,0,,https://www.dienmayxanh.com/tu-lanh/electrolux-inverter-571-lit-ese6141a-bvn,0318,0302
+030351,Casper Inverter 200 lít RT-215VS,6990000,6990000,0,11,,https://www.dienmayxanh.com/tu-lanh/casper-inverter-200-lit-rt-215vs,0310,0302
+030352,Casper Inverter 258 lít RT-270VD,7990000,7990000,0,11,,https://www.dienmayxanh.com/tu-lanh/casper-inverter-258-lit-rt-270vd,0310,0302
+030353,Casper Inverter 462 lít RM-520VT,16490000,16490000,0,8,,https://www.dienmayxanh.com/tu-lanh/casper-inverter-462-lit-rm-520vt,0310,0302
+030354,Casper Inverter 550 lít RS-570VBW,12990000,16490000,21,12,,https://www.dienmayxanh.com/tu-lanh/casper-inverter-550-lit-rs-570vbw,0310,0302
+030355,Casper Inverter 300 lít RB-320VT,9800000,9800000,0,0,,https://www.dienmayxanh.com/tu-lanh/casper-inverter-300-lit-rb-320vt,0310,0302
+030356,Casper 185 lít RT-200VS,6390000,6390000,0,19,,https://www.dienmayxanh.com/tu-lanh/casper-185-lit-rt-200vs,0310,0302
+030357,Hitachi Inverter 569 lít R-WB640VGV0 GBK,34890000,40490000,13,22,,https://www.dienmayxanh.com/tu-lanh/hitachi-inverter-569-lit-r-wb640vgv0,0317,0302
+030358,Hitachi Inverter 339 lít R-FVX450PGV9 GBK,13390000,14290000,6,19,,https://www.dienmayxanh.com/tu-lanh/hitachi-inverter-406-lit-r-fvx450pgv9,0317,0302
+030359,Hitachi Inverter 569 lít R-WB640PGV1 GMG,29290000,33890000,13,26,,https://www.dienmayxanh.com/tu-lanh/hitachi-inverter-569-lit-r-wb640pgv1,0317,0302
+030360,Hitachi Inverter 509 lít R-FW650PGV8 GBK,20490000,23490000,12,28,,https://www.dienmayxanh.com/tu-lanh/hitachi-inverter-509-lit-r-fw650pgv8,0317,0302
+030361,Hitachi Inverter 275 lít R-B330PGV8 BSL,10890000,11490000,5,17,,https://www.dienmayxanh.com/tu-lanh/hitachi-inverter-275-lit-r-b330pgv8,0317,0302
+030362,Hitachi Inverter 349 lít R-FVY480PGV0 GBK,16290000,17190000,5,15,,https://www.dienmayxanh.com/tu-lanh/hitachi-inverter-349-lit-r-fvy480pgv0,0317,0302
+030363,Hitachi Inverter 573 lít R-SX800GPGV0 GBK,42200000,51490000,18,6,,https://www.dienmayxanh.com/tu-lanh/hitachi-inverter-573-lit-r-sx800gpgv0,0317,0302
+030364,Hitachi Inverter 569 lít R-WB640PGV1 GCK,29290000,30990000,5,0,,https://www.dienmayxanh.com/tu-lanh/tu-lanh-hitachi-569-lit-r-wb640pgv1-gck,0317,0302
+030365,Samsung Smart TV QLED QA65QN90C Mới 2023,53900000.0,54900000.0,0,0,Neo QLED,https://www.dienmayxanh.com/tivi/smart-tivi-neo-qled-4k-65-inch-samsung-qa65qn90c,0307,0303
+030366,Samsung Smart TV QLED QA75QN85A,36800000.0,84900000.0,56,3,Neo QLED,https://www.dienmayxanh.com/tivi/neo-qled-4k-samsung-qa75qn85a,0307,0303
+030367,Samsung Smart TV QLED QA55QN85A,24900000.0,41900000.0,40,9,Neo QLED,https://www.dienmayxanh.com/tivi/neo-qled-4k-samsung-qa55qn85a,0307,0303
+030368,Samsung Smart TV QLED QA65QN700B,32900000.0,59900000.0,45,0,Neo QLED,https://www.dienmayxanh.com/tivi/smart-neo-qled-8k-65-inch-samsung-qa65qn700b,0307,0303
+030369,Samsung Smart TV QLED QA85QN85B,64900000.0,89900000.0,27,4,Neo QLED,https://www.dienmayxanh.com/tivi/smart-neo-qled-4k-85-inch-samsung-qa85qn85b,0307,0303
+030370,Samsung Smart TV QLED QA50QN90A,19900000.0,39900000.0,50,9,Neo QLED,https://www.dienmayxanh.com/tivi/neo-qled-4k-samsung-qa50qn90a,0307,0303
+030371,Samsung Smart TV QLED QA55QN90A,30900000.0,44900000.0,31,47,Neo QLED,https://www.dienmayxanh.com/tivi/neo-qled-4k-samsung-qa55qn90a,0307,0303
+030372,Samsung Smart TV QLED QA65QN900B,63600000.0,99900000.0,36,0,Neo QLED,https://www.dienmayxanh.com/tivi/smart-neo-qled-8k-65-inch-samsung-qa65qn900b,0307,0303
+030373,Samsung Smart TV QLED QA75QN85B,54900000.0,69900000.0,21,0,Neo QLED,https://www.dienmayxanh.com/tivi/smart-neo-qled-4k-75-inch-samsung-qa75qn85b,0307,0303
+030374,Samsung Smart TV QLED QA85QN85A,53200000.0,124900000.0,57,0,Neo QLED,https://www.dienmayxanh.com/tivi/neo-qled-4k-samsung-qa85qn85a,0307,0303
+030375,Samsung Smart TV QLED QA98QN90A,139890000.0,155090000.0,9,0,Neo QLED,https://www.dienmayxanh.com/tivi/smart-neo-qled-4k-98-inch-samsung-qa98qn90a,0307,0303
+030376,Samsung Smart TV QLED QA75QN800A,139900000.0,139900000.0,0,0,Neo QLED,https://www.dienmayxanh.com/tivi/neo-qled-8k-samsung-qa75qn800a,0307,0303
+030377,Samsung Smart TV QLED QA85QN900C Mới 2023,218990000.0,218990000.0,0,0,Neo QLED,https://www.dienmayxanh.com/tivi/smart-tivi-neo-qled-8k-85-inch-samsung-qa85qn900c,0307,0303
+030378,Samsung Smart TV QLED QA75QN85C Mới 2023,76900000.0,76900000.0,0,0,Neo QLED,https://www.dienmayxanh.com/tivi/smart-tivi-neo-qled-4k-75-inch-samsung-qa75qn85c,0307,0303
+030379,Samsung Smart TV QLED QA85Q80B,45200000.0,59900000.0,24,3,QLED,https://www.dienmayxanh.com/tivi/smart-qled-4k-85-inch-samsung-qa85q80b,0307,0303
+030380,Samsung Smart TV QLED QA75Q70B,32200000.0,38900000.0,17,6,QLED,https://www.dienmayxanh.com/tivi/smart-qled-4k-75-inch-samsung-qa75q70b,0307,0303
+030381,Samsung Smart TV QLED QA75Q60C Mới 2023,35900000.0,35900000.0,0,0,QLED,https://www.dienmayxanh.com/tivi/smart-tivi-qled-4k-75-inch-samsung-qa75q60c,0307,0303
+030382,Samsung Smart TV QLED QA65Q65A,14990000.0,18900000.0,20,115,QLED,https://www.dienmayxanh.com/tivi/qled-4k-samsung-qa65q65a,0307,0303
+030383,Samsung Smart TV QLED QA43Q65A,11890000.0,12390000.0,0,106,QLED,https://www.dienmayxanh.com/tivi/qled-4k-samsung-qa43q65a,0307,0303
+030384,Samsung Smart TV QLED QA55Q65A,15400000.0,15400000.0,0,179,QLED,https://www.dienmayxanh.com/tivi/qled-4k-samsung-qa55q65a,0307,0303
+030385,Samsung Smart TV QLED QA50Q65A,13900000.0,14400000.0,0,149,QLED,https://www.dienmayxanh.com/tivi/qled-4k-samsung-qa50q65a,0307,0303
+030386,Samsung Smart TV QLED QA55Q60C Mới 2023,16900000.0,16900000.0,0,5,QLED,https://www.dienmayxanh.com/tivi/smart-tivi-qled-4k-55-inch-samsung-qa55q60c,0307,0303
+030387,Samsung Smart TV QLED QA75Q65A,23900000.0,33900000.0,29,16,QLED,https://www.dienmayxanh.com/tivi/qled-4k-samsung-qa75q65a,0307,0303
+030388,Samsung Smart TV QLED QA43Q60C Mới 2023,13900000.0,13900000.0,0,6,QLED,https://www.dienmayxanh.com/tivi/smart-tivi-qled-4k-43-inch-samsung-qa43q60c,0307,0303
+030389,Samsung Smart TV QLED QA65Q60C Mới 2023,20900000.0,20900000.0,0,6,QLED,https://www.dienmayxanh.com/tivi/smart-tivi-qled-4k-65-inch-samsung-qa65q60c,0307,0303
+030390,Samsung Smart TV QLED QA50Q60C Mới 2023,15900000.0,15900000.0,0,5,QLED,https://www.dienmayxanh.com/tivi/smart-tivi-qled-4k-50-inch-samsung-qa50q60c,0307,0303
+030391,Samsung Smart TV QLED QA55Q70B,18700000.0,18900000.0,0,20,QLED,https://www.dienmayxanh.com/tivi/smart-qled-4k-55-inch-samsung-qa55q70b,0307,0303
+030392,Samsung Smart TV QLED QA65Q70B,21400000.0,22400000.0,0,17,QLED,https://www.dienmayxanh.com/tivi/smart-qled-4k-65-inch-samsung-qa65q70b,0307,0303
+030393,Samsung Smart TV QLED QA75Q80B,29900000.0,40900000.0,26,6,QLED,https://www.dienmayxanh.com/tivi/smart-qled-4k-75-inch-samsung-qa75q80b,0307,0303
+030394,Samsung Smart TV QLED QA65Q80B,23500000.0,27900000.0,15,7,QLED,https://www.dienmayxanh.com/tivi/smart-qled-4k-65-inch-samsung-qa65q80b,0307,0303
+030395,Samsung Smart TV QLED QA55Q80A,21900000.0,33900000.0,35,43,QLED,https://www.dienmayxanh.com/tivi/qled-4k-samsung-qa55q80a,0307,0303
+030396,Samsung Smart TV QLED QA50Q80A,17900000.0,28900000.0,38,26,QLED,https://www.dienmayxanh.com/tivi/qled-4k-samsung-qa50q80a,0307,0303
+030397,Samsung Smart TV QLED QA65Q80A,21900000.0,42900000.0,48,44,QLED,https://www.dienmayxanh.com/tivi/qled-4k-samsung-qa65q80a,0307,0303
+030398,Samsung Smart TV QLED QA65Q80R,38030000.0,48890000.0,22,7,QLED,https://www.dienmayxanh.com/tivi/samsung-qa65q80r,0307,0303
+030399,Samsung Smart TV QLED QA82Q75R,43890000.0,69990000.0,37,0,QLED,https://www.dienmayxanh.com/tivi/samsung-qa82q75r,0307,0303
+030400,Samsung Smart TV QLED Xoay QA43LS05B,26000000.0,26900000.0,0,0,QLED,https://www.dienmayxanh.com/tivi/smart-man-hinh-xoay-the-sero-qled-samsung-4k-43-inch-qa43ls05b,0307,0303
+030401,Samsung Smart TV QLED QA85Q70C Mới 2023,64890000.0,64890000.0,0,0,QLED,https://www.dienmayxanh.com/tivi/smart-tivi-qled-4k-85-inch-samsung-qa85q70c,0307,0303
+030402,Samsung Smart TV QLED QA75Q75R,39190000.0,49990000.0,21,0,QLED,https://www.dienmayxanh.com/tivi/samsung-qa75q75r,0307,0303
+030403,Samsung Smart TV QLED QA65Q60T,22900000.0,25900000.0,11,7,QLED,https://www.dienmayxanh.com/tivi/samsung-qa65q60t,0307,0303
+030404,Samsung Smart TV QLED QA55Q80T,26310000.0,26310000.0,0,5,QLED,https://www.dienmayxanh.com/tivi/samsung-qa55q80t,0307,0303
+030405,Samsung Smart TV Crystal UHD UA55AU8100,12900000.0,13400000.0,0,317,Crystal UHD,https://www.dienmayxanh.com/tivi/led-4k-samsung-ua55au8100,0307,0303
+030406,Samsung Smart TV Crystal UHD UA50AU8100,11400000.0,12400000.0,8,167,Crystal UHD,https://www.dienmayxanh.com/tivi/led-4k-samsung-ua50au8100,0307,0303
+030407,Samsung Smart TV Crystal UHD UA65AU8100,11990000.0,16400000.0,26,203,Crystal UHD,https://www.dienmayxanh.com/tivi/led-4k-samsung-ua65au8100,0307,0303
+030408,Samsung Smart TV UA43CU8000 Mới 2023,11400000.0,11900000.0,0,6,Crystal UHD,https://www.dienmayxanh.com/tivi/smart-tivi-samsung-4k-43-inch-ua43cu8000,0307,0303
+030409,Samsung Smart TV Crystal UHD UA75AU8100,18990000.0,27890000.0,31,35,Crystal UHD,https://www.dienmayxanh.com/tivi/led-4k-samsung-ua75au8100,0307,0303
+030410,Samsung Smart TV UA50CU8000 Mới 2023,13400000.0,13400000.0,0,4,Crystal UHD,https://www.dienmayxanh.com/tivi/smart-tivi-samsung-4k-50-inch-ua50cu8000,0307,0303
+030411,Samsung Smart TV UA55CU8000 Mới 2023,14900000.0,14900000.0,0,7,Crystal UHD,https://www.dienmayxanh.com/tivi/smart-tivi-samsung-4k-55-inch-ua55cu8000,0307,0303
+030412,Samsung Smart TV UA65CU8000 Mới 2023,17900000.0,18900000.0,5,0,Crystal UHD,https://www.dienmayxanh.com/tivi/smart-tivi-samsung-4k-65-inch-ua65cu8000,0307,0303
+030413,Samsung Smart TV Crystal UHD UA43AU7200,7400000.0,12390000.0,40,33,Crystal UHD,https://www.dienmayxanh.com/tivi/led-4k-samsung-ua43au7200,0307,0303
+030414,Samsung Smart TV Crystal UHD UA70AU8100,16900000.0,31890000.0,47,29,Crystal UHD,https://www.dienmayxanh.com/tivi/led-4k-samsung-ua70au8100,0307,0303
+030415,Samsung Smart TV Crystal UHD UA65BU8500,17900000.0,21900000.0,18,10,Crystal UHD,https://www.dienmayxanh.com/tivi/smart-samsung-4k-65-inch-ua65bu8500,0307,0303
+030416,Samsung Smart TV Crystal UHD UA50AU7200,9400000.0,13890000.0,32,51,Crystal UHD,https://www.dienmayxanh.com/tivi/led-4k-samsung-ua50au7200,0307,0303
+030417,Samsung Smart TV Crystal UHD UA55BU8500,14900000.0,16900000.0,11,10,Crystal UHD,https://www.dienmayxanh.com/tivi/smart-samsung-4k-55-inch-ua55bu8500,0307,0303
+030418,Samsung Smart TV UA55AU7200,9900000.0,16890000.0,41,68,Crystal UHD,https://www.dienmayxanh.com/tivi/led-4k-samsung-ua55au7200,0307,0303
+030419,Samsung Smart TV Crystal UHD UA85BU8000,33490000.0,41900000.0,20,8,Crystal UHD,https://www.dienmayxanh.com/tivi/smart-samsung-4k-85-inch-ua85bu8000,0307,0303
+030420,Samsung Smart TV UA75CU8000 Mới 2023,28400000.0,31900000.0,10,0,Crystal UHD,https://www.dienmayxanh.com/tivi/smart-tivi-samsung-4k-75-inch-ua75cu8000,0307,0303
+030421,Samsung Smart TV Crystal UHD UA75TU8100,28100000.0,35900000.0,21,4,Crystal UHD,https://www.dienmayxanh.com/tivi/samsung-ua75tu8100,0307,0303
+030422,Samsung Smart TV Crystal UHD UA75BU8000,21890000.0,22390000.0,0,0,Crystal UHD,https://www.dienmayxanh.com/tivi/smart-samsung-4k-75-inch-ua75bu8000,0307,0303
+030423,Samsung Smart TV Crystal UHD UA60BU8000,20900000.0,22900000.0,8,0,Crystal UHD,https://www.dienmayxanh.com/tivi/smart-samsung-4k-60-inch-ua60bu8000,0307,0303
+030424,Samsung Smart TV QLED Khung tranh QA50LS03A,16900000.0,29900000.0,43,37,Lifestyle,https://www.dienmayxanh.com/tivi/the-frame-qled-4k-samsung-qa50ls03a,0307,0303
+030425,Samsung Smart TV Kiểu chữ I QA55LS01BA,23800000.0,23900000.0,0,4,Lifestyle,https://www.dienmayxanh.com/tivi/smart-tivi-kieu-chu-i-co-chan-the-serif-qled-samsung-4k-55-inch-qa55ls01ba,0307,0303
+030426,Smart Tivi Ngoài Trời The Terrace QLED Samsung 4K 75 inch QA75LST7T,29900000.0,50400000.0,40,0,Lifestyle,https://www.dienmayxanh.com/tivi/samsung-qa75lst7t,0307,0303
+030427,Samsung Smart TV QLED Khung tranh QA75LS03B,38600000.0,41900000.0,7,0,Lifestyle,https://www.dienmayxanh.com/tivi/smart-khung-tranh-the-frame-qled-samsung-4k-75-inch-qa75ls03b,0307,0303
+030428,Samsung Smart TV QLED Khung tranh QA85LS03B,69900000.0,69900000.0,0,0,Lifestyle,https://www.dienmayxanh.com/tivi/smart-khung-tranh-the-frame-qled-samsung-4k-85-inch-qa85ls03b,0307,0303
+030429,Samsung Smart TV QLED Kiểu chữ I QA50LS01BB,21900000.0,21900000.0,0,0,Lifestyle,https://www.dienmayxanh.com/tivi/smart-kieu-chu-i-co-chan-the-serif-qled-samsung-4k-50-inch-qa50ls01bb,0307,0303
+030430,Samsung Smart TV Micro LED The Wall MNA110MS1A,,,0,0,The Wall,https://www.dienmayxanh.com/tivi/samsung-micro-led-4k-mna110ms1a,0307,0303
+030431,Samsung Smart TV Micro LED The Wall MNA99MS1A,,,0,0,The Wall,https://www.dienmayxanh.com/tivi/samsung-micro-led-4k-mna99ms1a,0307,0303
+030432,Samsung Smart TV OLED QA55S95B,36800000.0,43900000.0,16,0,OLED,https://www.dienmayxanh.com/tivi/smart-tivi-oled-samsung-4k-55-inch-qa55s95b,0307,0303
+030433,Samsung Smart TV OLED QA77S95CA Mới 2023,102890000.0,108780000.0,5,0,OLED,https://www.dienmayxanh.com/tivi/smart-tivi-oled-samsung-4k-77-inch-qa77s95ca,0307,0303
+030434,Samsung Smart TV OLED QA65S95CA Mới 2023,63390000.0,69890000.0,9,0,OLED,https://www.dienmayxanh.com/tivi/smart-tivi-oled-samsung-4k-65-inch-qa65s95ca,0307,0303
+030435,Samsung Smart TV OLED QA55S95CA Mới 2023,43890000.0,43890000.0,0,0,OLED,https://www.dienmayxanh.com/tivi/smart-tivi-oled-samsung-4k-55-inch-qa55s95ca,0307,0303
+030436,Samsung Smart TV OLED QA77S90CA Mới 2023,93990000.0,93990000.0,0,0,OLED,https://www.dienmayxanh.com/tivi/smart-tivi-oled-samsung-4k-77-inch-qa77s90ca,0307,0303
+030437,Samsung Smart TV OLED QA65S90CA Mới 2023,58990000.0,58990000.0,0,0,OLED,https://www.dienmayxanh.com/tivi/smart-tivi-oled-samsung-4k-65-inch-qa65s90ca,0307,0303
+030438,Sony Google TV OLED XR-65A80K,45890000.0,53890000.0,14,14,Bravia XR OLED,https://www.dienmayxanh.com/tivi/google-oled-sony-4k-65-inch-xr-65a80k,0319,0303
+030439,Sony Google TV OLED XR-48A90K,36680000.0,41880000.0,12,0,Bravia XR OLED,https://www.dienmayxanh.com/tivi/google-oled-sony-4k-48-inch-xr-48a90k,0319,0303
+030440,Sony Google TV OLED XR-55A80K,36690000.0,42890000.0,14,7,Bravia XR OLED,https://www.dienmayxanh.com/tivi/google-oled-sony-4k-55-inch-xr-55a80k,0319,0303
+030441,Sony Google TV OLED XR-55A80L Mới 2023,44900000.0,46900000.0,0,0,Bravia XR OLED,https://www.dienmayxanh.com/tivi/google-tivi-oled-sony-4k-55-inch-55a80l,0319,0303
+030442,Sony Android TV OLED XR-65A90J,48800000.0,64900000.0,24,0,Bravia XR OLED,https://www.dienmayxanh.com/tivi/oled-sony-xr-65a90j,0319,0303
+030443,Sony Google TV OLED XR-77A80L Mới 2023,92900000.0,95400000.0,0,0,Bravia XR OLED,https://www.dienmayxanh.com/tivi/google-tivi-oled-sony-4k-77-inch-77a80l,0319,0303
+030444,Sony Android TV OLED XR-55A90J,41990000.0,52900000.0,20,3,Bravia XR OLED,https://www.dienmayxanh.com/tivi/oled-sony-xr-55a90j,0319,0303
+030445,Sony Google TV OLED XR-65A80L Mới 2023,62900000.0,64900000.0,0,0,Bravia XR OLED,https://www.dienmayxanh.com/tivi/google-tivi-oled-sony-4k-65-inch-65a80l,0319,0303
+030446,Sony Google TV KD-65X75K,15900000.0,18900000.0,15,85,Bravia XR LED,https://www.dienmayxanh.com/tivi/google-sony-4k-65-inch-kd-65x75k,0319,0303
+030447,Sony Google TV KD-55X80K,16400000.0,17900000.0,8,182,Bravia XR LED,https://www.dienmayxanh.com/tivi/android-sony-4k-55-inch-kd-55x80k,0319,0303
+030448,Sony Google TV KD-43X75K,10400000.0,11400000.0,8,244,Bravia XR LED,https://www.dienmayxanh.com/tivi/google-sony-4k-43-inch-kd-43x75k,0319,0303
+030449,Sony Google TV KD-43X80K,13900000.0,14400000.0,0,128,Bravia XR LED,https://www.dienmayxanh.com/tivi/android-sony-4k-43-inch-kd-43x80k,0319,0303
+030450,Sony Google TV KD-55X75K,12790000.0,15400000.0,16,191,Bravia XR LED,https://www.dienmayxanh.com/tivi/google-sony-4k-55-inch-kd-55x75k,0319,0303
+030451,Sony Google TV KD-32W830K,7490000.0,8190000.0,8,61,Bravia XR LED,https://www.dienmayxanh.com/tivi/google-sony-32-inch-kd-32w830k,0319,0303
+030452,Sony Google TV KD-65X80K,20900000.0,21900000.0,0,126,Bravia XR LED,https://www.dienmayxanh.com/tivi/android-sony-4k-65-inch-kd-65x80k,0319,0303
+030453,Sony Google TV KD-50X80K,15900000.0,16400000.0,0,105,Bravia XR LED,https://www.dienmayxanh.com/tivi/android-sony-4k-50-inch-kd-50x80k,0319,0303
+030454,Sony Google TV KD-50X75K,13400000.0,13900000.0,0,91,Bravia XR LED,https://www.dienmayxanh.com/tivi/google-sony-4k-50-inch-kd-50x75k,0319,0303
+030455,Sony Google TV KD-65X85K,22900000.0,26400000.0,13,38,Bravia XR LED,https://www.dienmayxanh.com/tivi/google-sony-4k-65-inch-kd-65x85k,0319,0303
+030456,Sony Google TV KD-75X80K,30890000.0,32890000.0,6,40,Bravia XR LED,https://www.dienmayxanh.com/tivi/android-sony-4k-75-inch-kd-75x80k,0319,0303
+030457,Sony Google TV KD-55X85K,20400000.0,22900000.0,10,25,Bravia XR LED,https://www.dienmayxanh.com/tivi/google-sony-4k-55-inch-kd-55x85k,0319,0303
+030458,Sony Google TV XR-55X90K,24400000.0,25900000.0,5,22,Bravia XR LED,https://www.dienmayxanh.com/tivi/google-sony-4k-55-inch-xr-55x90k,0319,0303
+030459,Sony Google TV XR-65X90K,26900000.0,30900000.0,12,29,Bravia XR LED,https://www.dienmayxanh.com/tivi/google-sony-4k-65-inch-xr-65x90k,0319,0303
+030460,Sony Google TV KD-55X80L Mới 2023,18390000.0,18890000.0,0,0,Bravia XR LED,https://www.dienmayxanh.com/tivi/google-tivi-sony-4k-55-inch-55x80l,0319,0303
+030461,Sony Google TV KD-50X80L Mới 2023,16890000.0,17190000.0,0,0,Bravia XR LED,https://www.dienmayxanh.com/tivi/google-tivi-sony-4k-50-inch-50x80l,0319,0303
+030462,Sony Google TV KD-50X85K,18900000.0,19900000.0,5,15,Bravia XR LED,https://www.dienmayxanh.com/tivi/google-sony-4k-50-inch-kd-50x85k,0319,0303
+030463,Sony Google TV KD-65X80L Mới 2023,22890000.0,23590000.0,0,0,Bravia XR LED,https://www.dienmayxanh.com/tivi/google-tivi-sony-4k-65-inch-65x80l,0319,0303
+030464,Sony Google TV KD-43X80L Mới 2023,15390000.0,15590000.0,0,4,Bravia XR LED,https://www.dienmayxanh.com/tivi/google-tivi-sony-4k-43-inch-43x80l,0319,0303
+030465,Sony Android TV KD-65X95J,31900000.0,39900000.0,20,10,Bravia XR LED,https://www.dienmayxanh.com/tivi/led-sony-kd-65x95j,0319,0303
+030466,Sony Google TV KD-85X85K,46790000.0,60890000.0,23,6,Bravia XR LED,https://www.dienmayxanh.com/tivi/google-sony-4k-85-inch-kd-85x85k,0319,0303
+030467,Sony Google TV KD-75X80L Mới 2023,33900000.0,35900000.0,5,0,Bravia XR LED,https://www.dienmayxanh.com/tivi/google-tivi-sony-4k-75-inch-75x80l,0319,0303
+030468,Sony Google TV KD-75X85K,32980000.0,39880000.0,17,6,Bravia XR LED,https://www.dienmayxanh.com/tivi/google-sony-4k-75-inch-kd-75x85k,0319,0303
+030469,Google Tivi Sony 4K 55 inch XR-55X90L,28900000.0,29900000.0,0,0,Bravia XR LED,https://www.dienmayxanh.com/tivi/google-tivi-sony-4k-55-inch-xr-55x90l,0319,0303
+030470,Sony Google TV XR-85X90K,57790000.0,69890000.0,17,6,Bravia XR LED,https://www.dienmayxanh.com/tivi/google-sony-4k-85-inch-xr-85x90k,0319,0303
+030471,Sony Google TV KD-85X80L Mới 2023,50890000.0,53890000.0,5,0,Bravia XR LED,https://www.dienmayxanh.com/tivi/google-tivi-sony-4k-85-inch-85x80l,0319,0303
+030472,Google Tivi Sony 4K 65 inch KD-65X85L,29890000.0,30890000.0,0,0,Bravia XR LED,https://www.dienmayxanh.com/tivi/google-tivi-sony-4k-65-inch-kd-65x85l,0319,0303
+030473,Sony Android TV KD-85X95J,64980000.0,85890000.0,24,0,Bravia XR LED,https://www.dienmayxanh.com/tivi/led-sony-kd-85x95j,0319,0303
+030474,Sony Google TV KD-50X81DK,15400000.0,16400000.0,6,0,Bravia XR LED,https://www.dienmayxanh.com/tivi/google-sony-4k-50-inch-kd-50x81dk,0319,0303
+030475,Sony Google TV KD-55X85L Mới 2023,22900000.0,23600000.0,0,0,Bravia XR LED,https://www.dienmayxanh.com/tivi/google-tivi-sony-4k-55-inch-kd-55x85l,0319,0303
+030476,Sony Google TV XR-65X90L Mới 2023,34900000.0,36400000.0,0,0,Bravia XR LED,https://www.dienmayxanh.com/tivi/google-tivi-sony-4k-65-inch-xr-65x90l,0319,0303
+030477,Sony Google TV XR-75X90L Mới 2023,47900000.0,49900000.0,0,0,Bravia XR LED,https://www.dienmayxanh.com/tivi/google-tivi-sony-4k-75-inch-xr-75x90l,0319,0303
+030478,Sony Google TV KD-75X85L Mới 2023,39890000.0,41390000.0,0,0,Bravia XR LED,https://www.dienmayxanh.com/tivi/google-tivi-sony-4k-75-inch-kd-75x85l,0319,0303
+030479,Sony Google TV KD-75X77L Mới 2023,29900000.0,30900000.0,0,0,Bravia XR LED,https://www.dienmayxanh.com/tivi/google-tivi-sony-4k-75-inch-kd-75x77l,0319,0303
+030480,Sony Google TV KD-65X77L Mới 2023,19900000.0,20400000.0,0,0,Bravia XR LED,https://www.dienmayxanh.com/tivi/google-tivi-sony-4k-65-inch-kd-65x77l,0319,0303
+030481,Sony Google TV KD-55X77L Mới 2023,15400000.0,15900000.0,0,0,Bravia XR LED,https://www.dienmayxanh.com/tivi/google-tivi-sony-4k-55-inch-kd-55x77l,0319,0303
+030482,Sony Google TV KD-50X77L Mới 2023,14700000.0,14700000.0,0,0,Bravia XR LED,https://www.dienmayxanh.com/tivi/google-tivi-sony-4k-50-inch-kd-50x77l,0319,0303
+030483,Sony Google TV KD-43X77L Mới 2023,12200000.0,12200000.0,0,0,Bravia XR LED,https://www.dienmayxanh.com/tivi/google-tivi-sony-4k-43-inch-kd-43x77l,0319,0303
+030484,Sony Google TV XR-65X95K,49990000.0,60900000.0,17,0,Bravia XR Mini LED,https://www.dienmayxanh.com/tivi/google-sony-4k-65-inch-xr-65x95k,0319,0303
+030485,Sony Google TV XR-75X95K,64390000.0,79890000.0,19,6,Bravia XR Mini LED,https://www.dienmayxanh.com/tivi/google-mini-led-sony-4k-75-inch-xr-75x95k,0319,0303
+030486,Sony Google TV XR-85X95K,88090000.0,130890000.0,32,0,Bravia XR Mini LED,https://www.dienmayxanh.com/tivi/google-sony-4k-85-inch-xr-85x95k,0319,0303
+030487,Sony Google TV XR-65X95L Mới 2023,59900000.0,61900000.0,0,0,Bravia XR Mini LED,https://www.dienmayxanh.com/tivi/google-tivi-miniled-sony-4k-65-inch-xr-65x95l,0319,0303
+030488,LG Smart TV OLED 55C2PSA,31200000.0,49900000.0,37,23,OLED evo,https://www.dienmayxanh.com/tivi/smart-oled-lg-4k-55-inch-55c2psa,0306,0303
+030489,LG Smart TV OLED 48C2PSA,24900000.0,40900000.0,39,13,OLED evo,https://www.dienmayxanh.com/tivi/smart-oled-lg-4k-48-inch-48c2psa,0306,0303
+030490,LG Smart TV OLED 55G2PSA,40900000.0,58900000.0,30,3,OLED evo,https://www.dienmayxanh.com/tivi/smart-oled-lg-4k-55-inch-55g2psa,0306,0303
+030491,LG Smart TV OLED 55G1PTA,25990000.0,58900000.0,55,6,OLED evo,https://www.dienmayxanh.com/tivi/smart-oled-lg-4k-55-inch-55g1pta,0306,0303
+030492,LG Smart TV OLED 42C2PSA,24900000.0,36900000.0,32,12,OLED evo,https://www.dienmayxanh.com/tivi/smart-oled-lg-4k-42-inch-42c2psa,0306,0303
+030493,LG Smart TV OLED 65G2PSA,59800000.0,84900000.0,29,5,OLED evo,https://www.dienmayxanh.com/tivi/smart-oled-lg-4k-65-inch-65g2psa,0306,0303
+030494,LG Smart TV OLED 55C3PSA Mới 2023,39600000.0,44900000.0,11,0,OLED evo,https://www.dienmayxanh.com/tivi/smart-tivi-oled-lg-4k-55-inch-55c3psa,0306,0303
+030495,LG Smart TV OLED 65G1PTA,36990000.0,84900000.0,56,3,OLED evo,https://www.dienmayxanh.com/tivi/smart-oled-lg-4k-65-inch-65g1pta,0306,0303
+030496,LG Smart TV OLED 48C3PSA Mới 2023,32900000.0,36900000.0,10,0,OLED evo,https://www.dienmayxanh.com/tivi/smart-tivi-oled-lg-4k-48-inch-48c3psa,0306,0303
+030497,LG Smart TV OLED 77C3PSA Mới 2023,94900000.0,94900000.0,0,0,OLED evo,https://www.dienmayxanh.com/tivi/smart-tivi-oled-lg-4k-77-inch-77c3psa,0306,0303
+030498,LG Smart TV OLED 83C3PSA Mới 2023,149000000.0,149000000.0,0,0,OLED evo,https://www.dienmayxanh.com/tivi/smart-tivi-oled-lg-4k-83-inch-83c3psa,0306,0303
+030499,LG Smart TV OLED 55G3PSA Mới 2023,54900000.0,54900000.0,0,0,OLED evo,https://www.dienmayxanh.com/tivi/smart-tivi-oled-evo-lg-4k-55-inch-55g3psa,0306,0303
+030500,LG Smart TV OLED 65G3PSA Mới 2023,64500000.0,69900000.0,7,0,OLED evo,https://www.dienmayxanh.com/tivi/smart-tivi-oled-evo-lg-4k-65-inch-65g3psa,0306,0303
+030501,LG Smart TV OLED 77G3PSA Mới 2023,109900000.0,109900000.0,0,0,OLED evo,https://www.dienmayxanh.com/tivi/smart-tivi-oled-evo-lg-4k-77-inch-77g3psa,0306,0303
+030502,LG Smart TV OLED 55A2PSA,23900000.0,42900000.0,44,16,OLED,https://www.dienmayxanh.com/tivi/smart-oled-lg-4k-55-inch-55a2psa,0306,0303
+030503,LG Smart TV OLED 65A2PSA,31200000.0,57900000.0,46,84,OLED,https://www.dienmayxanh.com/tivi/smart-oled-lg-4k-65-inch-65a2psa,0306,0303
+030504,LG Smart TV OLED 65C2PSA,40900000.0,65900000.0,37,53,OLED,https://www.dienmayxanh.com/tivi/smart-oled-lg-4k-65-inch-65c2psa,0306,0303
+030505,LG Smart TV OLED 48A2PSA,19900000.0,32900000.0,39,23,OLED,https://www.dienmayxanh.com/tivi/smart-oled-lg-4k-48-inch-48a2psa,0306,0303
+030506,LG Smart TV OLED 77A2PSA,59800000.0,94900000.0,36,9,OLED,https://www.dienmayxanh.com/tivi/smart-oled-lg-4k-77-inch-77a2psa,0306,0303
+030507,LG Smart TV OLED 48C1PTB,19900000.0,39900000.0,50,26,OLED,https://www.dienmayxanh.com/tivi/oled-lg-48c1ptb,0306,0303
+030508,LG Smart TV OLED 83C2PSA,128000000.0,149000000.0,14,0,OLED,https://www.dienmayxanh.com/tivi/smart-tivi-oled-lg-4k-83-inch-42c2psa,0306,0303
+030509,LG Smart TV OLED 48A3PSA Mới 2023,28400000.0,31900000.0,10,0,OLED,https://www.dienmayxanh.com/tivi/smart-tivi-oled-lg-4k-48-inch-48a3psa,0306,0303
+030510,Smart Tivi OLED LG 4K 55 inch 55A3PSA,32700000.0,39900000.0,18,0,OLED,https://www.dienmayxanh.com/tivi/smart-tivi-oled-lg-4k-55-inch-55a3psa,0306,0303
+030511,LG Smart TV OLED 88Z2PSA,890000000.0,890000000.0,0,0,OLED,https://www.dienmayxanh.com/tivi/smart-oled-lg-8k-88-inch-88z2psa,0306,0303
+030512,LG Smart TV OLED 65A3PSA Mới 2023,43300000.0,52900000.0,18,0,OLED,https://www.dienmayxanh.com/tivi/smart-tivi-oled-lg-4k-65-inch-65a3psa,0306,0303
+030513,LG Smart TV OLED 65C3PSA Mới 2023,59500000.0,63900000.0,6,0,OLED,https://www.dienmayxanh.com/tivi/smart-tivi-oled-lg-4k-65-inch-65c3psa,0306,0303
+030514,LG Smart TV QNED 75QNED91TPA,55000000.0,88900000.0,38,0,QNED MiniLED,https://www.dienmayxanh.com/tivi/smart-qned-4k-75-inch-75qned91tpa,0306,0303
+030515,LG Smart TV 65QNED86SQA,32100000.0,54900000.0,41,47,QNED MiniLED,https://www.dienmayxanh.com/tivi/smart-qned-lg-4k-65-inch-65qned86sqa,0306,0303
+030516,LG Smart TV QNED 65QNED91TPA,30300000.0,61900000.0,51,0,QNED MiniLED,https://www.dienmayxanh.com/tivi/smart-qned-4k-65-inch-65qned91tpa,0306,0303
+030517,LG Smart TV QNED 75QNED99TPB,96000000.0,139900000.0,31,0,QNED MiniLED,https://www.dienmayxanh.com/tivi/smart-qned-lg-8k-75-inch-75qned99tpa,0306,0303
+030518,LG Smart TV QNED 75QNED99SQB,112000000.0,164900000.0,32,0,QNED MiniLED,https://www.dienmayxanh.com/tivi/smart-qned-lg-8k-75-inch-75qned99sqb,0306,0303
+030519,LG Smart TV NanoCell 55NANO76SQA,14170000.0,22900000.0,38,108,NanoCell,https://www.dienmayxanh.com/tivi/smart-nanocell-lg-4k-55-inch-55nano76sqa,0306,0303
+030520,LG Smart TV NanoCell 43NANO76SQA,10900000.0,15900000.0,31,48,NanoCell,https://www.dienmayxanh.com/tivi/smart-nanocell-lg-4k-43-inch-43nano76sqa,0306,0303
+030521,LG Smart TV NanoCell 65NANO76SQA,17900000.0,29900000.0,40,82,NanoCell,https://www.dienmayxanh.com/tivi/smart-nanocell-lg-4k-65-inch-65nano76sqa,0306,0303
+030522,LG Smart TV NanoCell 50NANO76SQA,12900000.0,19400000.0,33,42,NanoCell,https://www.dienmayxanh.com/tivi/smart-nanocell-lg-4k-50-inch-50nano76sqa,0306,0303
+030523,LG Smart TV NanoCell 75NANO76SQA,25700000.0,46900000.0,45,17,NanoCell,https://www.dienmayxanh.com/tivi/smart-nanocell-lg-4k-75-inch-75nano76sqa,0306,0303
+030524,LG Smart TV NanoCell 55NANO75TPA,12900000.0,25900000.0,50,76,NanoCell,https://www.dienmayxanh.com/tivi/nanocell-lg-55nano75tpa,0306,0303
+030525,Smart Tivi NanoCell LG 4K 50 inch 50NANO75TPA,11900000.0,21900000.0,45,68,NanoCell,https://www.dienmayxanh.com/tivi/nanocell-lg-50nano75tpa,0306,0303
+030526,LG Smart TV NanoCell 70NANO76SQA,21900000.0,39900000.0,45,4,NanoCell,https://www.dienmayxanh.com/tivi/smart-nanocell-lg-4k-70-inch-70nano76sqa,0306,0303
+030527,LG Smart TV NanoCell 43NANO75TPA,10400000.0,16900000.0,38,77,NanoCell,https://www.dienmayxanh.com/tivi/nanocell-lg-43nano75tpa,0306,0303
+030528,LG Smart TV NanoCell 55NANO86TPA,16900000.0,27900000.0,39,25,NanoCell,https://www.dienmayxanh.com/tivi/nanocell-lg-55nano86tpa,0306,0303
+030529,LG Smart TV NanoCell 86NANO76SQA,41300000.0,68900000.0,40,3,NanoCell,https://www.dienmayxanh.com/tivi/smart-nanocell-lg-4k-86-inch-86nano76sqa,0306,0303
+030530,LG Smart TV 65UQ7550PSF,12490000.0,22400000.0,44,68,UHD,https://www.dienmayxanh.com/tivi/smart-lg-4k-65-inch-65uq7550psf,0306,0303
+030531,LG Smart TV 55UQ8000PSC,12900000.0,19900000.0,35,155,UHD,https://www.dienmayxanh.com/tivi/smart-lg-4k-55-inch-55uq8000psc,0306,0303
+030532,LG Smart TV 43UQ7550PSF,8490000.0,12900000.0,34,130,UHD,https://www.dienmayxanh.com/tivi/smart-lg-4k-43-inch-43uq7550psf,0306,0303
+030533,LG Smart TV 43UQ8000PSC,9900000.0,14400000.0,31,89,UHD,https://www.dienmayxanh.com/tivi/smart-lg-4k-43-inch-43uq8000psc,0306,0303
+030534,LG Smart TV 65UQ8000PSC,14900000.0,25400000.0,41,75,UHD,https://www.dienmayxanh.com/tivi/smart-lg-4k-65-inch-65uq8000psc,0306,0303
+030535,LG Smart TV 55UQ7550PSF,11900000.0,16900000.0,29,71,UHD,https://www.dienmayxanh.com/tivi/smart-lg-4k-55-inch-55uq7550psf,0306,0303
+030536,LG Smart TV 50UQ7550PSF,9900000.0,14900000.0,33,90,UHD,https://www.dienmayxanh.com/tivi/smart-lg-4k-50-inch-50uq7550psf,0306,0303
+030537,LG Smart TV 50UQ8000PSC,10520000.0,17400000.0,39,43,UHD,https://www.dienmayxanh.com/tivi/smart-lg-4k-50-inch-50uq8000psc,0306,0303
+030538,LG Smart TV 75UQ8000PSC,19170000.0,35900000.0,46,28,UHD,https://www.dienmayxanh.com/tivi/smart-lg-4k-75-inch-75uq8000psc,0306,0303
+030539,LG Smart TV 70UQ8000PSC,19900000.0,30900000.0,35,17,UHD,https://www.dienmayxanh.com/tivi/smart-lg-4k-70-inch-70uq8000psc,0306,0303
+030540,LG Smart TV 86UQ9100PSD,37700000.0,61900000.0,39,4,UHD,https://www.dienmayxanh.com/tivi/smart-lg-4k-86-inch-86uq9100psd,0306,0303
+030541,LG Smart TV 43UP7750PTB,13900000.0,15400000.0,9,93,UHD,https://www.dienmayxanh.com/tivi/led-lg-43up7750ptb,0306,0303
+030542,LG Smart TV 60UQ8150PSB,14900000.0,22900000.0,34,3,UHD,https://www.dienmayxanh.com/tivi/smart-lg-4k-60-inch-60uq8150psb,0306,0303
+030543,LG Smart TV 65UR7550PSC Mới 2023,15600000.0,16900000.0,7,0,UHD,https://www.dienmayxanh.com/tivi/smart-tivi-lg-4k-65-inch-65ur7550psc,0306,0303
+030544,LG Smart TV 43UP7800PTB,10900000.0,15900000.0,31,134,UHD,https://www.dienmayxanh.com/tivi/led-lg-43up7800ptb,0306,0303
+030545,LG Smart TV 86UR8050PSB Mới 2023,40600000.0,45900000.0,11,0,UHD,https://www.dienmayxanh.com/tivi/smart-tivi-lg-4k-86-inch-86ur8050psb,0306,0303
+030546,LG Smart TV 65UR9050PSK Mới 2023,18300000.0,20900000.0,12,0,UHD,https://www.dienmayxanh.com/tivi/smart-tivi-lg-4k-65-inch-65ur9050psk,0306,0303
+030547,LG Smart TV 50UP7750PTB,12700000.0,18900000.0,32,44,UHD,https://www.dienmayxanh.com/tivi/led-lg-50up7750ptb,0306,0303
+030548,LG Smart TV 55UP7750PTB,17900000.0,21900000.0,18,98,UHD,https://www.dienmayxanh.com/tivi/led-lg-55up7750ptb,0306,0303
+030549,LG Smart TV 70UP7750PTB,22900000.0,33900000.0,32,10,UHD,https://www.dienmayxanh.com/tivi/led-lg-70up7750ptb,0306,0303
+030550,LG Smart TV 75UP7750PTB,22000000.0,41900000.0,47,9,UHD,https://www.dienmayxanh.com/tivi/led-lg-75up7750ptb,0306,0303
+030551,Smart Tivi LG 4K 50 inch 50UP7800PTB,17400000.0,19400000.0,10,27,UHD,https://www.dienmayxanh.com/tivi/led-lg-50up7800ptb,0306,0303
+030552,LG Smart TV 55UP7800PTB,18900000.0,22900000.0,17,81,UHD,https://www.dienmayxanh.com/tivi/led-lg-55up7800ptb,0306,0303
+030553,LG Smart TV 75UR9050PSK Mới 2023,28000000.0,31900000.0,12,0,UHD,https://www.dienmayxanh.com/tivi/smart-tivi-lg-4k-75-inch-75ur9050psk,0306,0303
+030554,LG Smart TV 75UR7550PSC Mới 2023,24400000.0,26900000.0,9,0,UHD,https://www.dienmayxanh.com/tivi/smart-tivi-lg-4k-75-inch-75ur7550psc,0306,0303
+030555,Casper Android TV QLED 55QG8000,7990000.0,15990000.0,50,20,QLED,https://www.dienmayxanh.com/tivi/android-qled-4k-55-inch-casper-55qc8000,0310,0303
+030556,TCL Google TV QLED 55Q646 Mới 2023,12490000.0,14990000.0,16,5,QLED,https://www.dienmayxanh.com/tivi/google-tivi-qled-tcl-4k-55-inch-55q646,0305,0303
+030557,TCL Google TV QLED 43Q636,11490000.0,11490000.0,0,82,QLED,https://www.dienmayxanh.com/tivi/google-tcl-4k-43-inch-43q636,0305,0303
+030558,TCL Google TV QLED 55C735,22990000.0,22990000.0,0,0,QLED,https://www.dienmayxanh.com/tivi/google-qled-tcl-4k-55-inch-55c735,0305,0303
+030559,TCL Google TV QLED 65C735,26990000.0,26990000.0,0,0,QLED,https://www.dienmayxanh.com/tivi/google-tivi-qled-tcl-4k-65-inch-65c735,0305,0303
+030560,TCL Android TV QLED 98C735,76990000.0,109900000.0,29,0,QLED,https://www.dienmayxanh.com/tivi/android-tivi-qled-tcl-4k-98-inch-c73,0305,0303
+030561,TCL Google TV QLED 55C745 Mới 2023,18990000.0,21990000.0,13,0,QLED,https://www.dienmayxanh.com/tivi/google-tivi-qled-tcl-4k-55-inch-55c745,0305,0303
+030562,TCL Google TV QLED 65C745 Mới 2023,23990000.0,26990000.0,11,0,QLED,https://www.dienmayxanh.com/tivi/google-tivi-qled-tcl-4k-65-inch-65c745,0305,0303
+030563,TCL Google TV QLED 65C845 Mới 2023,34990000.0,37990000.0,7,0,QLED,https://www.dienmayxanh.com/tivi/google-tivi-qled-tcl-4k-65-inch-65c845,0305,0303
+030564,TCL Google TV QLED 75C845 Mới 2023,43990000.0,47990000.0,8,0,QLED,https://www.dienmayxanh.com/tivi/google-tivi-qled-tcl-4k-75-inch-75c845,0305,0303
+030565,Sharp Android TV 2T-C32EG2X,4490000.0,5290000.0,15,29,,https://www.dienmayxanh.com/tivi/android-tivi-sharp-32-inch-2t-c32eg2x,0312,0303
+030566,Sharp Android TV 2T-C42EG2X,5790000.0,7290000.0,20,37,,https://www.dienmayxanh.com/tivi/android-tivi-sharp-42-inch-2t-c42eg2x,0312,0303
+030567,Sharp Android TV 4T-C50EK2X,6990000.0,10990000.0,36,4,,https://www.dienmayxanh.com/tivi/android-tivi-sharp-4k-50-inch-4t-c50ek2x,0312,0303
+030568,Sharp Android TV 4T-C55EK2X,8990000.0,11990000.0,25,7,,https://www.dienmayxanh.com/tivi/android-tivi-sharp-4k-55-inch-4t-c55ek2x,0312,0303
+030569,Sharp Android TV 4T-C65EK2X,10990000.0,18990000.0,42,0,,https://www.dienmayxanh.com/tivi/android-tivi-sharp-4k-60-inch-4t-c65ek2x,0312,0303
+030570,Toshiba Google TV 43C350LP,7990000.0,11490000.0,30,133,,https://www.dienmayxanh.com/tivi/google-tivi-toshiba-4k-43-inch-43c350lp,0313,0303
+030571,Toshiba Android TV 43V35KP,6490000.0,8990000.0,27,70,,https://www.dienmayxanh.com/tivi/android-tivi-toshiba-43-inch-43v35kp,0313,0303
+030572,Toshiba Google TV 65C350LP,11990000.0,22990000.0,47,49,,https://www.dienmayxanh.com/tivi/google-tivi-toshiba-4k-65-inch-65c350lp,0313,0303
+030573,Toshiba Google TV 55C350LP,9790000.0,15690000.0,37,61,,https://www.dienmayxanh.com/tivi/google-tivi-toshiba-4k-55-inch-55c350lp,0313,0303
+030574,Toshiba Google TV QLED 65M550LP,13690000.0,24990000.0,45,7,,https://www.dienmayxanh.com/tivi/google-tivi-qled-toshiba-4k-65-inch-65m550lp,0313,0303
+030575,Toshiba Google TV 75C350LP,16990000.0,31290000.0,45,8,,https://www.dienmayxanh.com/tivi/google-tivi-toshiba-4k-75-inch-75c350lp,0313,0303
+030576,Toshiba Google TV QLED 55M550LP,11590000.0,19990000.0,42,6,,https://www.dienmayxanh.com/tivi/google-tivi-qled-toshiba-4k-55-inch-55m550lp,0313,0303
+030577,Toshiba Smart TV OLED 55X9900LP,54990000.0,54990000.0,0,0,,https://www.dienmayxanh.com/tivi/smart-tivi-oled-toshiba-4k-55-inch-55x9900lp,0313,0303
+030578,Toshiba Smart TV OLED 65X9900LP,69990000.0,69990000.0,0,0,,https://www.dienmayxanh.com/tivi/smart-tivi-oled-toshiba-4k-65-inch-65x9900lp,0313,0303
+030579,Toshiba Google TV QLED 50M550LP,11790000.0,17990000.0,34,0,,https://www.dienmayxanh.com/tivi/google-tivi-qled-toshiba-4k-50-inch-50m550lp,0313,0303
+030580,AQUA Android TV LE55AQT6600UG,7590000.0,11990000.0,36,0,,https://www.dienmayxanh.com/tivi/led-aqua-le55aqt6600ug,0302,0303
+030581,AQUA Android TV LE32AQT6600G,3590000.0,5990000.0,40,0,,https://www.dienmayxanh.com/tivi/android-tivi-aqua-32-inch-le32aqt6600g,0302,0303
+030582,iFFALCON Google TV 65U62,7990000.0,13490000.0,40,9,,https://www.dienmayxanh.com/tivi/google-iffalcon-4k-65-inch-65u62,0320,0303
+030583,iFFALCON Google TV 43U62,5290000.0,7990000.0,33,9,,https://www.dienmayxanh.com/tivi/google-iffalcon-4k-43-inch-43u62,0320,0303
+030584,iFFALCON Google TV 55U62,7190000.0,9990000.0,28,23,,https://www.dienmayxanh.com/tivi/google-iffalcon-4k-55-inch-55u62,0320,0303
+030585,iFFALCON Android TV 32S52,3990000.0,4590000.0,13,47,,https://www.dienmayxanh.com/tivi/android-iffalcon-32-inch-32s52,0320,0303
+030586,LG Inverter 11.5 Kg T2351VSAB,6590000.0,9390000.0,29,230,,https://www.dienmayxanh.com/may-giat/may-giat-lg-inverter-115-kg-t2351vsab,0306,0304
+030587,LG Inverter 8.5 Kg FV1408S4W,9390000.0,12190000.0,22,978,,https://www.dienmayxanh.com/may-giat/may-giat-lg-inverter-85-kg-fv1408s4w,0306,0304
+030588,LG Inverter 10 Kg FV1410S3B,11950000.0,18290000.0,34,478,,https://www.dienmayxanh.com/may-giat/lg-inverter-10-kg-fv1410s3b,0306,0304
+030589,LG Inverter 10 Kg FV1410S5W,9490000.0,15990000.0,40,278,,https://www.dienmayxanh.com/may-giat/lg-inverter-10-kg-fv1410s5w,0306,0304
+030590,LG Inverter Giặt 9 Kg - Sấy 5 Kg FV1409G4V,12400000.0,20990000.0,40,317,,https://www.dienmayxanh.com/may-giat/fv1409g4v,0306,0304
+030591,LG Inverter 9 Kg T2109VSAB,6540000.0,7090000.0,7,207,,https://www.dienmayxanh.com/may-giat/may-giat-lg-t2109vsab,0306,0304
+030592,LG Inverter 10.5 Kg FV1450S3W2,11990000.0,17690000.0,32,162,,https://www.dienmayxanh.com/may-giat/lg-inverter-105-kg-fv1450s3w2,0306,0304
+030593,LG Inverter 9 Kg FV1409S2V,11590000.0,16790000.0,30,302,,https://www.dienmayxanh.com/may-giat/may-giat-lg-fv1409s2v,0306,0304
+030594,LG Inverter 10.5 Kg T2350VSAB,6950000.0,7990000.0,13,123,,https://www.dienmayxanh.com/may-giat/may-giat-lg-inverter-105-kgt2350vsab,0306,0304
+030595,LG Inverter 14 Kg TV2514DV3B Mới 2023,10590000.0,11990000.0,11,16,,https://www.dienmayxanh.com/may-giat/may-giat-lg-inverter-14-kg-tv2514dv3b,0306,0304
+030596,LG Inverter 11 Kg FV1411S4P,14190000.0,19790000.0,28,116,,https://www.dienmayxanh.com/may-giat/lg-inverter-11-kg-fv1411s4p,0306,0304
+030597,LG Inverter 9 Kg FV1409S4W,8990000.0,13890000.0,35,334,,https://www.dienmayxanh.com/may-giat/lg-fv1409s4w,0306,0304
+030598,LG Inverter 12 Kg FV1412S3BA Mới 2023,16490000.0,21490000.0,23,5,,https://www.dienmayxanh.com/may-giat/may-giat-lg-fv1412s3ba,0306,0304
+030599,LG Inverter 10 Kg FV1410S4P,12950000.0,16990000.0,23,273,,https://www.dienmayxanh.com/may-giat/lg-inverter-10-kg-fv1410s4p,0306,0304
+030600,LG Inverter 13 Kg T2313VSAB,8250000.0,12090000.0,31,167,,https://www.dienmayxanh.com/may-giat/lg-inverter-13-kg-t2313vsab,0306,0304
+030601,LG Inverter 16 Kg TV2516DV3B Mới 2023,10590000.0,13990000.0,24,10,,https://www.dienmayxanh.com/may-giat/may-giat-lg-inverter-16-kg-tv2516dv3b,0306,0304
+030602,LG Inverter 11 Kg FV1411S4WA Mới 2023,12890000.0,16990000.0,24,8,,https://www.dienmayxanh.com/may-giat/may-giat-lg-fv1411s4wa,0306,0304
+030603,LG Inverter 8.5 Kg FV1408S4V,10390000.0,12990000.0,20,129,,https://www.dienmayxanh.com/may-giat/may-giat-lg-fv1408s4v,0306,0304
+030604,LG Inverter Giặt 10 Kg - Sấy 6 Kg FV1410D4P,15700000.0,22190000.0,29,12,,https://www.dienmayxanh.com/may-giat/lg-inverter-10-kg-fv1410d4p,0306,0304
+030605,LG Inverter Giặt 11 Kg - Sấy 7 Kg FV1411H3BA,17950000.0,27090000.0,33,20,,https://www.dienmayxanh.com/may-giat/may-giat-say-lg-inverter-11kg-fv1411h3ba,0306,0304
+030606,LG Inverter 15 Kg F2515STGW,18890000.0,26990000.0,30,84,,https://www.dienmayxanh.com/may-giat/lg-f2515stgw,0306,0304
+030607,LG Inverter Giặt 15 Kg - Sấy 8 Kg F2515RTGB,21790000.0,30990000.0,29,48,,https://www.dienmayxanh.com/may-giat/may-giat-say-lg-inverter-15-kg-f2515rtgb,0306,0304
+030608,LG Inverter 11 Kg TH2111DSAB,8790000.0,11090000.0,20,208,,https://www.dienmayxanh.com/may-giat/lg-th2111dsab,0306,0304
+030609,LG Inverter Giặt 11 Kg - Sấy 7 Kg FV1411D4W,15950000.0,25090000.0,36,18,,https://www.dienmayxanh.com/may-giat/may-giat-say-lg-inverter-11kg-fv1411d4w,0306,0304
+030610,LG Inverter 12 Kg FV1412S3PA Mới 2023,15990000.0,19990000.0,20,0,,https://www.dienmayxanh.com/may-giat/may-giat-lg-fv1412s3pa,0306,0304
+030611,LG Inverter 18 Kg TV2518DV3B Mới 2023,11790000.0,15990000.0,26,0,,https://www.dienmayxanh.com/may-giat/may-giat-lg-inverter-18-kg-tv2518dv3b,0306,0304
+030612,LG Inverter 14 Kg FV1414S3P Mới 2023,15950000.0,23990000.0,33,0,,https://www.dienmayxanh.com/may-giat/may-giat-lg-inverter-14-kg-fv1414s3p,0306,0304
+030613,Tủ chăm sóc quần áo thông minh LG Inverter 6.5 Kg Styler S5MB,45490000.0,65000000.0,30,11,,https://www.dienmayxanh.com/may-giat/tu-cham-soc-quan-ao-thong-minh-lg-s5mb,0306,0304
+030614,Tủ chăm sóc quần áo thông minh LG Inverter 5.2 Kg S3MFC,36900000.0,55000000.0,32,0,,https://www.dienmayxanh.com/may-giat/tu-cham-soc-quan-ao-thong-minh-lg-s3mfc,0306,0304
+030615,LG Inverter 13 Kg FV1413S4W Mới 2023,14940000.0,17490000.0,14,5,,https://www.dienmayxanh.com/may-giat/may-giat-lg-fv1413s4w,0306,0304
+030616,LG Inverter 19 Kg TH2519SSAK,13990000.0,17990000.0,22,38,,https://www.dienmayxanh.com/may-giat/lg-th2519ssak,0306,0304
+030617,LG Inverter 19 Kg TV2519DV7B Mới 2023,14090000.0,16990000.0,17,0,,https://www.dienmayxanh.com/may-giat/may-giat-lg-inverter-19-kg-tv2519dv7b,0306,0304
+030618,LG Inverter Giặt 14 Kg - Sấy 10 Kg WT1410NHB,47490000.0,64990000.0,26,0,,https://www.dienmayxanh.com/may-giat/may-giat-say-lg-inverter-14-kg-wt1410nhb,0306,0304
+030619,LG Inverter 20 Kg TV2520DV7J Mới 2023,14950000.0,17490000.0,14,0,,https://www.dienmayxanh.com/may-giat/may-giat-lg-inverter-20-kg-tv2520dv7j,0306,0304
+030620,LG Inverter 13 Kg TH2113SSAK,10990000.0,13690000.0,19,24,,https://www.dienmayxanh.com/may-giat/lg-th2113ssak,0306,0304
+030621,LG Inverter Giặt 21 Kg - Sấy 16 Kg WT2116SHEG,64400000.0,74990000.0,14,0,,https://www.dienmayxanh.com/may-giat/may-giat-say-lg-inverter-21-kg-wt2116sheg,0306,0304
+030622,LG Inverter 14 Kg FV1414S3BA Mới 2023,18890000.0,25490000.0,25,0,,https://www.dienmayxanh.com/may-giat/may-giat-lg-fv1414s3ba,0306,0304
+030623,LG Inverter Giặt 21 Kg - Sấy 12 Kg F2721HVRB,35990000.0,41990000.0,14,0,,https://www.dienmayxanh.com/may-giat/may-giat-say-lg-inverter-21-kg-f2721hvrb,0306,0304
+030624,LG Inverter 12 Kg TH2112SSAV,10890000.0,12990000.0,16,29,,https://www.dienmayxanh.com/may-giat/lg-th2112ssav,0306,0304
+030625,LG Inverter Giặt 15 Kg - Sấy 8 Kg F2515RTGW,23590000.0,29990000.0,21,31,,https://www.dienmayxanh.com/may-giat/lg-f2515rtgw,0306,0304
+030626,Tủ chăm sóc quần áo thông minh LG Inverter 6.5 Kg LG S5GOC,48850000.0,69900000.0,30,0,,https://www.dienmayxanh.com/may-giat/tu-cham-soc-quan-ao-thong-minh-lg-s5goc,0306,0304
+030627,Tủ chăm sóc quần áo thông minh LG Inverter 6.5 Kg LG S5BOC,53000000.0,69900000.0,24,0,,https://www.dienmayxanh.com/may-giat/tu-cham-soc-quan-ao-thong-minh-lg-s5boc,0306,0304
+030628,Samsung Inverter 8 Kg WW80T3020WW/SV,5990000.0,8000000.0,25,202,,https://www.dienmayxanh.com/may-giat/samsung-inverter-8kg-ww80t3020ww-sv,0307,0304
+030629,Samsung Inverter 10 Kg WW10T634DLX/SV,9990000.0,15690000.0,36,283,,https://www.dienmayxanh.com/may-giat/samsung-ai-ww10t634dlx-sv,0307,0304
+030630,Samsung Inverter 10 Kg WW10TP44DSB/SV,11490000.0,17590000.0,34,258,,https://www.dienmayxanh.com/may-giat/samsung-10kg-ww10tp44dsb-sv,0307,0304
+030631,Samsung Inverter 10 Kg WW10TA046AE/SV,11690000.0,15590000.0,25,271,,https://www.dienmayxanh.com/may-giat/samsung-inverter-10kg-ww10ta046ae-sv,0307,0304
+030632,Samsung Inverter 9 Kg WW90TP44DSB/SV,9850000.0,15690000.0,37,539,,https://www.dienmayxanh.com/may-giat/samsung-9kg-ww90tp44dsb-sv,0307,0304
+030633,Samsung Inverter 10 Kg WW10TP44DSH/SV,9990000.0,15990000.0,37,301,,https://www.dienmayxanh.com/may-giat/samsung-ww10tp44dsh-sv,0307,0304
+030634,Samsung Inverter 9 Kg WW90T634DLN/SV,9490000.0,15090000.0,37,178,,https://www.dienmayxanh.com/may-giat/may-giat-samsung-inverter-9-kg-ww90t634dln-sv,0307,0304
+030635,Samsung Inverter 9.5 Kg WW95T4040CE/SV,7890000.0,11090000.0,28,160,,https://www.dienmayxanh.com/may-giat/samsung-ww95t4040ce-sv,0307,0304
+030636,Samsung Inverter 9.5 Kg WA95CG4545BDSV Mới 2023,6790000.0,8790000.0,22,24,,https://www.dienmayxanh.com/may-giat/may-giat-samsung-9-5kg-wa95cg4545bdsv,0307,0304
+030637,Samsung Inverter 9.5 Kg WW95TA046AX/SV,7890000.0,12290000.0,35,205,,https://www.dienmayxanh.com/may-giat/samsung-ww95ta046ax-sv,0307,0304
+030638,Samsung Inverter 12 Kg WA12CG5745BVSV Mới 2023,8290000.0,11090000.0,25,82,,https://www.dienmayxanh.com/may-giat/may-giat-samsung-12kg-wa12cg5745bvsv,0307,0304
+030639,Samsung Inverter 9 Kg WW90T3040WW/SV,6990000.0,10000000.0,30,41,,https://www.dienmayxanh.com/may-giat/samsung-inverter-9-kg-ww90t3040ww-sv,0307,0304
+030640,Samsung Inverter 12 Kg WA12CG5886BVSV Mới 2023,10190000.0,13090000.0,22,35,,https://www.dienmayxanh.com/may-giat/may-giat-samsung-12kg-wa12cg5886bvsv,0307,0304
+030641,Samsung Inverter 13 Kg WW13T504DAB/SV,12990000.0,21190000.0,38,102,,https://www.dienmayxanh.com/may-giat/samsung-inverter-13-kg-ww13t504dab-sv,0307,0304
+030642,Samsung Inverter Giặt 9.5 Kg - Sấy 6 Kg WD95T754DBX/SV,12890000.0,16590000.0,22,499,,https://www.dienmayxanh.com/may-giat/say-samsung-addwash-wd95t754dbx-sv,0307,0304
+030643,Samsung Inverter 13 Kg WW13T504DAW/SV,11990000.0,19190000.0,37,108,,https://www.dienmayxanh.com/may-giat/samsung-inverter-13-kg-ww13t504daw-sv,0307,0304
+030644,Samsung Inverter 14 Kg WA14CG5745BVSV Mới 2023,10190000.0,13090000.0,22,35,,https://www.dienmayxanh.com/may-giat/may-giat-samsung-14kg-wa14cg5745bvsv,0307,0304
+030645,Samsung Inverter Giặt 14 Kg - Sấy 8 Kg WD14TP44DSB/SV,16450000.0,25690000.0,35,31,,https://www.dienmayxanh.com/may-giat/say-samsung-wd14tp44dsb-sv,0307,0304
+030646,Samsung Inverter 23 Kg WA23A8377GV/SV,16450000.0,18990000.0,13,13,,https://www.dienmayxanh.com/may-giat/samsung-inverter-23-kg-wa23a8377gv-sv,0307,0304
+030647,Samsung Inverter 16 Kg WA16R6380BV/SV,9990000.0,15000000.0,33,21,,https://www.dienmayxanh.com/may-giat/samsung-wa16r6380bv-sv,0307,0304
+030648,Samsung Inverter 14 Kg WA14CG5886BVSV Mới 2023,12190000.0,15090000.0,19,12,,https://www.dienmayxanh.com/may-giat/may-giat-samsung-14kg-wa14cg5886bvsv,0307,0304
+030649,Samsung Inverter 12 Kg WW12TP94DSB/SV,13790000.0,22590000.0,38,200,,https://www.dienmayxanh.com/may-giat/samsung-addwash-12kg-ww12tp94dsb-sv,0307,0304
+030650,Samsung Inverter Giặt 11 Kg - Sấy 7 Kg WD11T734DBX/SV,16990000.0,21290000.0,20,183,,https://www.dienmayxanh.com/may-giat/say-samsung-11kg-wd11t734dbx-sv,0307,0304
+030651,Samsung Inverter 12 Kg WA12T5360BV/SV,6990000.0,13350000.0,47,35,,https://www.dienmayxanh.com/may-giat/samsung-wa12t5360bv-sv,0307,0304
+030652,Samsung Inverter Giặt 12 Kg - Sấy 8 Kg WD12TP34DSX/SV,15450000.0,22590000.0,31,20,,https://www.dienmayxanh.com/may-giat/say-samsung-inverter-12-wd12tp34dsx-sv,0307,0304
+030653,Samsung Inverter 12 Kg WA12T5360BY/SV,6990000.0,13050000.0,46,18,,https://www.dienmayxanh.com/may-giat/samsung-wa12t5360by-sv,0307,0304
+030654,Samsung Inverter Giặt 21 Kg - Sấy 12 Kg WD21T6500GV/SV,24490000.0,33590000.0,27,16,,https://www.dienmayxanh.com/may-giat/say-samsung-inverter-21-kg-wd21t6500gv-sv,0307,0304
+030655,Tủ chăm sóc quần áo thông minh Samsung Inverter 10 Kg DF10A9500CG/SV,39990000.0,48500000.0,17,5,,https://www.dienmayxanh.com/may-giat/tu-cham-soc-quan-ao-thong-minh-samsung-df10a9500cg-sv,0307,0304
+030656,Samsung Inverter 24 Kg WF24B9600KV/SV Mới 2023,32990000.0,33990000.0,0,0,,https://www.dienmayxanh.com/may-giat/may-giat-samsung-inverter-24-kg-wf24b9600kv-sv,0307,0304
+030657,Samsung Inverter 10 Kg WA10T5260BV/SV,7050000.0,11250000.0,37,46,,https://www.dienmayxanh.com/may-giat/samsung-wa10t5260bv-sv,0307,0304
+030658,Samsung Inverter 10 Kg WA10T5260BY/SV,7390000.0,10490000.0,29,341,,https://www.dienmayxanh.com/may-giat/samsung-wa10t5260by-sv,0307,0304
+030659,Tủ chăm sóc quần áo thông minh Samsung Inverter 6 Kg DF60A8500EG/SV,34990000.0,41000000.0,14,5,,https://www.dienmayxanh.com/may-giat/tu-cham-soc-quan-ao-thong-minh-samsung-df60a8500eg-sv,0307,0304
+030660,Samsung Inverter 11 Kg WA11T5260BV/SV,,,0,19,,https://www.dienmayxanh.com/may-giat/samsung-wa11t5260bv-sv,0307,0304
+030661,Samsung Inverter 17 Kg WA17CG6886BVSV Mới 2023,16490000.0,17490000.0,5,0,,https://www.dienmayxanh.com/may-giat/may-giat-samsung-inverter-17kg-wa17cg6886bvsv,0307,0304
+030662,Samsung Inverter Giặt 21 Kg - Sấy 12 Kg WD21B6400KV/SV,36990000.0,37990000.0,0,0,,https://www.dienmayxanh.com/may-giat/may-giat-say-samsung-inverter-21-kg-wd21b6400kv-sv,0307,0304
+030663,Samsung Inverter Giặt 14 Kg - Sấy 8 Kg WD14BB944DGMSV,24990000.0,25990000.0,0,0,,https://www.dienmayxanh.com/may-giat/may-giat-say-samsung-wd14bb944dgmsv,0307,0304
+030664,Samsung Inverter Giặt 12 Kg - Sấy 8 Kg WD12BB944DGHSV,22990000.0,23990000.0,0,0,,https://www.dienmayxanh.com/may-giat/may-giat-say-samsung-wd12bb944dghsv,0307,0304
+030665,Samsung Inverter 14 Kg WW14BB944DGHSV Mới 2023,20990000.0,21990000.0,0,0,,https://www.dienmayxanh.com/may-giat/may-giat-samsung-ww14bb944dghsv,0307,0304
+030666,Panasonic Inverter Giặt 9.5 Kg - Sấy tiện ích 2 Kg NA-V95FC1LVT,13990000.0,13990000.0,0,216,,https://www.dienmayxanh.com/may-giat/may-giat-panasonic-inverter-95-kg-na-v95fc1lvt,0314,0304
+030667,Panasonic 8.5 Kg NA-F85A9BRV,6790000.0,6790000.0,0,690,,https://www.dienmayxanh.com/may-giat/panasonic-85-kg-na-f85a9brv,0314,0304
+030668,Panasonic 9 Kg NA-F90A9BRV,7590000.0,7590000.0,0,214,,https://www.dienmayxanh.com/may-giat/panasonic-9-kg-na-f90a9brv,0314,0304
+030669,Panasonic 10 Kg NA-F100A9BRV,8590000.0,8590000.0,0,122,,https://www.dienmayxanh.com/may-giat/panasonic-10-kg-na-f100a9brv,0314,0304
+030670,Panasonic Inverter 10.5 Kg NA-FD10AR1BV,10590000.0,10590000.0,0,185,,https://www.dienmayxanh.com/may-giat/panasonic-na-fd10ar1bv,0314,0304
+030671,Panasonic Inverter 9.5 Kg NA-FD95X1LRV,9090000.0,9090000.0,0,200,,https://www.dienmayxanh.com/may-giat/panasonic-95kg-na-fd95x1lrv,0314,0304
+030672,Panasonic Inverter 11.5 Kg NA-FD11AR1BV,11990000.0,11990000.0,0,233,,https://www.dienmayxanh.com/may-giat/panasonic-na-fd11ar1bv,0314,0304
+030673,Panasonic Inverter 9.5 Kg NA-FD95V1BRV,10590000.0,10590000.0,0,162,,https://www.dienmayxanh.com/may-giat/panasonic-na-fd95v1brv,0314,0304
+030674,Panasonic Inverter 12.5 Kg NA-FD125V1BV,15090000.0,15090000.0,0,59,,https://www.dienmayxanh.com/may-giat/panasonic-na-fd125v1bv,0314,0304
+030675,Panasonic Inverter 10.5 Kg NA-FD10VR1BV,11990000.0,11990000.0,0,137,,https://www.dienmayxanh.com/may-giat/panasonic-na-fd10vr1bv,0314,0304
+030676,Panasonic Inverter Giặt 10.5 Kg - Sấy tiện ích 2 Kg NA-V105FC1LV,15090000.0,15090000.0,0,80,,https://www.dienmayxanh.com/may-giat/may-giat-panasonic-inverter-105-kg-na-v105fc1lv,0314,0304
+030677,Panasonic Inverter Giặt 9.5 Kg - Sấy 6 Kg NA-S956FR1BV,19090000.0,19090000.0,0,38,,https://www.dienmayxanh.com/may-giat/may-giat-say-panasonic-inverter-95-kg-na-s956fr1bv,0314,0304
+030678,Panasonic Inverter Giặt 9.5 Kg - Sấy tiện ích 2 Kg NA-V95FR1BVT,15590000.0,15590000.0,0,36,,https://www.dienmayxanh.com/may-giat/may-giat-panasonic-inverter-95-kg-na-v95fr1bvt,0314,0304
+030679,Panasonic Inverter Giặt 10.5 Kg - Sấy 6 Kg NA-S056FR1BV,20090000.0,20090000.0,0,28,,https://www.dienmayxanh.com/may-giat/may-giat-say-panasonic-inverter-105-kg-na-s056fr1bv,0314,0304
+030680,Panasonic Inverter Giặt 10 Kg - Sấy 6 Kg NA-S106FC1LV,17990000.0,17990000.0,0,43,,https://www.dienmayxanh.com/may-giat/may-giat-say-panasonic-inverter-10-kg-na-s106fc1lv,0314,0304
+030681,Panasonic Inverter Giặt 10.5 Kg - Sấy tiện ích 2 Kg NA-V105FR1BV,16590000.0,16590000.0,0,50,,https://www.dienmayxanh.com/may-giat/say-panasonic-inverter-105kg-na-v105fr1bv,0314,0304
+030682,Panasonic Inverter 14 Kg NA-FD14V1BRV,17090000.0,17090000.0,0,17,,https://www.dienmayxanh.com/may-giat/panasonic-na-fd14v1brv,0314,0304
+030683,Panasonic Inverter 16 Kg NA-FD16V1BRV,20090000.0,20090000.0,0,17,,https://www.dienmayxanh.com/may-giat/panasonic-na-fd16v1brv,0314,0304
+030684,Panasonic Inverter Giặt 9 Kg - Sấy 6 Kg NA-S96FC1LVT,16990000.0,16990000.0,0,49,,https://www.dienmayxanh.com/may-giat/may-giat-say-panasonic-inverter-9-kg-na-s96fc1lvt,0314,0304
+030685,Toshiba 7 Kg AW-L805AV (SG),3990000.0,5190000.0,23,316,,https://www.dienmayxanh.com/may-giat/toshiba-7-kg-aw-l805av-sg,0313,0304
+030686,Toshiba 9 Kg M1000FV(MK),5690000.0,5990000.0,5,35,,https://www.dienmayxanh.com/may-giat/may-giat-toshiba-9-kg-aw-m1000fv-mk,0313,0304
+030687,Toshiba 9 Kg AW-K1005FV(SG),4990000.0,6890000.0,27,265,,https://www.dienmayxanh.com/may-giat/toshiba-aw-k1005fv-sg,0313,0304
+030688,Toshiba Inverter 9.5 Kg TW-BK105S2V(WS),7390000.0,7690000.0,0,219,,https://www.dienmayxanh.com/may-giat/toshiba-tw-bk105s2v-ws,0313,0304
+030689,Toshiba Inverter 10.5 Kg TW-BK115G4V (MG),9990000.0,10490000.0,0,44,,https://www.dienmayxanh.com/may-giat/toshiba-tw-bk115g4v-mg,0313,0304
+030690,Toshiba Inverter 10 Kg AW-DM1100PV(KK),6990000.0,7990000.0,12,40,,https://www.dienmayxanh.com/may-giat/toshiba-inverter-10kg-aw-dm1100pv-kk,0313,0304
+030691,Toshiba 8 Kg M905BVMK,4990000.0,5490000.0,9,69,,https://www.dienmayxanh.com/may-giat/may-giat-toshiba-8kg-aw-m905bvmk,0313,0304
+030692,Toshiba 10 Kg AW-M1100PV(MK),5990000.0,6990000.0,14,30,,https://www.dienmayxanh.com/may-giat/may-giat-toshiba-10-kg-aw-m1100pv-mk,0313,0304
+030693,Toshiba Inverter 8.5 Kg TW-BH95S2V WK,6690000.0,6990000.0,0,533,,https://www.dienmayxanh.com/may-giat/toshiba-tw-bh95s2v-wk,0313,0304
+030694,Toshiba Inverter 9.5 Kg TW-BL105A4V(SS),7990000.0,8990000.0,11,121,,https://www.dienmayxanh.com/may-giat/toshiba-95-kg-tw-bl105a4v-ss,0313,0304
+030695,Toshiba Inverter 9.5 Kg TW-BK105S3V(SK),8390000.0,8690000.0,0,106,,https://www.dienmayxanh.com/may-giat/toshiba-tw-bk105s3v-sk,0313,0304
+030696,Toshiba Inverter 12 Kg AW-DUK1300KV(SG),8490000.0,8990000.0,5,23,,https://www.dienmayxanh.com/may-giat/toshiba-inverter-12-kg-aw-duk1300kv-sg,0313,0304
+030697,Toshiba Inverter 8.5 Kg TW-BL95A4V(SS),6990000.0,7990000.0,12,28,,https://www.dienmayxanh.com/may-giat/toshiba-inverter-85-kg-tw-bl95a4v-ss,0313,0304
+030698,Toshiba Inverter 9 Kg AW-DK1000FV(KK),6990000.0,6990000.0,0,102,,https://www.dienmayxanh.com/may-giat/toshiba-aw-dk1000fv-kk,0313,0304
+030699,Toshiba Inverter 9.5 Kg TW-BK105G4V(MG),8990000.0,9990000.0,10,62,,https://www.dienmayxanh.com/may-giat/toshiba-tw-bk105g4v-mg,0313,0304
+030700,Toshiba Inverter 10.5 Kg TW-BL115A2V(SS),9790000.0,9990000.0,0,19,,https://www.dienmayxanh.com/may-giat/toshiba-105-kg-tw-bl115a2v-ss,0313,0304
+030701,Toshiba 8 Kg AW-K905DV(SG),4490000.0,6490000.0,30,84,,https://www.dienmayxanh.com/may-giat/toshiba-aw-k905dv-sg,0313,0304
+030702,Toshiba Inverter 10.5 Kg AW-DUK1150HV(MG),7040000.0,9090000.0,22,36,,https://www.dienmayxanh.com/may-giat/toshiba-10-5-kg-aw-duk1150hv-mg,0313,0304
+030703,Toshiba Inverter 10 Kg AW-DUM1100JV(SG),9890000.0,10590000.0,6,0,,https://www.dienmayxanh.com/may-giat/toshiba-inverter-10kg-aw-dum1100jv-sg,0313,0304
+030704,Toshiba Inverter Giặt 12.5 Kg - Sấy 8 Kg TWD-BM135GF4V(MG),14990000.0,14990000.0,0,0,,https://www.dienmayxanh.com/may-giat/may-giat-say-toshiba-inverter-twd-bm135gf4v-mg,0313,0304
+030705,Toshiba Inverter 12 Kg AW-DUM1300KV(MG),11690000.0,12990000.0,10,4,,https://www.dienmayxanh.com/may-giat/toshiba-inverter-12kg-aw-dum1300kv-mg,0313,0304
+030706,Toshiba Inverter Giặt 10.5 Kg - Sấy 7 Kg TWD-BM115GF4V(SK),12990000.0,12990000.0,0,0,,https://www.dienmayxanh.com/may-giat/may-giat-say-toshiba-twd-bm115gf4v-sk,0313,0304
+030707,Electrolux Inverter 10 Kg EWF1024P5SB,10750000.0,16990000.0,36,323,,https://www.dienmayxanh.com/may-giat/electrolux-inverter-10-kg-ewf1024p5sb,0318,0304
+030708,Electrolux Inverter 9 Kg EWF9024P5WB,8790000.0,13990000.0,37,129,,https://www.dienmayxanh.com/may-giat/electrolux-inverter-9-kg-ewf9024p5wb,0318,0304
+030709,Electrolux Inverter 10 Kg EWF1024P5WB,9750000.0,15990000.0,39,235,,https://www.dienmayxanh.com/may-giat/electrolux-inverter-10-kg-ewf1024p5wb,0318,0304
+030710,Electrolux Inverter 10 Kg EWF1024M3SB Mới 2023,10590000.0,14990000.0,29,41,,https://www.dienmayxanh.com/may-giat/may-giat-electrolux-inverter-10-kg-ewf1024m3sb,0318,0304
+030711,Electrolux Inverter 9 Kg EWF9024P5SB,9750000.0,14990000.0,34,110,,https://www.dienmayxanh.com/may-giat/electrolux-inverter-9-kg-ewf9024p5sb,0318,0304
+030712,Electrolux Inverter 10 Kg EWF1024D3WB Mới 2023,8990000.0,13990000.0,35,35,,https://www.dienmayxanh.com/may-giat/may-giat-electrolux-inverter-10-kg-ewf1024d3wb,0318,0304
+030713,Electrolux Inverter Giặt 9 Kg - Sấy 6 Kg EWW9024P5WB,12990000.0,19990000.0,35,41,,https://www.dienmayxanh.com/may-giat/say-electrolux-inverter-9-kg-eww9024p5wb,0318,0304
+030714,Electrolux Inverter Giặt 10 Kg - Sấy 7 Kg EWW1024P5WB,17990000.0,21990000.0,18,28,,https://www.dienmayxanh.com/may-giat/say-electrolux-inverter-10-kg-eww1024p5wb,0318,0304
+030715,Electrolux Inverter 8 Kg EWF8024P5WB,7990000.0,11990000.0,33,45,,https://www.dienmayxanh.com/may-giat/electrolux-inverter-8-kg-ewf8024p5wb,0318,0304
+030716,Electrolux Inverter 8 Kg EWF8024P5SB,8990000.0,12990000.0,30,45,,https://www.dienmayxanh.com/may-giat/electrolux-inverter-8-kg-ewf8024p5sb,0318,0304
+030717,Electrolux Inverter 11 Kg EWF1142Q7WB,14990000.0,19990000.0,25,14,,https://www.dienmayxanh.com/may-giat/electrolux-inverter-11-kg-ewf1142q7wb,0318,0304
+030718,Electrolux Inverter 10 Kg EWF1042R7SB,13990000.0,18990000.0,26,14,,https://www.dienmayxanh.com/may-giat/electrolux-inverter-10-kg-ewf1042r7sb,0318,0304
+030719,Electrolux Inverter 10 Kg EWF1042Q7WB,12990000.0,17990000.0,27,15,,https://www.dienmayxanh.com/may-giat/electrolux-inverter-10-kg-ewf1042q7wb,0318,0304
+030720,Electrolux Inverter 9 Kg EWF9042R7SB,13490000.0,16990000.0,20,12,,https://www.dienmayxanh.com/may-giat/electrolux-inverter-9-kg-ewf9042r7sb,0318,0304
+030721,Electrolux Inverter 10 Kg EWF1024BDWA,10490000.0,13290000.0,21,1212,,https://www.dienmayxanh.com/may-giat/electrolux-ewf1024bdwa,0318,0304
+030722,Electrolux Inverter 11 Kg EWF1141R9SB,16990000.0,25990000.0,34,8,,https://www.dienmayxanh.com/may-giat/electrolux-inverter-11-kg-ewf1141r9sb,0318,0304
+030723,Electrolux Inverter Giặt 11 Kg - Sấy 7 Kg EWW1142Q7WB,17490000.0,25990000.0,32,12,,https://www.dienmayxanh.com/may-giat/say-electrolux-inverter-11-kg-eww1142q7wb,0318,0304
+030724,Máy giặt Electrolux Inverter 11 kg EWF1142R7SB,15990000.0,20990000.0,23,7,,https://www.dienmayxanh.com/may-giat/electrolux-inverter-11-kg-ewf1142r7sb,0318,0304
+030725,Electrolux Inverter 9 Kg EWF9042Q7WB,12490000.0,15990000.0,21,3,,https://www.dienmayxanh.com/may-giat/electrolux-inverter-9-kg-ewf9042q7wb,0318,0304
+030726,Electrolux Inverter 9 Kg EWF9024ADSA,10190000.0,12790000.0,20,695,,https://www.dienmayxanh.com/may-giat/electrolux-ewf9024adsa,0318,0304
+030727,Electrolux Inverter 11 Kg EWF1141SESA,20990000.0,20990000.0,0,29,,https://www.dienmayxanh.com/may-giat/electrolux-ewf1141sesa,0318,0304
+030728,Aqua 8.8 Kg AQW-FR88GT.BK,4990000.0,8090000.0,38,132,,https://www.dienmayxanh.com/may-giat/aqua-88-kg-aqw-fr88gtbk,0316,0304
+030729,Aqua Inverter 10.5 Kg AQW-DR105JT BK Mới 2023,7990000.0,9290000.0,13,17,,https://www.dienmayxanh.com/may-giat/may-giat-aqua-inverter-105-kg-aqw-dr105jt-bk,0316,0304
+030730,Aqua Inverter 8.5 Kg AQD-A852J BK Mới 2023,6690000.0,7190000.0,6,11,,https://www.dienmayxanh.com/may-giat/may-giat-aqua-inverter-85-kg-aqd-a852j-bk,0316,0304
+030731,Aqua 10 Kg AQW-F100GT.BK,6390000.0,8090000.0,21,138,,https://www.dienmayxanh.com/may-giat/aqua-10-kg-aqw-f100gtbk,0316,0304
+030732,Aqua 9 Kg AQW-S90CT S,5590000.0,5790000.0,0,57,,https://www.dienmayxanh.com/may-giat/may-giat-aqua-9-kg-aqw-s90ct-s,0316,0304
+030733,Aqua Inverter 8 Kg AQD-A800F W,6190000.0,10090000.0,38,682,,https://www.dienmayxanh.com/may-giat/aqua-aqd-a800f-w,0316,0304
+030734,Aqua 8 Kg AQW-KS80GT S,4890000.0,4990000.0,0,177,,https://www.dienmayxanh.com/may-giat/aqua-8-kg-aqw-ks80gt-s,0316,0304
+030735,Aqua 12 Kg AQW-FW120GT.BK,6990000.0,8690000.0,19,95,,https://www.dienmayxanh.com/may-giat/aqua-12-kg-aqw-fw120gtbk,0316,0304
+030736,Aqua 9.8 Kg AQW-FR98GT.BK,5090000.0,8290000.0,38,92,,https://www.dienmayxanh.com/may-giat/aqua-98-kg-aqw-fr98gtbk,0316,0304
+030737,Aqua Inverter 9 Kg AQD- D902G BK,8390000.0,12490000.0,32,63,,https://www.dienmayxanh.com/may-giat/aqua-aqd-d902g-bk,0316,0304
+030738,Aqua Inverter 10 Kg AQW-DR101GT BK,7590000.0,10490000.0,27,93,,https://www.dienmayxanh.com/may-giat/aqua-aqw-dr101gt-bk,0316,0304
+030739,Aqua 10.5 Kg AQW-FR105JT BK Mới 2023,6990000.0,7690000.0,9,16,,https://www.dienmayxanh.com/may-giat/may-giat-aqua-105-kg-aqw-fr105jt-bk,0316,0304
+030740,Aqua 10 Kg AQW-FR101GT BK,5490000.0,8390000.0,34,62,,https://www.dienmayxanh.com/may-giat/aqua-10-kg-aqw-fr101gt-bk,0316,0304
+030741,Aqua Inverter 10 Kg AQD-A1002G S,7990000.0,12690000.0,37,54,,https://www.dienmayxanh.com/may-giat/aqua-inverter-10-kg-aqd-a1002g-s,0316,0304
+030742,Aqua Inverter 11 Kg AQD- D1102G BK,9190000.0,17990000.0,48,44,,https://www.dienmayxanh.com/may-giat/aqua-aqd-d1102g-bk,0316,0304
+030743,Aqua Inverter 12 Kg AQW-DR120HT BK,7290000.0,10890000.0,33,9,,https://www.dienmayxanh.com/may-giat/may-giat-aqua-aqw-dr120ht-bk,0316,0304
+030744,Aqua Inverter 10 Kg AQD- D1002G BK,8990000.0,15090000.0,40,40,,https://www.dienmayxanh.com/may-giat/aqua-aqd-d1002g-bk,0316,0304
+030745,Aqua 9 Kg AQW-F91GT S,5890000.0,6190000.0,0,17,,https://www.dienmayxanh.com/may-giat/may-giat-aqua-9-kg-aqw-f91gt-s,0316,0304
+030746,Aqua Inverter Giặt 10 Kg - Sấy 6 Kg AQD-AH1000G.PS,13990000.0,20990000.0,33,5,,https://www.dienmayxanh.com/may-giat/may-giat-say-aqua-inverter-10-kg-aqd-ah1000gps,0316,0304
+030747,Aqua Inverter 10 Kg AQD-A1000G S,7390000.0,12990000.0,43,32,,https://www.dienmayxanh.com/may-giat/may-giat-aqua-inverter-10-kg-aqd-a1000g-s,0316,0304
+030748,Aqua Inverter 10.5 Kg AQW-DR105FT BK,7490000.0,10990000.0,31,112,,https://www.dienmayxanh.com/may-giat/aqua-aqw-dr105ft-bk,0316,0304
+030749,Aqua Inverter 13 Kg AQW- DR130UGT PS,11390000.0,15990000.0,28,7,,https://www.dienmayxanh.com/may-giat/aqua-aqw-dr130ugt-ps,0316,0304
+030750,Aqua 10.5 Kg AQW-FR105GT BK,5990000.0,8390000.0,28,125,,https://www.dienmayxanh.com/may-giat/aqua-aqw-fr105gt-bk,0316,0304
+030751,Aqua Inverter 12 Kg AQD-A1200H PS,11390000.0,18990000.0,40,5,,https://www.dienmayxanh.com/may-giat/may-giat-aqua-inverter-12-kg-aqd-a1200h-ps,0316,0304
+030752,Aqua Inverter 15 Kg AQW- DR150UGT PS,12390000.0,17990000.0,31,6,,https://www.dienmayxanh.com/may-giat/aqua-aqw-dr150ugt-ps,0316,0304
+030753,Aqua 12 Kg AQW-FR120HT BK,8490000.0,9390000.0,9,0,,https://www.dienmayxanh.com/may-giat/may-giat-aqua-aqw-fr120ht-bk,0316,0304
+030754,Aqua Inverter Giặt 15 Kg - Sấy 10 Kg AQD-DH1500G PP,35990000.0,35990000.0,0,0,,https://www.dienmayxanh.com/may-giat/may-giat-say-aqua-inverter-15-kg-aqd-dh1500g-pp,0316,0304
+030755,Aqua Inverter 10 Kg AQW-DR100ET S,5990000.0,8390000.0,28,211,,https://www.dienmayxanh.com/may-giat/aqua-aqw-dr100et-s,0316,0304
+030756,Aqua Inverter 12 Kg AQW-DR120CT S,8090000.0,10990000.0,26,13,,https://www.dienmayxanh.com/may-giat/aqua-aqw-dr120ct-s,0316,0304
+030757,Aqua Inverter 10 Kg AQD- DD1001G PS,11890000.0,16590000.0,28,0,,https://www.dienmayxanh.com/may-giat/aqua-aqd-dd1001g-ps,0316,0304
+030758,Aqua Inverter 10.5 Kg AQD-DD1050E S,15090000.0,15090000.0,0,5,,https://www.dienmayxanh.com/may-giat/aqua-aqd-dd1050e-s,0316,0304
+030759,Aqua Inverter 11 Kg AQD- DD1102G.BK,13190000.0,18990000.0,30,0,,https://www.dienmayxanh.com/may-giat/aqua-inverter-11-kg-aqd-dd1102gbk,0316,0304
+030760,Aqua Inverter 15 Kg AQD-A1500H PS,14990000.0,21090000.0,28,0,,https://www.dienmayxanh.com/may-giat/may-giat-aqua-aqd-a1500h-ps,0316,0304
+030761,Aqua Inverter 9.5 Kg AQD-A952J BK Mới 2023,7990000.0,8690000.0,8,0,,https://www.dienmayxanh.com/may-giat/may-giat-aqua-inverter-9-5-kg-aqd-a952j-bk,0316,0304
+030762,Aqua Inverter 10.5 Kg AQD-A1052J BK Mới 2023,9790000.0,10790000.0,9,0,,https://www.dienmayxanh.com/may-giat/may-giat-aqua-inverter-105-kg-aqd-a1052j-bk,0316,0304
+030763,Casper Inverter 9.5 Kg WF-95I140BGB,5990000.0,8490000.0,29,65,,https://www.dienmayxanh.com/may-giat/casper-inverter-125-kg-wf-95i140bgb,0310,0304
+030764,Casper Inverter 9.5 Kg WF-95I140BWC,4990000.0,6990000.0,28,79,,https://www.dienmayxanh.com/may-giat/casper-inverter-95-kg-wf-95i140bwc,0310,0304
+030765,Casper Inverter 10.5 Kg WF-105I140BWC,5990000.0,8490000.0,29,12,,https://www.dienmayxanh.com/may-giat/casper-inverter-105-kg-wf-105i140bwc,0310,0304
+030766,Casper Inverter 8.5 Kg WF-85I140BGB,5490000.0,6990000.0,21,24,,https://www.dienmayxanh.com/may-giat/casper-inverter-85-kg-wf-85i140bgb,0310,0304
+030767,Casper 8.5 Kg WT-85N68BGA,4390000.0,4890000.0,10,32,,https://www.dienmayxanh.com/may-giat/casper-85-kg-wt-85n68bga,0310,0304
+030768,Sharp 8.2 Kg ES-W82GV-H,4490000.0,5490000.0,18,37,,https://www.dienmayxanh.com/may-giat/sharp-es-w82gv-h,0312,0304
+030769,Sharp 10.2 Kg ES-W102PV-H,6390000.0,6790000.0,5,19,,https://www.dienmayxanh.com/may-giat/sharp-es-w102pv-h,0312,0304
+030770,Sharp Inverter 9.5 Kg ES-X95HV-S,6290000.0,6990000.0,10,13,,https://www.dienmayxanh.com/may-giat/sharp-es-x95hv-s,0312,0304
+030771,Sharp Inverter 10.5 Kg ES-FK1054SV-G,8090000.0,9990000.0,19,5,,https://www.dienmayxanh.com/may-giat/sharp-inverter-105-kg-es-fk1054sv-g,0312,0304
+030772,Sharp Inverter 12.5 Kg ES-FK1252SV-G,8990000.0,10590000.0,15,5,,https://www.dienmayxanh.com/may-giat/sharp-inverter-125-kg-es-fk1252sv-g,0312,0304
+030773,Sharp 10 Kg ES-W100PV-H,5990000.0,6690000.0,10,7,,https://www.dienmayxanh.com/may-giat/sharp-es-w100pv-h,0312,0304
+030774,Sharp Inverter 10.5 Kg ES-FK1054PV-S,12190000.0,15490000.0,21,0,,https://www.dienmayxanh.com/may-giat/sharp-inverter-105-kg-es-fk1054pv-s,0312,0304
+030775,Sharp Inverter 9.5 Kg ES-FK954SV-G,9990000.0,12490000.0,20,4,,https://www.dienmayxanh.com/may-giat/sharp-inverter-95-kg-es-fk954sv-g,0312,0304
+030776,TCL 10 Kg TWA100-B302GM,5190000.0,5490000.0,5,10,,https://www.dienmayxanh.com/may-giat/tcl-twa100-b302gm,0305,0304
+030777,Beko Inverter 10 Kg WCV10648XSTM,8490000.0,13490000.0,37,19,,https://www.dienmayxanh.com/may-giat/beko-inverter-10-kg-wcv10648xstm,0315,0304
+030778,Beko Inverter 9 Kg WCV9614XB0STM,6990000.0,10490000.0,33,13,,https://www.dienmayxanh.com/may-giat/beko-inverter-9-kg-wcv9614xb0stm,0315,0304
+030779,Beko Inverter 8 Kg WCV8614XB0STS,6490000.0,8490000.0,23,15,,https://www.dienmayxanh.com/may-giat/beko-inverter-8-kg-wcv8614xb0sts,0315,0304
+030780,Beko Inverter 10 Kg WCV10614XB0STM,7990000.0,12490000.0,36,15,,https://www.dienmayxanh.com/may-giat/beko-inverter-10-kg-wcv10614xb0stm,0315,0304
+030781,Beko Inverter 8 Kg WCV8649XWST,4990000.0,9990000.0,50,114,,https://www.dienmayxanh.com/may-giat/beko-wcv8649xwst,0315,0304
+030782,Beko Inverter 9 Kg WCV9648XSTM Mới 2023,7490000.0,8490000.0,11,0,,https://www.dienmayxanh.com/may-giat/may-giat-beko-inverter-9-kg-wcv9648xstm,0315,0304
+030783,Beko Inverter 10 Kg WCV10614XB0STW Mới 2023,7990000.0,7990000.0,0,0,,https://www.dienmayxanh.com/may-giat/may-giat-beko-wcv10614xb0stw,0315,0304
+030784,Whirlpool 9.5 Kg VWVC9502FS,5690000.0,7990000.0,28,16,,https://www.dienmayxanh.com/may-giat/whirlpool-vwvc9502fs,0321,0304
+030785,Whirlpool Inverter Giặt 10.5 Kg - Sấy 7 Kg WWEB10702FW,12840000.0,16690000.0,23,4,,https://www.dienmayxanh.com/may-giat/say-whirlpool-wweb10702fw,0321,0304
+030786,Whirlpool Inverter 8 Kg FWEB8002FW,6940000.0,9190000.0,24,7,,https://www.dienmayxanh.com/may-giat/whirlpool-fweb8002fw,0321,0304
+030787,Whirlpool Inverter 9 Kg FWEB9002FG,9490000.0,12490000.0,24,3,,https://www.dienmayxanh.com/may-giat/whirlpool-fweb9002fg,0321,0304
+030788,Whirlpool Inverter 9 Kg FWEB9002FW,8290000.0,11190000.0,25,3,,https://www.dienmayxanh.com/may-giat/whirlpool-fweb9002fw,0321,0304
+030789,Whirlpool Inverter Giặt 10.5 Kg - Sấy 7 Kg WWEB10702FG,13190000.0,17690000.0,25,3,,https://www.dienmayxanh.com/may-giat/say-whirlpool-wweb10702fg,0321,0304
+030790,Whirlpool Inverter 8 Kg FFB8458WV EU,7790000.0,9990000.0,22,3,,https://www.dienmayxanh.com/may-giat/whirlpool-ffb8458wv-eu,0321,0304
+030791,Whirlpool Inverter 10.5 Kg FWEB10502FG,12390000.0,15990000.0,22,0,,https://www.dienmayxanh.com/may-giat/whirlpool-fweb10502fg,0321,0304
+030792,Whirlpool Inverter 10.5 Kg FWEB10502FW,9340000.0,13490000.0,30,0,,https://www.dienmayxanh.com/may-giat/whirlpool-fweb10502fw,0321,0304
+030793,Whirlpool Inverter 8 Kg FWEB8002FG,7190000.0,9990000.0,28,0,,https://www.dienmayxanh.com/may-giat/whirlpool-inverter-8-kg-fweb8002fg,0321,0304
+030794,Whirlpool Inverter 10.5 Kg FWMD10502FG,13740000.0,17990000.0,23,3,,https://www.dienmayxanh.com/may-giat/whirlpool-fwmd10502fg,0321,0304
+030795,Whirlpool 10.5 Kg VWVC10502FS,6810000.0,9490000.0,28,0,,https://www.dienmayxanh.com/may-giat/whirlpool-vwvc10502fs,0321,0304
+030796,Whirlpool Inverter Giặt 9.5 Kg - Sấy 7 Kg WWEB95702FG,13190000.0,16490000.0,20,0,,https://www.dienmayxanh.com/may-giat/say-whirlpool-wweb95702fg,0321,0304

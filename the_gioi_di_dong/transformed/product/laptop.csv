@@ -1,0 +1,240 @@
+product_name,current_price,price,percent_discount,rating,series,link,genre_name,brand_name
+MacBook Air 13 inch M1 2020 7-core GPU,18390000,22990000,20,155,MacBook Air,https://www.thegioididong.com/laptop/apple-macbook-air-2020-mgn63saa,Laptop,Apple
+MacBook Air 13 inch M2 2022 8-core GPU,27590000,32990000,16,54,MacBook Air,https://www.thegioididong.com/laptop/apple-macbook-air-m2-2022,Laptop,Apple
+MacBook Air 13 inch M2 2022 10-core GPU,39490000,46990000,15,10,MacBook Air,https://www.thegioididong.com/laptop/apple-macbook-air-m2-2022-16gb,Laptop,Apple
+MacBook Air 15 inch M2 2023 10-core GPU,37990000,37990000,0,0,MacBook Air,https://www.thegioididong.com/laptop/apple-macbook-air-15-inch-m2-2023,Laptop,Apple
+MacBook Air 15 inch M2 2023 10-core GPU,37990000,37990000,0,0,MacBook Air,https://www.thegioididong.com/laptop/apple-macbook-air-m2-2023-16gb,Laptop,Apple
+MacBook Air 15 inch M2 2023 10-core GPU,31990000,31990000,0,0,MacBook Air,https://www.thegioididong.com/laptop/apple-macbook-air-m2-2023,Laptop,Apple
+MacBook Pro 13 inch M2 2022 10-core GPU,29890000,35990000,16,31,MacBook Pro 13 inch,https://www.thegioididong.com/laptop/apple-macbook-pro-13-inch-m2-2022,Laptop,Apple
+MacBook Pro 13 inch M2 2022 10-core GPU,38390000,45990000,16,17,MacBook Pro 13 inch,https://www.thegioididong.com/laptop/apple-macbook-pro-m2-2022-16gb,Laptop,Apple
+MacBook Pro 13 inch M1 2020 8-core GPU,34990000,42690000,18,41,MacBook Pro 13 inch,https://www.thegioididong.com/laptop/apple-macbook-pro-2020-z11c,Laptop,Apple
+MacBook Pro 13 inch M2 2022 10-core GPU,34490000,41990000,17,6,MacBook Pro 13 inch,https://www.thegioididong.com/laptop/apple-macbook-pro-m2-2022,Laptop,Apple
+MacBook Pro 16 inch M1 Pro 2021 16 core-GPU,39990000,58490000,31,17,MacBook Pro 16 inch,https://www.thegioididong.com/laptop/apple-pro-16-m1-pro-2021-10-core-cpu,Laptop,Apple
+MacBook Pro 16 inch M1 Pro 2021 16-core GPU,41990000,63190000,33,12,MacBook Pro 16 inch,https://www.thegioididong.com/laptop/apple-macbook-pro-16-m1-pro-2021-10-core-cpu,Laptop,Apple
+Asus Vivobook X415EA i3 1115G4 (EK2034W),9790000,11490000,14,25,VivoBook,https://www.thegioididong.com/laptop/asus-vivobook-x415ea-i3-ek2034w,Laptop,Asus
+Asus Vivobook 15 X1502ZA i5 1240P (EJ120W),14990000,18490000,18,73,VivoBook,https://www.thegioididong.com/laptop/asus-vivobook-15-x1502za-i5-ej120w,Laptop,Asus
+Asus VivoBook X515MA N4020 (BR480W),6990000,7890000,11,51,VivoBook,https://www.thegioididong.com/laptop/asus-vivobook-x515ma-n4020-br480w,Laptop,Asus
+Asus Vivobook 15 OLED A1505VA i5 13500H (L1052W),17490000,20490000,14,16,VivoBook,https://www.thegioididong.com/laptop/asus-vivobook-15-oled-a1505va-i5-l1052w,Laptop,Asus
+Asus Vivobook 14 X1402ZA i5 1240P (EK083W),14490000,18490000,21,32,VivoBook,https://www.thegioididong.com/laptop/asus-vivobook-14-x1402za-i5-ek083w,Laptop,Asus
+Asus Vivobook 14X OLED A1405ZA i5 12500H (KM146W),16490000,19490000,15,8,VivoBook,https://www.thegioididong.com/laptop/asus-vivobook-14x-oled-a1405za-i5-km146w,Laptop,Asus
+Asus Vivobook 15 X1504VA i5 1335U (NJ025W),15990000,17990000,11,6,VivoBook,https://www.thegioididong.com/laptop/asus-vivobook-15-x1504va-i5-nj025w,Laptop,Asus
+Asus Vivobook 15 X1502ZA i7 1260P (EJ582W),17490000,23990000,27,41,VivoBook,https://www.thegioididong.com/laptop/asus-vivobook-15-x1502za-i7-ej582w,Laptop,Asus
+Asus VivoBook X415EA i3 1115G4 (EK1386W),9190000,11490000,20,72,VivoBook,https://www.thegioididong.com/laptop/asus-vivobook-x415ea-i3-ek1386w,Laptop,Asus
+Asus Vivobook S 14 Flip TP3402VA i5 13500H (LZ031W),20490000,21990000,6,10,VivoBook,https://www.thegioididong.com/laptop/asus-vivobook-s-14-flip-tp3402va-i5-lz031w,Laptop,Asus
+Asus Vivobook 14 X1402ZA i3 1220P (EK249W),10490000,13990000,25,21,VivoBook,https://www.thegioididong.com/laptop/asus-vivobook-14-x1402za-i3-ek249w,Laptop,Asus
+Asus Vivobook 14X OLED S3405VA i9 13900H (KM071W),24690000,26990000,8,0,VivoBook,https://www.thegioididong.com/laptop/asus-vivobook-14x-oled-s3405va-i9-km071w,Laptop,Asus
+Asus Vivobook S 14 Flip TP3402VA i9 13900H (LZ118W),24490000,26490000,7,0,VivoBook,https://www.thegioididong.com/laptop/asus-vivobook-s-14-flip-tp3402va-i9-lz118w,Laptop,Asus
+Asus Vivobook 15 OLED A1505VA i9 13900H (L1201W),23090000,24990000,7,0,VivoBook,https://www.thegioididong.com/laptop/asus-vivobook-15-oled-a1505va-i9-l1201w,Laptop,Asus
+Asus Vivobook 14X OLED S3405VA i5 13500H (KM072W),21990000,22990000,0,0,VivoBook,https://www.thegioididong.com/laptop/asus-vivobook-14x-oled-s3405va-i5-km072w,Laptop,Asus
+Asus Vivobook 15 X1504VA i7 1355U (NJ023W),19490000,22990000,15,5,VivoBook,https://www.thegioididong.com/laptop/asus-vivobook-15-x1504va-nj023w,Laptop,Asus
+Asus Vivobook 14X OLED A1403ZA i5 12500H (KM065W),16690000,21490000,22,46,VivoBook,https://www.thegioididong.com/laptop/asus-vivobook-14x-oled-a1403za-i5-km065w,Laptop,Asus
+Asus Vivobook S 14 Flip TP3402VA i3 1315U (LZ025W),16190000,16990000,0,0,VivoBook,https://www.thegioididong.com/laptop/asus-vivobook-s-14-flip-tp3402va-i3-lz025w,Laptop,Asus
+Asus Vivobook 14 X1404VA i5 1335U (NK123W),15790000,17990000,12,4,VivoBook,https://www.thegioididong.com/laptop/asus-vivobook-14-x1404va-i5-nk123w,Laptop,Asus
+Asus Vivobook 14 A1405VA i3 1315U (LY097W),13990000,14990000,6,5,VivoBook,https://www.thegioididong.com/laptop/asus-vivobook-14-a1405va-i3-ly097w,Laptop,Asus
+Asus Vivobook X515EA i3 1115G4 (EJ3948W),10390000,11990000,13,14,VivoBook,https://www.thegioididong.com/laptop/asus-vivobook-x515ea-i3-ej3948w,Laptop,Asus
+Asus Zenbook 14 OLED UX3402ZA i5 1240P (KM220W),20990000,26990000,22,26,ZenBook,https://www.thegioididong.com/laptop/asus-zenbook-14-oled-ux3402za-i5-km218w,Laptop,Asus
+Asus Zenbook 14 Flip OLED UP3404VA i7 1360P (KN039W),31690000,33990000,6,6,ZenBook,https://www.thegioididong.com/laptop/asus-zenbook-14-flip-oled-up3404va-i7-kn039w,Laptop,Asus
+Asus Zenbook S 13 OLED UX5304VA i7 1355U (NQ126W),46490000,49990000,7,0,ZenBook,https://www.thegioididong.com/laptop/asus-zenbook-s-13-oled-ux5304va-i7-nq126w,Laptop,Asus
+Asus Zenbook S 13 OLED UX5304VA i7 1355U (NQ125W),37990000,39990000,5,0,ZenBook,https://www.thegioididong.com/laptop/asus-zenbook-s-13-oled-ux5304va-i7-nq125w,Laptop,Asus
+Asus Zenbook 14 OLED UX3402VA i7 1360P (KM068W),31990000,31990000,0,0,ZenBook,https://www.thegioididong.com/laptop/asus-zenbook-14-oled-ux3402va-i7-km068w,Laptop,Asus
+Asus Zenbook 14 Flip OLED UP3404VA i5 1340P (KN038W),27990000,29990000,6,0,ZenBook,https://www.thegioididong.com/laptop/asus-zenbook-14-flip-oled-up3404va-i5-kn038w,Laptop,Asus
+Asus Zenbook 14 OLED UX3402ZA i7 1260P (KM221W),26690000,31990000,16,16,ZenBook,https://www.thegioididong.com/laptop/asus-zenbook-14-oled-ux3402za-i7-km221w,Laptop,Asus
+Asus Zenbook 14 OLED UX3402VA i5 1340P (KM085W),25490000,27990000,8,6,ZenBook,https://www.thegioididong.com/laptop/asus-zenbook-14-oled-ux3402va-i5-km085w,Laptop,Asus
+Asus TUF Gaming F15 FX506LHB i5 10300H (HN188W),15490000,20990000,26,144,TUF Gaming,https://www.thegioididong.com/laptop/asus-tuf-gaming-fx506lhb-i5-hn188w,Laptop,Asus
+Asus Gaming TUF Dash F15 FX517ZE i5 12450H (HN045W),21990000,29990000,26,23,TUF Gaming,https://www.thegioididong.com/laptop/asus-tuf-gaming-fx517ze-i5-hn045w,Laptop,Asus
+Asus Gaming TUF Dash F15 FX517ZC i5 12450H (HN077W),20790000,28990000,28,61,TUF Gaming,https://www.thegioididong.com/laptop/asus-tuf-gaming-fx517zc-i5-hn077w,Laptop,Asus
+Asus TUF Gaming F15 FX507VV4 i9 13900H (LP382W),39990000,42990000,6,0,TUF Gaming,https://www.thegioididong.com/laptop/asus-tuf-gaming-f15-fx507vv4-i9-lp382w,Laptop,Asus
+Asus TUF Gaming F15 FX507ZU4 i7 12700H (LP520W),31990000,34990000,8,4,TUF Gaming,https://www.thegioididong.com/laptop/asus-tuf-gaming-f15-fx507zu4-i7-lp520w,Laptop,Asus
+Asus Gaming TUF Dash F15 FX517ZR i7 12650H (HN086W),30990000,42990000,27,0,TUF Gaming,https://www.thegioididong.com/laptop/asus-tuf-gaming-fx517z-i7-hn086w,Laptop,Asus
+Asus TUF Gaming F15 FX507ZM i7 12700H (HN123W),29990000,41990000,28,4,TUF Gaming,https://www.thegioididong.com/laptop/asus-tuf-gaming-fx507z-i7-hn123w,Laptop,Asus
+Asus TUF Gaming F15 FX507ZC i7 12700H (HN124W),25490000,32490000,21,24,TUF Gaming,https://www.thegioididong.com/laptop/asus-tuf-gaming-fx507zc-i7-hn124w,Laptop,Asus
+Asus TUF Gaming F15 FX507ZE i7 12700H (HN093W),25490000,33490000,23,8,TUF Gaming,https://www.thegioididong.com/laptop/asus-tuf-gaming-fx507z-i7-hn093w,Laptop,Asus
+Asus TUF Gaming F15 FX507ZC4 i5 12500H (HN095W),22990000,27990000,17,0,TUF Gaming,https://www.thegioididong.com/laptop/asus-tuf-gaming-f15-fx507zc4-i5-hn095w,Laptop,Asus
+Asus TUF Gaming F15 FX506HC i5 11400H (HN949W),21990000,24990000,12,0,TUF Gaming,https://www.thegioididong.com/laptop/asus-tuf-gaming-f15-fx506hc-i5-hn949w,Laptop,Asus
+Asus TUF Gaming F15 FX506HC i5 11400H (HN144W),20490000,25990000,21,51,TUF Gaming,https://www.thegioididong.com/laptop/asus-tuf-gaming-fx506hc-i5-hn144w,Laptop,Asus
+Asus TUF Gaming F15 FX506HF i5 11400H (HN014W),18990000,21990000,13,0,TUF Gaming,https://www.thegioididong.com/laptop/asus-tuf-gaming-f15-fx506hf-i5-hn014w,Laptop,Asus
+Asus Gaming ROG Strix G15 G513IH R7 4800H (HN015W),17990000,22990000,21,92,ROG,https://www.thegioididong.com/laptop/asus-rog-strix-gaming-g513ih-r7-hn015w,Laptop,Asus
+Asus Gaming ROG Strix SCAR 15 G533ZM i7 12700H (LN2210W),36990000,53990000,31,0,ROG,https://www.thegioididong.com/laptop/asus-rog-strix-scar-15-g533z-i7-ln2210w,Laptop,Asus
+Asus Gaming ROG Strix SCAR 18 G834JY i9 13980HX (N6039W),118000000,125000000,5,0,ROG,https://www.thegioididong.com/laptop/asus-gaming-rog-strix-scar-18-g834jy-i9-n6039w,Laptop,Asus
+Asus Gaming ROG Strix SCAR 17 G733PZ R9 7945HX (LL980W),84500000,90000000,6,0,ROG,https://www.thegioididong.com/laptop/asus-gaming-rog-strix-scar-17-g733pz-r9-ll980w,Laptop,Asus
+Asus Gaming ROG Zephyrus M16 GU604VI i9 13900H (NM779W),75990000,80990000,6,0,ROG,https://www.thegioididong.com/laptop/asus-gaming-rog-zephyrus-m16-gu604vi-i9-nm779w,Laptop,Asus
+Asus Gaming ROG Strix G16 G614JI i7 13650HX (N4084W),56990000,60990000,6,0,ROG,https://www.thegioididong.com/laptop/asus-gaming-rog-strix-g16-g614ji-i7-n4084w,Laptop,Asus
+Asus Gaming ROG Flow Z13 GZ301VU i9 13900H (MU301W),54190000,57990000,6,0,ROG,https://www.thegioididong.com/laptop/asus-gaming-rog-flow-z13-gz301vu-i9-mu301w,Laptop,Asus
+Asus Gaming ROG Strix G17 G713RW R9 6900HX (LL178W),46990000,67990000,30,0,ROG,https://www.thegioididong.com/laptop/asus-gaming-rog-strix-g17-g713r-r9-ll178w,Laptop,Asus
+Asus Gaming ROG Strix G15 G513R R9 6900HX (HQ152W),41990000,62990000,33,0,ROG,https://www.thegioididong.com/laptop/asus-gaming-rog-strix-g15-g513r-r9-hq152w,Laptop,Asus
+Asus Gaming ROG Zephyrus G16 GU603VU i7 13620H (N3898W),41790000,44990000,7,0,ROG,https://www.thegioididong.com/laptop/asus-gaming-rog-zephyrus-g16-gu603vu-i7-n3898w,Laptop,Asus
+Asus Gaming ROG Strix G16 G614JU i7 13650HX (N3777W),40790000,43990000,7,0,ROG,https://www.thegioididong.com/laptop/asus-gaming-rog-strix-g16-g614ju-i7-n3777w,Laptop,Asus
+Asus Gaming ROG Strix G16 G614JU i5 13450HX (N3135W),36990000,39990000,7,0,ROG,https://www.thegioididong.com/laptop/asus-gaming-rog-strix-g16-g614ju-i5-n3135w,Laptop,Asus
+Asus Gaming ROG Strix G15 G513RM R7 6800H (HQ055W),31990000,47990000,33,0,ROG,https://www.thegioididong.com/laptop/asus-rog-strix-gaming-g513rm-r7-hq055w,Laptop,Asus
+Asus Vivobook Pro 16 OLED K6602VV i9 13900H (MX077W),45990000,48990000,6,0,VivoBook Pro OLED,https://www.thegioididong.com/laptop/asus-vivobook-pro-16-oled-k6602vv-i9-mx077w,Laptop,Asus
+Asus Vivobook Pro 15 OLED K6502VU i9 13900H (MA090W),38990000,41990000,7,0,VivoBook Pro OLED,https://www.thegioididong.com/laptop/asus-vivobook-pro-15-oled-k6502vu-i9-ma090w,Laptop,Asus
+Asus Vivobook Pro 15 OLED K6502VU i5 13500H (MA089W),35490000,37990000,6,0,VivoBook Pro OLED,https://www.thegioididong.com/laptop/asus-vivobook-pro-15-oled-k6502vu-i5-ma089w,Laptop,Asus
+Asus Vivobook Pro 15 OLED K6502Z i7 12650H (MA036W),26990000,33990000,20,10,VivoBook Pro OLED,https://www.thegioididong.com/laptop/asus-vivobook-pro-15-oled-k6502z-i7-ma036w,Laptop,Asus
+Asus Vivobook Pro 15 OLED K6502Z i5 12450H (MA025W),23990000,30990000,22,9,VivoBook Pro OLED,https://www.thegioididong.com/laptop/asus-vivobook-pro-15-k6502z-i5-ma025w,Laptop,Asus
+Asus ExpertBook B5402CB i5 1240P (KI0353W),19990000,26990000,25,11,ExpertBook,https://www.thegioididong.com/laptop/asus-expertbook-b5402cb-i5-ki0353w,Laptop,Asus
+HP Envy X360 13 bf0090TU i7 1250U (76B13PA),28990000,32990000,12,11,Envy,https://www.thegioididong.com/laptop/hp-envy-x360-13-bf0090tu-i7-76b13pa,Laptop,Hp
+HP Envy 16 h0205TX i9 12900H (7C0T2PA),58990000,65390000,9,0,Envy,https://www.thegioididong.com/laptop/hp-envy-16-h0205tx-i9-7c0t2pa,Laptop,Hp
+HP Envy X360 13 bf0095TU i5 1230U (76B15PA),25590000,29590000,13,13,Envy,https://www.thegioididong.com/laptop/hp-envy-x360-13-bf0095tu-i5-76b15pa,Laptop,Hp
+HP Pavilion 15 eg2082TU i5 1240P (7C0Q5PA),16990000,19790000,14,33,Pavilion,https://www.thegioididong.com/laptop/hp-pavilion-15-eg2082tu-i5-7c0q5pa,Laptop,Hp
+HP Pavilion 14 dv2074TU i5 1235U (7C0P3PA),16890000,19690000,14,23,Pavilion,https://www.thegioididong.com/laptop/hp-pavilion-14-dv2074tu-i5-7c0p3pa,Laptop,Hp
+HP Pavilion X360 14 ek0134TU i5 1235U (7C0P8PA),18590000,21890000,15,27,Pavilion,https://www.thegioididong.com/laptop/hp-pavilion-x360-14-ek0134tu-i5-7c0p8pa,Laptop,Hp
+HP Pavilion 15 eg2035TX i5 1235U (6K781PA),18090000,20590000,12,34,Pavilion,https://www.thegioididong.com/laptop/hp-pavilion-15-eg2035tx-i5-6k781pa,Laptop,Hp
+HP Pavilion 15 eg2056TU i5 1240P (6K786PA),15490000,18990000,18,61,Pavilion,https://www.thegioididong.com/laptop/hp-pavilion-15-eg2056tu-i5-6k786pa,Laptop,Hp
+HP Pavilion 14 dv2033TU i5 1235U (6K769PA),15490000,18990000,18,34,Pavilion,https://www.thegioididong.com/laptop/hp-pavilion-14-dv2033tu-i5-6k769pa,Laptop,Hp
+HP Pavilion 15 eg2059TU i5 1240P (6K789PA),15090000,17990000,16,23,Pavilion,https://www.thegioididong.com/laptop/hp-pavilion-15-eg2059tu-i5-6k789pa,Laptop,Hp
+HP Pavilion X360 14 ek0132TU i7 1255U (7C0W4PA),23990000,26990000,11,11,Pavilion,https://www.thegioididong.com/laptop/hp-pavilion-x360-14-ek0132tu-i7-7c0w4pa,Laptop,Hp
+HP Pavilion 15 eg2088TU i7 1260P (7C0R0PA),22790000,25290000,9,12,Pavilion,https://www.thegioididong.com/laptop/hp-pavilion-15-eg2088tu-i7-7c0r0pa,Laptop,Hp
+HP Pavilion X360 14 ek1049TU i5 1335U (80R27PA),21990000,24290000,9,8,Pavilion,https://www.thegioididong.com/laptop/hp-pavilion-x360-14-ek1049tu-i5-80r27pa,Laptop,Hp
+HP Pavilion 15 eg2034TX i7 1255U (6K780PA),21890000,24590000,10,9,Pavilion,https://www.thegioididong.com/laptop/hp-pavilion-15-eg2034tx-i7-6k780pa,Laptop,Hp
+HP Pavilion 15 eg2066TU i7 1260P (6K7E2PA),21190000,24190000,12,9,Pavilion,https://www.thegioididong.com/laptop/hp-pavilion-15-eg2066tu-i7-6k7e2pa,Laptop,Hp
+HP Pavilion X360 14 ek1048TU i5 1335U (80R26PA),20590000,22890000,10,4,Pavilion,https://www.thegioididong.com/laptop/hp-pavilion-x360-14-ek1048tu-i5-80r26pa,Laptop,Hp
+HP Pavilion 15 eg2081TU i5 1240P (7C0Q4PA),18590000,20990000,11,0,Pavilion,https://www.thegioididong.com/laptop/hp-pavilion-15-eg2081tu-i5-7c0q4pa,Laptop,Hp
+HP Pavilion 15 eg2062TX i5 1235U (7C0W7PA),18090000,20590000,12,0,Pavilion,https://www.thegioididong.com/laptop/hp-pavilion-15-eg2062tx-i5-7c0w7pa,Laptop,Hp
+HP Pavilion 15 eg2036TX i5 1235U (6K782PA),17790000,20590000,13,15,Pavilion,https://www.thegioididong.com/laptop/hp-pavilion-15-eg2036tx-i5-6k782pa,Laptop,Hp
+HP Pavilion X360 14 dy0161TU i3 1125G4 (4Y1D2PA),16790000,16790000,0,25,Pavilion,https://www.thegioididong.com/laptop/hp-pavilion-x360-14-dy0161tu-i3-4y1d2pa,Laptop,Hp
+HP Pavilion 15 eg2085TU i5 1240P (7C0Q7PA),16290000,18790000,13,9,Pavilion,https://www.thegioididong.com/laptop/hp-pavilion-15-eg2085tu-i5-7c0q7pa,Laptop,Hp
+HP Pavilion X360 14 ek0059TU i3 1215U (6K7E1PA),14490000,16590000,12,10,Pavilion,https://www.thegioididong.com/laptop/hp-pavilion-x360-14-ek0059tu-i3-6k7e1pa,Laptop,Hp
+HP Pavilion X360 14 ek0131TU i3 1215U (7C0P6PA),14490000,16590000,12,0,Pavilion,https://www.thegioididong.com/laptop/hp-pavilion-x360-14-ek0131tu-i3-7c0p6pa,Laptop,Hp
+HP Pavilion 15 eg2086TU i3 1215U (7C0Q8PA),12790000,15290000,16,13,Pavilion,https://www.thegioididong.com/laptop/hp-pavilion-15-eg2086tu-i3-7c0q8pa,Laptop,Hp
+HP Pavilion 15 eg2062TU i3 1215U (6K790PA),12490000,14990000,16,18,Pavilion,https://www.thegioididong.com/laptop/hp-pavilion-15-eg2062tu-i3-6k790pa,Laptop,Hp
+HP Probook 450 G9 i5 1235U (6M0Y9PA),18990000,21290000,10,11,ProBook,https://www.thegioididong.com/laptop/hp-probook-450-g9-i5-6m0y9pa,Laptop,Hp
+HP EliteBook 630 G9 i7 1255U (6M146PA),24190000,27790000,12,12,EliteBook,https://www.thegioididong.com/laptop/hp-elitebook-630-g9-i7-6m146pa,Laptop,Hp
+HP Elitebook Dragonfly G3 i7 1255U (6Z980PA),47490000,52590000,9,0,EliteBook,https://www.thegioididong.com/laptop/hp-elitebook-dragonfly-g3-i7-6z980pa,Laptop,Hp
+HP Elitebook X360 1040 G9 i7 1255U (6Z982PA),45090000,49990000,9,0,EliteBook,https://www.thegioididong.com/laptop/hp-elitebook-x360-1040-g9-i7-6z982pa,Laptop,Hp
+HP Elitebook 630 G9 i5 1235U (6M143PA),19890000,22190000,10,21,EliteBook,https://www.thegioididong.com/laptop/hp-elitebook-630-g9-i5-6m143pa,Laptop,Hp
+HP VICTUS 15 fa0155TX i5 12450H (81P00PA),20990000,27990000,25,4,Victus,https://www.thegioididong.com/laptop/hp-victus-15-fa0155tx-i5-81p00pa,Laptop,Hp
+HP Gaming VICTUS 15 fa0111TX i5 12500H (7C0R4PA),22290000,28290000,21,7,Victus,https://www.thegioididong.com/laptop/hp-victus-15-fa0111tx-i5-7c0r4pa,Laptop,Hp
+HP Gaming VICTUS 16 e1102AX R7 6800H (7C139PA),24990000,30990000,19,0,Victus,https://www.thegioididong.com/laptop/hp-victus-16-e1102ax-r7-7c139pa,Laptop,Hp
+HP Omen 16 n0085AX R9 6900HX (7C144PA),56690000,62890000,9,0,Omen,https://www.thegioididong.com/laptop/hp-omen-16-n0085ax-r9-7c144pa,Laptop,Hp
+HP Omen 16 n0087AX R7 6800H (7C0T7PA),45790000,50890000,10,0,Omen,https://www.thegioididong.com/laptop/hp-omen-16-n0087ax-r7-7c0t7pa,Laptop,Hp
+HP 240 G8 i3 1115G4 (6L1A1PA),9790000,12990000,24,46,"Cơ bản (15s, 240, 245)",https://www.thegioididong.com/laptop/hp-240-g8-i3-6l1a1pa,Laptop,Hp
+HP 15s fq2716TU i3 1115G4 (7C0X3PA),10490000,13690000,23,62,"Cơ bản (15s, 240, 245)",https://www.thegioididong.com/laptop/hp-15s-fq2716tu-i3-7c0x3pa,Laptop,Hp
+HP 245 G9 R5 5625U (6L1N9PA),11690000,13990000,16,12,"Cơ bản (15s, 240, 245)",https://www.thegioididong.com/laptop/hp-245-g9-r5-6l1n9pa,Laptop,Hp
+HP 240 G9 i5 1235U (6L1Y1PA),14990000,17590000,14,23,"Cơ bản (15s, 240, 245)",https://www.thegioididong.com/laptop/hp-240-g9-i5-6l1y1pa,Laptop,Hp
+HP 15s fq5078TU i5 1235U (6K798PA),15190000,18190000,16,44,"Cơ bản (15s, 240, 245)",https://www.thegioididong.com/laptop/hp-15s-fq5078tu-i5-6k798pa,Laptop,Hp
+HP 15s fq5147TU i7 1255U (7C133PA),17790000,20890000,14,17,"Cơ bản (15s, 240, 245)",https://www.thegioididong.com/laptop/hp-15s-fq5147tu-i7-7c133pa,Laptop,Hp
+HP 15s fq5162TU i5 1235U (7C134PA),15690000,18890000,16,20,"Cơ bản (15s, 240, 245)",https://www.thegioididong.com/laptop/hp-15s-fq5162tu-i5-7c134pa,Laptop,Hp
+HP 240 G9 i5 1235U (6L1Y2PA),15390000,18590000,17,35,"Cơ bản (15s, 240, 245)",https://www.thegioididong.com/laptop/hp-240-g9-i5-6l1y2pa,Laptop,Hp
+HP 15s fq5077TU i7 1255U (6K797PA),16790000,20290000,17,39,"Cơ bản (15s, 240, 245)",https://www.thegioididong.com/laptop/hp-15s-fq5077tu-i7-6k797pa,Laptop,Hp
+Lenovo Ideapad 3 15IAU7 i3 1215U (82RK005LVN),9990000,13890000,28,56,IdeaPad,https://www.thegioididong.com/laptop/lenovo-ideapad-3-15iau7-i3-82rk005lvn,Laptop,Lenovo
+Lenovo IdeaPad 1 15AMN7 R5 7520U (82VG0061VN),9490000,12690000,25,42,IdeaPad,https://www.thegioididong.com/laptop/lenovo-ideapad-1-15amn7-r5-82vg0061vn,Laptop,Lenovo
+Lenovo Ideapad 3 15ITL6 i5 1155G7 (82H803CVVN),12190000,14490000,15,23,IdeaPad,https://www.thegioididong.com/laptop/lenovo-ideapad-3-15itl6-i5-82h803cvvn,Laptop,Lenovo
+Lenovo IdeaPad Slim 5 Light 14ABR8 R5 7530U (82XS002KVN),15990000,17990000,11,10,IdeaPad,https://www.thegioididong.com/laptop/lenovo-ideapad-slim-5-light-14abr8-r5-82xs002kvn,Laptop,Lenovo
+Lenovo Ideapad 3 15IAU7 i5 1235U (82RK001PVN),13990000,17990000,22,29,IdeaPad,https://www.thegioididong.com/laptop/lenovo-ideapad-3-15iau7-i5-82rk001pvn,Laptop,Lenovo
+Lenovo Ideapad 3 15IAU7 i3 1215U (82RK001MVN),10390000,14690000,29,32,IdeaPad,https://www.thegioididong.com/laptop/lenovo-ideapad-3-15iau7-i3-82rk001mvn,Laptop,Lenovo
+Lenovo Ideapad 5 15IAL7 i5 1235U (82SF005HVN),15490000,19490000,20,16,IdeaPad,https://www.thegioididong.com/laptop/lenovo-ideapad-5-15ial7-i5-82sf005hvn,Laptop,Lenovo
+Lenovo Ideapad 3 14ABA7 R5 5625U (82RM003WVN),10490000,14890000,29,9,IdeaPad,https://www.thegioididong.com/laptop/lenovo-ideapad-3-14aba7-r5-82rm003wvn,Laptop,Lenovo
+Lenovo Ideapad 5 14IAL7 i5 1235U (82SD0060VN),15490000,18990000,18,16,IdeaPad,https://www.thegioididong.com/laptop/lenovo-ideapad-5-14ial7-i5-82sd0060vn,Laptop,Lenovo
+Lenovo Ideapad 5 Pro 14IAP7 i5 1240P (82SH000SVN),18990000,24990000,24,16,IdeaPad,https://www.thegioididong.com/laptop/lenovo-ideapad-5-pro-14iap7-i5-82sh000svn,Laptop,Lenovo
+Lenovo Ideapad 5 Pro 14IAP7 i7 1260P (82SH002SVN),21990000,27990000,21,7,IdeaPad,https://www.thegioididong.com/laptop/lenovo-ideapad-5-pro-14iap7-i7-82sh002svn,Laptop,Lenovo
+Lenovo IdeaPad 3 15ITL6 i7 1165G7 (82H803CUVN),14490000,16490000,12,7,IdeaPad,https://www.thegioididong.com/laptop/lenovo-ideapad-3-15itl6-i7-82h803cuvn,Laptop,Lenovo
+Lenovo Ideapad 3 15ITL6 i5 1155G7 (82H803RRVN),14490000,14490000,0,0,IdeaPad,https://www.thegioididong.com/laptop/lenovo-ideapad-3-15itl6-i5-82h803rrvn,Laptop,Lenovo
+Lenovo Ideapad 3 15ITL6 i3 1115G4 (82H803SGVN),10490000,10490000,0,0,IdeaPad,https://www.thegioididong.com/laptop/lenovo-ideapad-3-15itl6-i3-82h803sgvn,Laptop,Lenovo
+Lenovo ThinkBook 14 G3 ACL R5 5500U (21A200R0VN),12990000,18190000,28,30,ThinkBook,https://www.thegioididong.com/laptop/lenovo-thinkbook-14-g3-acl-r5-21a200r0vn,Laptop,Lenovo
+Lenovo ThinkBook 14 G4 IAP i5 1240P (21DH00B5VN),18690000,23690000,21,0,ThinkBook,https://www.thegioididong.com/laptop/lenovo-thinkbook-14-g4-iap-i5-21dh00b5vn,Laptop,Lenovo
+Lenovo ThinkBook 14 G3 ACL R3 5300U (21A200RWVN),9490000,9490000,0,0,ThinkBook,https://www.thegioididong.com/laptop/lenovo-thinkbook-14-g3-acl-r3-21a200rwvn,Laptop,Lenovo
+Lenovo Ideapad Gaming 3 15IAH7 i5 12500H (82S9007TVN),17990000,26990000,33,33,IdeaPad Gaming,https://www.thegioididong.com/laptop/lenovo-ideapad-gaming-3-15iah7-i5-82s9007tvn,Laptop,Lenovo
+Lenovo Ideapad Gaming 3 15IHU6 i5 11320H (82K101F3VN),14990000,20790000,27,26,IdeaPad Gaming,https://www.thegioididong.com/laptop/lenovo-ideapad-gaming-3-15ihu6-i5-82k101f3vn,Laptop,Lenovo
+Lenovo Ideapad Gaming 3 15IAH7 i7 12700H (82S9007UVN),21990000,31290000,29,4,IdeaPad Gaming,https://www.thegioididong.com/laptop/lenovo-ideapad-gaming-3-15iah7-i7-82s9007uvn,Laptop,Lenovo
+Lenovo Legion 5 15IAH7 i5 12500H (82RC003WVN),23490000,35490000,33,9,Gaming Legion,https://www.thegioididong.com/laptop/lenovo-legion-5-15iah7-i5-82rc003wvn,Laptop,Lenovo
+Lenovo Yoga Duet 7 13ITL6 i7 1165G7 (82MA009PVN),32490000,36490000,10,0,Yoga,https://www.thegioididong.com/laptop/lenovo-yoga-duet-7-13itl6-i7-82ma009pvn,Laptop,Lenovo
+Lenovo Yoga Slim 7 Carbon 13ITL5 i7 1165G7 (82EV00AWVN),29740000,34990000,15,8,Yoga,https://www.thegioididong.com/laptop/lenovo-yoga-slim-7-carbon-13itl5-i7-82ev00awvn,Laptop,Lenovo
+Lenovo Yoga Slim 7 Pro 14IAH7 i7 12700H (82UT006CVN),27490000,30990000,11,4,Yoga,https://www.thegioididong.com/laptop/lenovo-yoga-slim-7-pro-14iah7-i7-82ut006cvn,Laptop,Lenovo
+Lenovo Yoga 7 14IAL7 i5 1240P (82QE000RVN),26340000,30990000,15,10,Yoga,https://www.thegioididong.com/laptop/lenovo-yoga-7-14ial7-i5-82qe000rvn,Laptop,Lenovo
+Lenovo Yoga Duet 7 13ITL6 i5 1135G7 (82MA009NVN),24990000,28490000,12,0,Yoga,https://www.thegioididong.com/laptop/lenovo-yoga-duet-7-13itl6-i5-82ma009nvn,Laptop,Lenovo
+Lenovo Yoga Slim 7 Carbon 13ITL5 i5 1135G7 (82EV00AVVN),24640000,28990000,15,6,Yoga,https://www.thegioididong.com/laptop/lenovo-yoga-slim-7-carbon-13itl5-i5-82nh00avvn,Laptop,Lenovo
+Lenovo ThinkPad X1 Carbon Gen 10 i7 1260P (21CB00A8VN),44490000,49490000,10,0,ThinkPad,https://www.thegioididong.com/laptop/lenovo-thinkpad-x1-carbon-gen-10-i7-21cb00a8vn,Laptop,Lenovo
+Lenovo ThinkPad E15 Gen 4 i7 1260P (21E600CPVN),25190000,28690000,12,4,ThinkPad,https://www.thegioididong.com/laptop/lenovo-thinkpad-e15-gen-4-i7-21e600cpvn,Laptop,Lenovo
+Lenovo V15 G3 IAP i5 1235U (82TT0064VN),13890000,17390000,20,6,V Series,https://www.thegioididong.com/laptop/lenovo-v15-g3-iap-i5-82tt0064vn,Laptop,Lenovo
+Lenovo V14 G3 IAP i5 1235U (82TS005RVN),13190000,16690000,20,5,V Series,https://www.thegioididong.com/laptop/lenovo-v14-g3-iap-i5-82ts005rvn,Laptop,Lenovo
+Acer Nitro 5 Gaming AN515 45 R6EV R5 5600H (NH.QBMSV.006),16990000,22490000,24,128,Nitro,https://www.thegioididong.com/laptop/acer-nitro-5-gaming-an515-45-r6ev-r5-nhqbmsv006,Laptop,Acer
+Acer Nitro 5 Gaming AN515 57 5669 i5 11400H (NH.QEHSV.001),17990000,23790000,24,20,Nitro,https://www.thegioididong.com/laptop/acer-nitro-5-gaming-an515-57-5669-i5-nhqehsv001,Laptop,Acer
+Acer Nitro 5 Gaming AN515 57 553E i5 11400H (NH.QENSV.006),19990000,24990000,20,78,Nitro,https://www.thegioididong.com/laptop/acer-nitro-5-gaming-an515-57-553e-i5-nhqensv006,Laptop,Acer
+Acer Nitro 5 Tiger AN515 58 773Y i7 12700H (NH.QFKSV.001),27490000,31990000,14,24,Nitro,https://www.thegioididong.com/laptop/acer-nitro-5-tiger-an515-58-773y-i7-nhqfksv001,Laptop,Acer
+Acer Nitro 5 Tiger AN515 58 52SP i5 12500H (NH.QFHSV.001),22990000,27990000,17,15,Nitro,https://www.thegioididong.com/laptop/acer-nitro-5-tiger-an515-58-52sp-i5-nhqfhsv001,Laptop,Acer
+Acer Nitro 5 Gaming AN515 57 720A i7 11800H (NH.QEQSV.004),21890000,28990000,24,32,Nitro,https://www.thegioididong.com/laptop/acer-nitro-5-gaming-an515-57-720a-i7-nhqeqsv004,Laptop,Acer
+Acer Gaming Nitro 5 AN515 57 53F9 i5 11400H (NH.QENSV.008),19990000,24990000,20,6,Nitro,https://www.thegioididong.com/laptop/acer-gaming-nitro-5-an515-57-53f9-i5-nhqensv008,Laptop,Acer
+Acer Gaming Nitro 17 Phoenix AN17 51 50B9 i5 13500H (NH.QK5SV.001),35490000,35490000,0,0,Nitro,https://www.thegioididong.com/laptop/acer-nitro-17-phoenix-an17-51-50b9-i5-nhqk5sv001,Laptop,Acer
+Acer Aspire 3 A315 57 379K i3 1005G1 (NX.KAGSV.001),7990000,8490000,5,35,Aspire,https://www.thegioididong.com/laptop/acer-aspire-3-a315-57-379k-i3-nxkagsv001,Laptop,Acer
+Acer Aspire 3 A315 58 54XF i5 1135G7 (NX.AM0SV.007),12490000,16990000,26,27,Aspire,https://www.thegioididong.com/laptop/acer-aspire-3-a315-58-54xf-i5-nxam0sv007,Laptop,Acer
+Acer Aspire 3 A315 58 589K i5 1135G7 (NX.AM0SV.008),11490000,13990000,17,13,Aspire,https://www.thegioididong.com/laptop/acer-aspire-3-a315-58-589k-i5-nxam0sv008,Laptop,Acer
+Acer Aspire 7 Gaming A715 42G R05G R5 5500U (NH.QAYSV.007),14990000,20490000,26,55,Aspire,https://www.thegioididong.com/laptop/acer-aspire-7-gaming-a715-42g-r05g-r5-nhqaysv007,Laptop,Acer
+Acer Aspire 3 A315 59 314F i3 1215U (NX.K6TSV.002),9990000,13490000,25,43,Aspire,https://www.thegioididong.com/laptop/acer-aspire-3-a315-59-314f-i3-nxk6tsv002,Laptop,Acer
+Acer Aspire 7 Gaming A715 76G 5132 i5 12450H (NH.QMESV.002),15990000,18990000,15,7,Aspire,https://www.thegioididong.com/laptop/acer-aspire-7-gaming-a715-76g-5132-i5-nhqmesv002,Laptop,Acer
+Acer Aspire 3 A314 35 C3KS N5100 (NX.A7SSV.009),5990000,6990000,14,5,Aspire,https://www.thegioididong.com/laptop/acer-aspire-3-a314-35-c3ks-n5100-nxa7ssv009,Laptop,Acer
+Acer Aspire 3 A314 35 P3G9 N6000 (NX.A7SSV.007),6990000,7990000,12,19,Aspire,https://www.thegioididong.com/laptop/acer-aspire-3-a314-35-p3g9-n6000-nxa7ssv007,Laptop,Acer
+Acer Aspire 5 A514 54 511G i5 1135G7 (NX.A28SV.009),14190000,19990000,29,57,Aspire,https://www.thegioididong.com/laptop/acer-aspire-a514-54-511g-i5-nxa28sv009,Laptop,Acer
+Acer Aspire 3 A315 58 382Z i3 1115G4 (NX.ADDSV.00K),9990000,12990000,23,17,Aspire,https://www.thegioididong.com/laptop/acer-aspire-3-a315-58-382z-i3-nxaddsv00k,Laptop,Acer
+Acer Aspire 7 Gaming A715 43G R8GA R5 5625U (NH.QHDSV.002),17490000,21990000,20,13,Aspire,https://www.thegioididong.com/laptop/acer-aspire-7-gaming-a715-43g-r8ga-r5-nhqhdsv002,Laptop,Acer
+Acer Aspire 3 A315 58 787C i7 1165G7 (NX.ADDSV.00J),16490000,19990000,17,13,Aspire,https://www.thegioididong.com/laptop/acer-aspire-3-a315-58-787c-i7-nxaddsv00j,Laptop,Acer
+Acer Aspire 7 Gaming A715 75G 58U4 i5 10300H (NH.Q97SV.004),15390000,21990000,30,36,Aspire,https://www.thegioididong.com/laptop/acer-aspire-7-gaming-a715-75g-58u4-i5-nhq97sv004,Laptop,Acer
+Acer Aspire 3 A315 59 5283 i5 1235U (NX.K6TSV.00B),14490000,15990000,9,4,Aspire,https://www.thegioididong.com/laptop/acer-aspire-3-a315-59-5283-i5-nxk6tsv00b,Laptop,Acer
+Acer Aspire 5 A514 54 5127 i5 1135G7 (NX.A28SV.007),14190000,15490000,8,22,Aspire,https://www.thegioididong.com/laptop/acer-aspire-a514-54-5127-i5-nxa28sv007,Laptop,Acer
+Acer Aspire 5 A515 58P 34RJ i3 1315U (NX.KHJSV.003),12590000,13090000,0,0,Aspire,https://www.thegioididong.com/laptop/acer-aspire-5-a515-58p-34rj-i3-nxkhjsv003,Laptop,Acer
+Acer Aspire 3 A315 59 38PG i3 1215U (NX.K6TSV.00A),10690000,13990000,23,7,Aspire,https://www.thegioididong.com/laptop/acer-aspire-3-a315-59-38pg-i3-nxk6tsv00a,Laptop,Acer
+Acer Aspire 3 A314 35 P6NC N6000 (NX.A7SSV.006),10290000,10290000,0,13,Aspire,https://www.thegioididong.com/laptop/acer-aspire-3-a314-35-p6nc-nxa7ssv006,Laptop,Acer
+Acer Aspire 3 A315 58 358E i3 1115G4 (NX.ADDSV.00F),10290000,13990000,26,17,Aspire,https://www.thegioididong.com/laptop/acer-aspire-3-a315-58-358e-i3-nxaddsv00f,Laptop,Acer
+Acer Swift 3 SF314 512 56QN i5 1240P (NX.K0FSV.002),18490000,23990000,22,11,Swift,https://www.thegioididong.com/laptop/acer-swift-3-sf314-512-56qn-i5-nxk0fsv002,Laptop,Acer
+Acer Swift 3 SF314 511 55QE i5 1135G7 (NX.ABNSV.003),17690000,22990000,23,13,Swift,https://www.thegioididong.com/laptop/acer-swift-3-sf314-511-55qe-i5-nxabnsv003,Laptop,Acer
+Acer TravelMate B3 TMB311 31 C2HB N4020 (NX.VNFSV.006),5990000,9990000,40,88,TravelMate,https://www.thegioididong.com/laptop/acer-travelmate-b3-tmb311-31-c2hb-nxvnfsv006,Laptop,Acer
+Acer Gaming Predator Helios Neo 16 PHN16 71 7460 i7 13700HX (NH.QLTSV.004),38990000,38990000,0,0,Predator,https://www.thegioididong.com/laptop/acer-predator-helios-neo-phn16-71-7460-i7-nhqltsv004,Laptop,Acer
+Acer Predator Helios PH16 71 94N1 i9 13900HX (NH.QJSSV.002),117790000,117790000,0,0,Predator,https://www.thegioididong.com/laptop/acer-predator-helios-ph16-71-94n1-i9-nhqjssv002,Laptop,Acer
+Acer Predator Helios PH18 71 94SJ i9 13900HX (NH.QKRSV.002),119990000,119990000,0,0,Predator,https://www.thegioididong.com/laptop/acer-predator-helios-ph18-71-94sj-i9-nhqkrsv002,Laptop,Acer
+Acer Gaming Predator Helios Neo 16 PHN16 71 54CD i5 13500HX (NH.QLTSV.001),35990000,35990000,0,0,Predator,https://www.thegioididong.com/laptop/acer-predator-helios-neo-phn16-71-54cd-i5-nhqltsv001,Laptop,Acer
+Acer Gaming Predator Helios Neo 16 PHN16 71 74BA i7 13700HX (NH.QLUSV.004),42990000,42990000,0,0,Predator,https://www.thegioididong.com/laptop/acer-predator-helios-neo-phn16-71-74ba-i7-nhqlusv004,Laptop,Acer
+Dell Inspiron 15 3520 i5 1235U (N5I5122W1),16190000,18590000,12,26,Inspiron,https://www.thegioididong.com/laptop/dell-inspiron-15-3520-i5-n5i5122w1,Laptop,Dell
+Dell Inspiron 16 5620 i7 1255U (N6I7110W1),22490000,25190000,10,22,Inspiron,https://www.thegioididong.com/laptop/dell-inspiron-16-5620-i7-n6i7110w1,Laptop,Dell
+Dell Inspiron 15 3520 i3 1215U (i3U082W11BLU),12290000,13690000,10,14,Inspiron,https://www.thegioididong.com/laptop/dell-inspiron-15-3520-i3-i3u082w11blu,Laptop,Dell
+Dell Inspiron 5620 i5 1235U (71003903),18490000,20290000,8,9,Inspiron,https://www.thegioididong.com/laptop/dell-inspiron-5620-i5-71003903,Laptop,Dell
+Dell Inspiron 16 5620 i5 1235U (P1WKN),17690000,19790000,10,5,Inspiron,https://www.thegioididong.com/laptop/dell-inspiron-16-5620-i5-p1wkn,Laptop,Dell
+Dell Inspiron 5430 i5 1340P (i5P165W11SLD2),25990000,27490000,5,0,Inspiron,https://www.thegioididong.com/laptop/dell-inspiron-5430-i5-i5p165w11sld2,Laptop,Dell
+Dell Inspiron 16 5620 i7 1255U (N6I7009W1),24990000,26590000,6,0,Inspiron,https://www.thegioididong.com/laptop/dell-inspiron-16-5620-i7-n6i7009w1,Laptop,Dell
+Dell Inspiron 15 3520 i5 1235U (i5U085W11BLU),16090000,18990000,15,9,Inspiron,https://www.thegioididong.com/laptop/dell-inspiron-15-3520-i5u085w11blu,Laptop,Dell
+Dell Inspiron 15 3520 i3 1215U (71003264),12990000,14490000,10,0,Inspiron,https://www.thegioididong.com/laptop/dell-inspiron-3520-i3-71003264,Laptop,Dell
+Dell Vostro 3510 i5 1135G7 (P112F002BBL),16790000,22990000,26,71,Vostro,https://www.thegioididong.com/laptop/dell-vostro-3510-i5-p112f002bbl,Laptop,Dell
+Dell Vostro 3520 i3 1215U (V5I3614W1),12490000,13990000,10,14,Vostro,https://www.thegioididong.com/laptop/dell-vostro-3520-i3-v5i3614w1,Laptop,Dell
+Dell Vostro 5620 i5 1240P (V6I5001W1),17990000,20190000,10,20,Vostro,https://www.thegioididong.com/laptop/dell-vostro-5620-i5-v6i5001w1,Laptop,Dell
+Dell Vostro 15 3520 i5 1235U (5M2TT2),16790000,19490000,13,10,Vostro,https://www.thegioididong.com/laptop/dell-vostro-15-3520-i5-5m2tt2,Laptop,Dell
+Dell Vostro 5620 i5 1240P (70282719),22990000,24990000,8,10,Vostro,https://www.thegioididong.com/laptop/dell-vostro-5620-i5-70282719,Laptop,Dell
+Dell Vostro 5620 i5 1240P (70296963),21990000,25490000,13,9,Vostro,https://www.thegioididong.com/laptop/dell-vostro-5620-i5-70296963,Laptop,Dell
+Dell Vostro 5630 i5 1340P (i5P085W11GRU),21990000,23190000,5,0,Vostro,https://www.thegioididong.com/laptop/dell-vostro-5630-i5-i5p085w11gru,Laptop,Dell
+Dell Vostro 3400 i7 1165G7 (V4I7015W1),21590000,25190000,14,25,Vostro,https://www.thegioididong.com/laptop/dell-vostro-3400-i7-v4i7015w1,Laptop,Dell
+Dell XPS 17 9710 i7 11800H (XPS7I7001W1),64490000,71490000,9,0,XPS,https://www.thegioididong.com/laptop/dell-xps-17-9710-i7-xps7i7001w1,Laptop,Dell
+Dell Gaming Alienware m15 R6 i7 11800H (P109F001DBL),47490000,61990000,23,0,Alienware,https://www.thegioididong.com/laptop/dell-gaming-alienware-m15-r6-i7-p109f001dbl,Laptop,Dell
+Dell Gaming G15 5511 i5 11400H (70266676),21990000,27490000,20,27,Gaming G-series,https://www.thegioididong.com/laptop/dell-gaming-g15-5511-i5-70266676,Laptop,Dell
+Dell Gaming G15 5530 i7 13650HX (i7H165W11GR4060),41990000,42990000,0,0,Gaming G-series,https://www.thegioididong.com/laptop/dell-gaming-g15-5530-i7-i7h165w11gr4060,Laptop,Dell
+Dell Gaming G15 5530 i7 13650HX (i7H165W11GR4050),39990000,41190000,0,0,Gaming G-series,https://www.thegioididong.com/laptop/dell-gaming-g15-5530-i7-i7h165w11gr4050,Laptop,Dell
+MSI Modern 14 C11M i3 1115G4 (011VN),10990000,11990000,8,16,Modern,https://www.thegioididong.com/laptop/msi-modern-14-c11m-i3-011vn,Laptop,Msi
+MSI Modern 15 A5M R7 5700U (237VN),12490000,14990000,16,36,Modern,https://www.thegioididong.com/laptop/msi-modern-15-a5m-r7-237vn,Laptop,Msi
+MSI Modern 15 B7M R5 7530U (231VN),13990000,14990000,6,4,Modern,https://www.thegioididong.com/laptop/msi-modern-15-b7m-r5-231vn,Laptop,Msi
+MSI Modern 14 C7M R5 7530U (083VN),13490000,13990000,0,4,Modern,https://www.thegioididong.com/laptop/msi-modern-14-c7m-r5-083vn,Laptop,Msi
+MSI Modern 14 C13M i7 1355U (607VN),19790000,21490000,7,0,Modern,https://www.thegioididong.com/laptop/msi-modern-14-c13m-i7-607vn,Laptop,Msi
+MSI Modern 15 B13M i5 1335U (438VN),16790000,18490000,9,0,Modern,https://www.thegioididong.com/laptop/msi-modern-15-b13m-i5-438vn,Laptop,Msi
+MSI Gaming GF63 Thin 11SC i5 11400H (664VN),15490000,16490000,6,28,Cyborg/Thin GF,https://www.thegioididong.com/laptop/msi-gaming-gf63-thin-11sc-i5-664vn,Laptop,Msi
+MSI Gaming GF63 Thin 11UC i5 11400H (1230VN),17990000,19490000,7,13,Cyborg/Thin GF,https://www.thegioididong.com/laptop/msi-gaming-gf63-thin-11uc-i5-1230vn,Laptop,Msi
+MSI Gaming GF63 Thin 11UC i7 11800H (1228VN),19690000,20990000,6,16,Cyborg/Thin GF,https://www.thegioididong.com/laptop/msi-gaming-gf63-thin-11uc-i7-1228vn,Laptop,Msi
+MSI Gaming Cyborg 15 A12UCX i5 12450H (281VN),19290000,19990000,0,3,Cyborg/Thin GF,https://www.thegioididong.com/laptop/msi-gaming-cyborg-15-a12ucx-i5-281vn,Laptop,Msi
+MSI Gaming GF63 Thin 12VE i5 12450H (460VN),21490000,22490000,0,0,Cyborg/Thin GF,https://www.thegioididong.com/laptop/msi-gaming-gf63-thin-12ve-i5-460vn,Laptop,Msi
+MSI Gaming Cyborg 15 A12VF i7 12650H (267VN),29490000,30490000,0,0,Cyborg/Thin GF,https://www.thegioididong.com/laptop/msi-gaming-cyborg-15-a12vf-i7-267vn,Laptop,Msi
+MSI Gaming Cyborg 15 A12VE i7 12650H (240VN),26990000,27490000,0,0,Cyborg/Thin GF,https://www.thegioididong.com/laptop/msi-cyborg-15-a12ve-i7-240vn,Laptop,Msi
+MSI Gaming GF63 Thin 11UD i7 11800H (648VN),21490000,26490000,18,15,Cyborg/Thin GF,https://www.thegioididong.com/laptop/msi-gaming-gf63-thin-11ud-i7-648vn,Laptop,Msi
+MSI Gaming GF65 Thin 10UE i5 10500H (286VN),20990000,29490000,28,9,Cyborg/Thin GF,https://www.thegioididong.com/laptop/msi-gaming-gf65-thin-10ue-i5-286vn,Laptop,Msi
+MSI Gaming Katana 15 B13VEK i7 13620H (252VN),30990000,32990000,6,0,Katana GF Series,https://www.thegioididong.com/laptop/msi-gaming-katana-15-b13vek-i7-252vn,Laptop,Msi
+MSI Gaming GS66 Stealth 11UG i7 11800H (219VN),50990000,64990000,21,0,GS Stealth,https://www.thegioididong.com/laptop/msi-gaming-gs66-stealth-11ug-i7-219vn,Laptop,Msi
+MSI Summit E14 Flip Evo A12MT i7 1280P (210VN),28990000,30990000,6,0,Summit,https://www.thegioididong.com/laptop/msi-summit-e14-flip-evo-a12mt-i7-210vn,Laptop,Msi
+MSI Summit E14 Evo A12M i7 1280P (211VN),23990000,25990000,7,0,Summit,https://www.thegioididong.com/laptop/msi-summit-e14-evo-a12m-i7-211vn,Laptop,Msi
+Gigabyte Gaming G5 i5 12500H (GE-51VN263SH),19990000,19990000,0,0,,https://www.thegioididong.com/laptop/gigabyte-gaming-g5-i5-ge-51vn263sh,Laptop,Gigabyte
+Gigabyte Gaming G5 i5 12500H (GE-51VN213SH),20990000,20990000,0,0,,https://www.thegioididong.com/laptop/gigabyte-gaming-g5-i5-ge-51vn213sh,Laptop,Gigabyte
+Surface Pro 9 i7 1255U,44990000,44990000,0,0,,https://www.thegioididong.com/laptop/surface-pro-9-i7,Laptop,Surface
+Surface Pro 9 i5 1235U,29990000,29990000,0,0,,https://www.thegioididong.com/laptop/surface-pro-9-i5,Laptop,Surface
+itel SPIRIT 1 i3 8109U (71006300035),4990000,5590000,10,54,,https://www.thegioididong.com/laptop/itel-spirit-1-i3-71006300035,Laptop,Itel
+Itel Spirit 2 i5 1155G7 (71006300202),12990000,13490000,0,0,,https://www.thegioididong.com/laptop/itel-spirit-2-i5-71006300202,Laptop,Itel
+Itel Spirit 2 i3 1115G4 (71006300240),10290000,10790000,0,0,,https://www.thegioididong.com/laptop/itel-spirit-2-i3-71006300240,Laptop,Itel
+itel ABLE 1S N4020 (71006300027),5490000,8990000,38,39,,https://www.thegioididong.com/laptop/itel-able-1s-n4020-71006300027,Laptop,Itel
+Masstel E140 N4120,5490000,5490000,0,6,,https://www.thegioididong.com/laptop/masstel-e140-n4120,Laptop,Masstel
+Masstel E116 N4020,3990000,3990000,0,21,,https://www.thegioididong.com/laptop/masstel-e116-n4020,Laptop,Masstel
+LG gram 2023 i7 1360P (17Z90R-G.AH78A5),50990000,50990000,0,0,Gram,https://www.thegioididong.com/laptop/lg-gram-2023-i7-17z90rgah78a5,Laptop,Lg
+LG gram 2023 i7 1360P (16Z90R-G.AH76A5),46990000,46990000,0,0,Gram,https://www.thegioididong.com/laptop/lg-gram-2023-i7-16z90rgah76a5,Laptop,Lg
+LG gram 2023 i7 1360P (14Z90R-G.AH75A5),38990000,38990000,0,0,Gram,https://www.thegioididong.com/laptop/lg-gram-2023-i7-14z90rgah75a5,Laptop,Lg
+LG gram Style 2023 i5 1340P (14Z90RS-G.AH54A5),38990000,38990000,0,0,Gram,https://www.thegioididong.com/laptop/lg-gram-style-2023-i5-14z90rsgah54a5,Laptop,Lg
+LG gram 2023 i5 1340P (14Z90R-G.AH53A5),32490000,32490000,0,0,Gram,https://www.thegioididong.com/laptop/lg-gram-2023-i5-14z90rgah53a5,Laptop,Lg
