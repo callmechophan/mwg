@@ -1,0 +1,4 @@
+pandas==2.0.1
+plotly==5.14.1
+selenium==4.9.1
+pyspark==3.4.0
